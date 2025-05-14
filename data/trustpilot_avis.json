@@ -1,0 +1,2543 @@
+{
+  "www.expansia.paris": [
+    {
+      "auteur": "Pierre",
+      "note": "4",
+      "date": "2025-03-04",
+      "titre": "un problème résolu en urgence",
+      "contenu": "Nous étions en pleine expansion et avons rencontré un problème majeur : nos outils actuels ne nous permettaient plus de gérer efficacement l’augmentation du nombre d’apprenants. En urgence, nous avons fait appel à cette agence pour migrer vers un CRM plus robuste. Le défi a été relevé non sans difficulté malgrès tout : en 2 semaines, tout a était misen place, nos données ont été sécurisées et nous avons pu continuer à croître sans interruption. je suis satisfait dans l'ensemble !"
+    },
+    {
+      "auteur": "Thomas Durant",
+      "note": "5",
+      "date": "2025-03-02",
+      "titre": "expertise concise et positives",
+      "contenu": "Service de qualité ! J'avais besoin d'un CRM simple et efficace pour gerer les inscriptions et le suivi pédagogique de nos apprenants. En quelques semaines, tout a été installé et mes équipes ont été formées. Je recommande !"
+    },
+    {
+      "auteur": "Julien",
+      "note": "2",
+      "date": "2025-02-20",
+      "titre": "Expérience mitigée avec des points d’amélioration",
+      "contenu": "Le CRM mis en place fonctionne bien, et nous avons gagné en organisation. Cependant, j’aurais aimé un accompagnement plus poussé sur la personnalisation de certains modules. J’ai dû solliciter un autre prestataire pour finaliser certains paramétrages avancés. Globalement, le service était bon, mais quelques ajustements auraient permis une prestation parfaite."
+    },
+    {
+      "auteur": "PseudoInvest",
+      "note": "5",
+      "date": "2025-01-20",
+      "titre": "Un impact immédiat sur la croissance de mon groupe",
+      "contenu": "intégrant cet organisme de formation à mes activités, j’ai immédiatement boosté le chiffre d’affaires de mon groupe. Le fait que la structure soit déjà rentable a permis une transition en douceur, tout en offrant des perspectives d’expansion intéressantes."
+    },
+    {
+      "auteur": "Laurent",
+      "note": "5",
+      "date": "2025-01-19",
+      "titre": "Un secteur porteur avec un fort potentiel",
+      "contenu": "Le marché de la formation professionnelle m’a toujours attiré, mais démarrer une activité de zéro me semblait risqué. En reprenant cet organisme clé en main, j’ai immédiatement bénéficié d’une demande croissante. Ce secteur est une mine d’opportunités pour qui sait le valoriser."
+    },
+    {
+      "auteur": "Julie Ventura",
+      "note": "5",
+      "date": "2025-01-19",
+      "titre": "Un accompagnement structuré lors de la reprise",
+      "contenu": "Ce qui m’a convaincue, c’est l’accompagnement proposé par l’ancien dirigeant. Il a pris le temps de me transmettre toutes les clés pour assurer une passation réussie. Grâce à cette transition fluide, j’ai pris rapidement confiance dans mon rôle de nouvelle propriétaire."
+    },
+    {
+      "auteur": "Véronique",
+      "note": "4",
+      "date": "2025-01-19",
+      "titre": "Une notorété déjà établie",
+      "contenu": "Reprendre une structure avec une excellente réputation m'a permis de gagner rapidement la confiance des clients. Je n'ai pas eu besoin de reconstruire une image de marque, ce qui a grandement facilité la transition. Cette base solide a été un vrai tremplin pour accélérer les ventes."
+    },
+    {
+      "auteur": "Clara",
+      "note": "5",
+      "date": "2025-01-18",
+      "titre": "Un modèle économique attractif",
+      "contenu": "Je cherchais un investissement offrant des revenus récurrents et un fort potentiel de croissance. Cet organisme correspondait parfaitement à mes attentes. En prenant le temps d’analyser la rentabilité et les flux financiers, j’ai pu sécuriser un achat à forte valeur ajoutée."
+    },
+    {
+      "auteur": "Jean-Luc Moreau",
+      "note": "5",
+      "date": "2025-01-16",
+      "titre": "Un investissement stratégique rentable",
+      "contenu": "En tant que dirigeant d’une PME en pleine croissance, l’idée de diversifier mes activités était une priorité. L’acquisition d’un organisme de formation clé en main s’est avérée être un excellent choix stratégique. Avec une structure fonctionnelle et des revenus prévisibles, j’ai pu dégager une rentabilité en quelques mois seulement."
+    },
+    {
+      "auteur": "Antoine Lefèvre",
+      "note": "5",
+      "date": "2025-01-15",
+      "titre": "Une équipe compétente et impliquée",
+      "contenu": "L'un des aspects les plus rassurants de cet achat a été de découvrir une équipe déjà automome et performante. Cela m'a permis de dàlàguer dès le dèpart les tâches opérationnelles et de me concentrer sur le développement stratégique. Leur engagement a fait toute la différence."
+    },
+    {
+      "auteur": "Marc Dorian",
+      "note": "5",
+      "date": "2025-01-14",
+      "titre": "Un gain de temps précieux",
+      "contenu": "Gérer plusieurs entreprises est déjà un défi, alors monter une structure de formation de zéro était hors de question. L'achat d'un organisme clé en main m'a fait gagner un temps considérable. j'ai pu me concentrer directement sur la stratégie de croissance sans perdre des mois à structurer l'activité."
+    },
+    {
+      "auteur": "Sophie",
+      "note": "4",
+      "date": "2025-01-15",
+      "titre": "Une transition professionnelle réussie",
+      "contenu": "Après 20 ans dans le secteur bancaire, j’avais besoin de me réinventer. Reprendre cet organisme clé en main a été une opportunité en or : tout était prêt, des process aux équipes. J’ai pu rapidement m’intégrer et apporter ma propre vision pour développer de nouvelles offres. Un vrai tournant dans ma carrière."
+    },
+    {
+      "auteur": "Antoine Delmas",
+      "note": "5",
+      "date": "2024-10-12",
+      "titre": "Une vente menée avec succès et en toute discrétion",
+      "contenu": "La vente de mon organisme de formation nécessitait discrétion et expertise, et j'ai été parfaitement accompagné dans ce processus. La négociation s'est faite avec soin, les potentiels acheteurs ont été sélectionnés avec attention, et la transition a été organisée de manière fluide. Tout s'est fait dans le respect des délais, sans perturber mes équipes ou mes clients"
+    },
+    {
+      "auteur": "Romain Vidal",
+      "note": "5",
+      "date": "2024-10-12",
+      "titre": "Une transition numérique parfaitement orchestrée",
+      "contenu": "Nous devions digitaliser nos formations pour répondre aux attentes actuelles, mais nous ne savions pas comment nous y prendre. Grâce à un accompagnement précis et des outils adaptés, nous avons pu transformer nos modules en formations en ligne interactives et efficaces. La digitalisation a également facilité la gestion administrative et logistique de nos cours. Cette transformation a donné un nouveau souffle à notre organisme."
+    },
+    {
+      "auteur": "Elise Reynaud",
+      "note": "4",
+      "date": "2024-10-11",
+      "titre": "Une acquisition sans surprise et bien planifiée",
+      "contenu": "Acquérir un organisme de formation est un investissement important, mais l'accompagnement que j'ai reçu m'a permis de naviguer en toute confiance à travers les différentes étapes. L'analyse des risques, la gestion des contrats et l'intégration de l'équipe ont été parfaitement orchestrées. Aujourd'hui, cet organisme est intégré dans mes activités, et la transition s'est faite sans heurts."
+    },
+    {
+      "auteur": "Claire Boulanger",
+      "note": "4",
+      "date": "2024-10-11",
+      "titre": "Une formation RNCP développée et reconnue",
+      "contenu": "J'ai été accompagnée dans le développement d'une nouvelle formation destinée à obtenir une certification RNCP.\nL'accompagnement a été exceptionnel, de la conception du programme à la constitution du dossier de demande de certification. Grâce â cette collaboration, ma formation est désormais inscrite au RNCP, ce qui a immédiatement renforcé sa crédibilité et attiré de nouveaux apprenants"
+    },
+    {
+      "auteur": "Stéphane Garnier",
+      "note": "5",
+      "date": "2024-10-07",
+      "titre": "Une acquisition d'organisme de formation réussie",
+      "contenu": "L'acquisition d'un organisme de formation était un défi pour moi, mais l'accompagnement que j'ai reçu a été décisif. De la due diligence à l'intégration des équipes, tout a été pensé pour garantir une transition sans heurts. Cette acquisition a permis à mon entreprise de se développer rapidement et d'élargir son offre de services. Je recommande vivement cet accompagnement pour toute acquisition complexe."
+    },
+    {
+      "auteur": "Olivier Marin",
+      "note": "4",
+      "date": "2024-10-04",
+      "titre": "Une certification Qualiopi obtenue sans encombre",
+      "contenu": "Je redoutais l'audit Qualiopi et les critères complexes, mais l'accompagnement que j'ai reçu m'a permis de préparer parfaitement tous les aspects de la certification. Chaque détail a été examiné en profondeur, et j'ai été guidé tout au long du processus. Grâce à ce soutien, mon organisme a obtenu la certification Qualiopi dès la première tentative, ce qui a renforcé notre réputation et nos partenariats"
+    },
+    {
+      "auteur": "Gabrielle Lefèvre",
+      "note": "4",
+      "date": "2024-10-04",
+      "titre": "Amélioration de la gestion financière et réduction des coûts",
+      "contenu": "L'acquisition a permis une meilleure gestion financière grâce à la consolidation de nos ressources et àla réduction des coûts opérationnels. En intégrant les systèms financiers de l'organisme acquis, nous avons optimisé nos dépenses et amélioré notre rentabilité. Cette efficacité zccrue nous a donné la flexibilité nécessaire pour investir davantage dans le développement de nouveaux programmes de formation."
+    },
+    {
+      "auteur": "Élise Simon",
+      "note": "5",
+      "date": "2024-10-04",
+      "titre": "Innovation pédagogique grâce àdes méthodes éprouvées",
+      "contenu": "L'intégration de cet organisme de formation nous a permis d'adopter des méthodes pédagogiques innovantes et éprouvées. Les techniques d'apprentissage interactives et les outils numériques développés par l'équipe acquise ont enrichi notre approche éducative. Cette innovation a rendu nos programmes plux attractifs et efficaaces, augmentant ainsi le taux de réussite et la satisfaction des apprenants."
+    },
+    {
+      "auteur": "Mathilde Roussel",
+      "note": "5",
+      "date": "2024-10-04",
+      "titre": "Un accompagnement impeccable pour vendre mon organisme de formation",
+      "contenu": "Vendre mon organisme de formation n'était pas une mince affaire, mais grâce à l'accompagnement sur mesure que j'ai reçu, tout s'est déroulé de manière fluide et professionnelle. Chaque étape, de l'évaluation de la valeur de l'entreprise à la transition finale, a été gérée avec une précision exceptionnelle. Je suis extrêmement satisfaite de la vente et du résultat obtenu."
+    },
+    {
+      "auteur": "Thibault Bernard",
+      "note": "4",
+      "date": "2024-10-03",
+      "titre": "Un virage numérique réussi",
+      "contenu": "La digitalisation de nos formations était un impératif pour rester compétitif, mais nous ne savions pas comment nous y prendre. L'accompagnement reçu nous a permis de transformer rapidment notre catalogue en formation à distance. Les outils numériques proposés ont rendu nos sessions plus interactives et accessibles à un public plus large. Nos formateurs ont également gagné en productivité grâce à cette transition numérique."
+    },
+    {
+      "auteur": "Pauline Moreau",
+      "note": "5",
+      "date": "2024-10-03",
+      "titre": "Développement Commercial accéléré",
+      "contenu": "Mon organisme de formation stagnait commercialement, mais grâce à l'accompagnement stratégique reçu, nous avons pu redéfinir notre approche. En quelques mois, nous avons mis en place des actions concrètes qui ont permis d'attirer plus de clients et de générer de nouveaux partenariats. Le développement commercial a été bien plus rapide que ce que j'imaginais, et je recommande cet accompagnement à tout organisme cherchant à se développer."
+    },
+    {
+      "auteur": "Florence Lambert",
+      "note": "4",
+      "date": "2024-10-03",
+      "titre": "Une vente discrète et bien gérée",
+      "contenu": "Lorsque j'ai décidé de vendre mon organisme de formation, je souhaitais que cela se fasse de manière discrète, sans perturber mes équipes ni mes clients. L'accompagnement que j'ai reçu a assuré une gestion fluide et professionnelle de la transaction. Les acheteurs potentiels ont été sélectionnés avec soin, et la négociation s'est faite dans la plus grande discrétion. Cela m'a permis de quitter l'entreprise en toute tranquillité."
+    },
+    {
+      "auteur": "Charlotte Rousseau",
+      "note": "4",
+      "date": "2024-10-03",
+      "titre": "Un accompagnement commercial qui a tout changé",
+      "contenu": "Notre organisme avait du mal à se démarquer sur le marché très concurrentiel de la formation. Grâce à l'accompagnement reçu, nous avons pu redéfinir notre stratégie commerciale, en identifiant de nouveaux segments de marché et en renforçant notre présence en ligne. Cette nouvelle approche nous a permis d'attirer un plus grand nombre de clients et d'augmenter notre chiffre d'affaires. Le développement commercial a été plus rapide que prévu."
+    },
+    {
+      "auteur": "Camille Girard",
+      "note": "5",
+      "date": "2024-10-02",
+      "titre": "Un accompagnement clé pour développer une formation RNCP",
+      "contenu": "Je souhaitais que mon organisme de formation propose une formation inscrite au RNCP, mais je ne savais pas par où commencer. Grâce à un accompagnement adapté, j'ai pu monter un dossier solide et structurer ma formation de manière à répondre aux exigences du RNCP. Aujourd'hui, ma formation est reconnue, ce qui a considérablement renforcé notre réputation et attiré plus d'apprenants. Ce processus a été un vrai succès."
+    },
+    {
+      "auteur": "Alice Dupuis",
+      "note": "5",
+      "date": "2024-09-17",
+      "titre": "Optimisation des ressources humaines grâce à une acquisition stratégique",
+      "contenu": "L'acquisition de notre organisme de formation nous a permis d'optimiser nos ressources humaines. En intégrant les talents de l'équipe acquise, nous avons enrichi notre pôle de compétences internes. Cette synergie a non seulement amélioré notre capacité à répondre aux besoins de nos clients, mais a également favorisé un environnement de travail plus collaboratif et innovant. L'intégration des nouveaux collaborateurs s'est faite en douceur, renforçant ainsi notre culture d'entreprise."
+    },
+    {
+      "auteur": "Daniel Rousseau",
+      "note": "5",
+      "date": "2024-09-16",
+      "titre": "Renforcement de la gouvernance et de la conformite",
+      "contenu": "L'acquistion a été l'opportunite idéale pour renforcer notre gouvernance et assurer une meilleure conformité réglementaire. L'organisme acquis disposait déja de solides pratiques en matiére de gestion et de conformité, que nous avons pu intégrer a nos propres processus. Cela a non seulement amélioré notre efficacité opérationnelle, mais a également renforcé la confiance de nos partenaires et clients enverts notre organisation."
+    },
+    {
+      "auteur": "Caroline Morel",
+      "note": "5",
+      "date": "2024-09-16",
+      "titre": "Amélioration de la satisfaction client par une offre diversifiée",
+      "contenu": "En faisant I'acquisition d'organisme existant , nous avons pu diversifier notre offre de formation, couvrant désormais un éventail plus large de domaines. Cette diversification a directement amélioré la satisfaction de nos clients, qui bénéficient désormais d solutions plus adeptées a leurs besoins specifiques. La variete des programmes proposés a également attiré une nouvelle positionnement sur le marché."
+    },
+    {
+      "auteur": "Jérôme Charpentier",
+      "note": "5",
+      "date": "2024-09-14",
+      "titre": "Développement durable et responsabilité sociétable intégrés",
+      "contenu": "L'acquisition nous a offert l'opportunite d'intégrer des pratiques commerciale et administrative au sein de notre organisme de formation. L'équipe acquise apportait déjà des initiatives que nous avons pu étendre et formaliser. Cette intégration a non seulement amélioré notre développement, renforcant ainsi notre position sur notre marché"
+    },
+    {
+      "auteur": "Hugo Bernard",
+      "note": "5",
+      "date": "2024-09-13",
+      "titre": "Accès à un réseau de partenaires élargi",
+      "contenu": "L'acquisition de cet organisme de formation nous a permis d'acceder à un réseau de partenaires élargi, incluant des entreprises, des institutions académiques et des experts de divers secteurs. Ce réseau renforce a facilité la création de collaborations stratégiques, enrichissant ainsi notre offre de formation et ouvrant de nouvelles opportunités de développement. Ces partenariats ont également amélioré notre visibilité et notre crédibilité sur le marché."
+    },
+    {
+      "auteur": "François viant",
+      "note": "5",
+      "date": "2024-09-12",
+      "titre": "Une négociation avantageuse et bien menée",
+      "contenu": "Lors de l'acquisition, la négociation des termes a été cruciale. Grâce à une stratégie bien pensée, nous avons réussi à obtenir des conditions très avantageuses, ce qui a non seulement réduit les coûts d'acquisition, mais aussi permis d'intégrer l'organisme sans compromettre nos finances. Cette approche a été déterminante pour la rentabilité de l'opération."
+    },
+    {
+      "auteur": "Valérie Durand",
+      "note": "4",
+      "date": "2024-09-11",
+      "titre": "Un transfert de savoir-faire de qualité",
+      "contenu": "L'acquisition de notre organisme de formation a permis de transférer un savoir-faire unique au sein de notre structure. Les experts en place ont été intégrés de manière transparente, ce qui nous a permis de bénéficier immédiatement de leur expertise. Ce transfert a non seulement enrichi notre offre, mais a aussi renforcé la compétence de notre équipe. Cette opération a été une vraie réussite pour le développement de nos compétences internes."
+    },
+    {
+      "auteur": "Lucie Renard",
+      "note": "5",
+      "date": "2024-09-10",
+      "titre": "Une transaction rapide et sans accroc",
+      "contenu": "L'acquisition de notre organisme de formation s'est déroulée à une vitesse impressionnante. Grâce à une coordination impeccable, toutes les étapes ont été franchies sans le moindre retard. Les délais ont été respectés, ce qui nous a permis de prendre rapidement les rênes et de commencer à travailler sur nos objectifs de croissance. Je n'ai jamais connu une transaction aussi fluide."
+    },
+    {
+      "auteur": "Thomas Lescure",
+      "note": "5",
+      "date": "2024-09-10",
+      "titre": "Renforcement de notre offre de formation",
+      "contenu": "L'acquisition nous a permis d'élargir considérablement notre offre de formation. En intégrant les programmes de l'organisme acquis, nous avons pu diversifier notre catalogue et répondre à de nouveaux besoins sur le marché. Cette expansion de notre offre a attiré de nouveaux clients et a renforcé notre positionnement comme leader dans le domaine de la formation professionnelle"
+    },
+    {
+      "auteur": "Nicolas Lefebvre",
+      "note": "4",
+      "date": "2024-09-08",
+      "titre": "Un partenaire de choix pour l'acquisition d'un centre de formation",
+      "contenu": "Expansia.paris nous a acconpagnés dans l'acquisition d'un centre de formation, et leur expertise a été cruciale pour la réussite de cette opération. Ils nous ont aidés à évaluer la valeur de l'organisme, à négocier les termes de l'acquisition, et à intégrer léquipe existante. Leur approache a été à la fois stratégique et humaine, ce qui a permis une transition en douceur pour toutes les parties concernées. Je recommande vivement Expansia.paris à toute entreprise cherchant à grandir par acquisition."
+    },
+    {
+      "auteur": "Marie Duval",
+      "note": "5",
+      "date": "2024-09-08",
+      "titre": "Référencement EDOF: in parcours simplifié grâce Expansia.paris",
+      "contenu": "Je souhaitais référencer mes formations sur la portail EDOF, mais je ne savais pas par où commencer. Heureusement, Expansia.paris a pris les choses en main. Leur équipe m'a guidé à travers toute les étapes du processus, m'aidant à comprendre les exigences et à remplir les documents nécessaires. Grâce à leur accopagnment, j'ai pu obtenir mon référencement sans encombre, ce qui m'a permis d'attirer de nouveaux apprenants. Leur soutien a été inestimable pour mon organisme de formation."
+    },
+    {
+      "auteur": "Julien Lefevre",
+      "note": "5",
+      "date": "2024-09-08",
+      "titre": "Un partenaire de confiance pour développer des formations impactantes",
+      "contenu": "Quad j'ai cherché un partenaire pour m'aider à développer des formations professionelles impactantes, Expansia.paris s'est imposé choix idéal. Leur compréhension fine des enjeux de la formation, combinée à leur capacité à concevoir des modules pertinents, ma's permis de créer des programes qui répondent parfaitement auv attentes de mes apprenanrs. Leur accompagnement a été structuré, méthodique, et les résutats sont là : mes formations ont gagné en qualité et en efficacité. Je recommande vivement Expansia.paris à toute personne cherchant à exceller dans la formation professionelle."
+    },
+    {
+      "auteur": "Isabelle Bernard",
+      "note": "5",
+      "date": "2024-09-08",
+      "titre": "Une transition numérique accélérée",
+      "contenu": "L'acquisition de cet organisme de formation a été l'occasion d'accélérer notre transition numérique. En intégrant les outils numériques et les pratiques innovantes de l'organisme acquis, nous avons modernisé nos processus de formation et amélioré l'expérience de nos apprenants. Cette modernisation a également ouvert de nouvelles opportunités de marché, renforçant notre position dans le secteur"
+    },
+    {
+      "auteur": "Isabelle Duchêne",
+      "note": "4",
+      "date": "2024-09-07",
+      "titre": "Un accompganement clé dans l'acquisition d'un organisme de formation",
+      "contenu": "La'accquisition d'un organisme de formatio est une opértaion complexe, et Expansia.paris nous a accompagnés de manière exemplaire. Leur équipe a su identifier lea risques potentiels, négocier les termes du rachat, et faciliter l'intégration post-acquistion. Leur approache est à la fois rigoureuse et pragmatique, ce qui a permis une transition harmonieuse et efficace. Je recommande Expansia.paris à toute enterprise souhaitant se développer par l'acquisition dans le secture de la formation."
+    },
+    {
+      "auteur": "Laura Vincent",
+      "note": "5",
+      "date": "2024-09-07",
+      "titre": "Un soutien essentiel pour la conformité Qualiopi",
+      "contenu": "Le chemin vers la certification Qualiopi peut être ardu, mais Expansia.paris a su simplifier ce parcours pour nous. Leur accompagnement a couvert tous les aspects de la certification, depuis l'audit interne jusqu'à la mise en conformité de nos processus. Leur expertise nous a permis de passer l'audit avec succès, et de renforcer notre position sur le marché. Je ne peuc que recommander Expansia.paris à toute organisation cherchant à obtenir ou maintenir se certification Qualiopi."
+    },
+    {
+      "auteur": "Julien Niel",
+      "note": "5",
+      "date": "2024-09-07",
+      "titre": "Valorisation des talents internes",
+      "contenu": "Lors de l'acquisition, l'une de nos priorités était de valoriser les talents existants au sein de l'organisme de formation. En prenant le temps de comprendre les compétences et les aspirations des employés, nous avons pu réaffecter les talents là où ils étaient le plus efficaces. Cela a non seulement renforcé notre équipe, mais a également permis aux employés de s'épanouir dans de nouveaux rôles."
+    },
+    {
+      "auteur": "Claire Fontaine",
+      "note": "5",
+      "date": "2024-09-06",
+      "titre": "Expansion géographique réussie",
+      "contenu": "Cette acquisition nous a offert une opportunité unique d'étendre notre présence géographique. Grâce à une planification stratégique et à une compréhension fine des dynamiques locales, nous avons pu intégrer l'organisme dans notre réseau existant sans perturber les opérations en cours. Aujourd'hui, nous bénéficions d'une base solide pour notre expansion future."
+    },
+    {
+      "auteur": "Marc Blanchard",
+      "note": "5",
+      "date": "2024-09-04",
+      "titre": "Confidentialité et discrétion absolues",
+      "contenu": "L'acquisition d'un organisme de formation est une opération délicate, surtout en ce qui concerne la confidentialité. Tout au long du processus, nous avons été impressionnés par le respect strict de la discrétion. Aucun détail n'a filtréavant avant que nous soyons préts à communiquer publiquement, ce qui a été crucial pour maintenir la stabilité de l'équipe en place et la confiance de nos partenaires."
+    },
+    {
+      "auteur": "Nicolas Lefebvre",
+      "note": "4",
+      "date": "2024-09-03",
+      "titre": "Un partenaire de choix pour l'acquisition d'un centre de formation",
+      "contenu": "Expansia.paris nous a accompgnés dans l'acquisition d'un centre de formation, et leur expertise a été cruciale\npour la réussite de cette opération. Ils nous ont aidés à évaluer la valeur de l'organisme, à négocier les termes de l'acquisition, et à intégrer l'équipe existante. Leur approche a été à la fois stratégique et humaine, ce qui a permis une transition en douceur pour toutes les parties concernées. Je recommende vivement Expensia.paris à toute enterprise cherchant à gramdir par acquisition."
+    },
+    {
+      "auteur": "Julien Lefevre",
+      "note": "5",
+      "date": "2024-09-02",
+      "titre": "Un partenaire de confiance pour développer des formations impactantes",
+      "contenu": "Quand J'ai cherché un partenaire pour m'aider à développer des formations professionnelles impactantes, Ecpansia.paris s'est imposé comme le choix idéal. Leur compréhension fine des enjeux de la formation, combinée à leur capacité à concevoir des modules pretinents, m'a permis de créer des programmes qui répondent parfaitement aux attentes de mes apprenants. Leur accompagenement a été structure, méthodique, et les résultats sont là ; mes formations ont gagné en qualité et en qualité et en efficacité . Je recommande vivement Expansia.paris à toute personne cherchant à exceller dans la formation professionnelle"
+    },
+    {
+      "auteur": "Mark",
+      "note": "4",
+      "date": "2024-08-29",
+      "titre": "Assitance précieuse lors d'un contrôle DREETS",
+      "contenu": "Un contle de la DREETS peut tre intimidant, mais Expansia.paris nous a fourni un accompagnement rassurant et efficace. Leur équipe a pris le temps de réviser nos documents et nos pratiques, s'assurant que tout était conforme avant le jour du contrôe. Leur préparation et leur présence à nos ctés ont été cruciales pour férer cette situation avec calme et professionnalisme, Grcâe à eux, nous avons passé le contrôle sans encombre et avec confiance. Je recommande Expansia. paris à tous les organismes de formation."
+    },
+    {
+      "auteur": "Marc Dellattre",
+      "note": "5",
+      "date": "2024-08-28",
+      "titre": "Un accompagnement expert pour obtenir Qualiopi",
+      "contenu": "L'obtention de la certification Qualiopi était un objectif stratégique pour notre organisme de formation, et nous avons choisi Expansia. paris pour nous accompagner. Leur connaissance approfondie des critéres des certification et leur approche méthodique ont été déterminantes pour notre succés. Ils nous ont guidés dans la mise en place des processus qualité et ont préparé notre équipe aux audits. Grâce leur expertise, nous avons obtenu notre certification sans aucun probléme."
+    },
+    {
+      "auteur": "Isabelle Duchêne",
+      "note": "4",
+      "date": "2024-08-28",
+      "titre": "Un accompagnement cle dans l'acquisition d'un organisme de formation",
+      "contenu": "L'acquisition d'UN organisme de formation est une opération complexe, et Expansia.paris nous a accompagnés de maniére exemplaire. Leur équipe a su identifier les risques potentiels, négocier les termes du rachat, et faciliter l'intégration post-acquisition. Leur approche est à la fois rigoureuse et progmatique, ce qui a permis une transition harmonieuse et efficace. Je recommande Expansia.paris a toute entreprise souhaitant se developper par l'acquisition dans le secteur de la formation."
+    },
+    {
+      "auteur": "Julien Martin",
+      "note": "5",
+      "date": "2024-08-26",
+      "titre": "Acquisition réussie d'un organisme de formation grace a Expansia.paris",
+      "contenu": "L'acquisition d'un organisme de formation est un processus complexe, mais grâce â l'accompagnement d'Expansia.paris, tout s'est déroulé sans accroc. Leur équipe a su m'orienter sur les aspects juridiques, financiers et administratifs, m'évitant ainsi des erreurs couteuses. Ils ont également assuré une transition en douceur avec l'équipe en place, ce qui a été essentiel pour maintenir la qualite des formations. Je suis extremement satisfait de leur service et je recommande Expansia.paris a toute personne souhaitant acquerir un organisme de formation."
+    },
+    {
+      "auteur": "Pierre Lemoine",
+      "note": "5",
+      "date": "2024-08-22",
+      "titre": "Un accompagnement Qualiopi",
+      "contenu": "J'étais un perdu face aux exigences de la certification Qualiopo, mais Expansia.paris m'a accompagné de A à Z dans ce processus. Leur expertise m'a permis de structurer mon organisme de formation de maniére à répondre parfaitement aux critéres de qualité exigés. Grâce à leur soutien, j'ai obtenu la certification du premier coup, et je me sens maintenant bien plus confiant dans la gestion de mon organisme. Je recommande vivement Expansia.paris pour tout ce qui touche à la certification Qualiopi."
+    },
+    {
+      "auteur": "Nathalie Petit",
+      "note": "4",
+      "date": "2024-08-22",
+      "titre": "Un accompagnement complet dans la conception de formations certifiantes",
+      "contenu": "Expansia.paris nous a accompgagés dans la conception et la mise en place de formations certifiantes. Leur expertise dans ce domaine a été déterminante pour garantir la qualité et la reconnaissance de nos formations. Ils ont su respecter les normes et les exigences requises, tout en approtant une touche d'innovation qui a fait la différence. Expansia.paris a été un partenaire essentiel pour mener à bien ce projet."
+    },
+    {
+      "auteur": "Lucien Robert",
+      "note": "4",
+      "date": "2024-08-22",
+      "titre": "Un partenaire clé pour la montée en compétences de nos équipes",
+      "contenu": "Nous avons travaillé avec Expansia,paris pour développer un programme de formation destiné à anéliorer les compétences techniques de nos équipes. leur expertise a été cruciale pour identifier les besoins spécifiques de notre entreprise et répondre de maniére ciblée. Les résultats ont été au rendez-vous : nos collaborateurs ont non seulement acquis de nouvelles compétences, mais ils se sentent également plus confiants dans leur travail quotidien. Expansia-paris a su se positionner comme un partenaire clé pour la réussite de notre programme de formation."
+    },
+    {
+      "auteur": "Élodie Laurent",
+      "note": "5",
+      "date": "2024-08-22",
+      "titre": "Un très bon soutien dans la digitalisation des formations",
+      "contenu": "Ce qui distingue Expansia.paris, c'est leur cpacité à innover dans le domaine de la formation professionnelle. Leurs modules sont non seulemet riches en contenu, mais aussi conçus pour capter l'attention des apprenants du début à la fin. Ils utilisent des méthodes pédagogiques modernes qui rendent l'apprentissage non seulement efficace, mais aussi agréable. Grâce à eux, nos formations ont gagné en popularité et en efficacité. Expansia.paris est définitivement un leader dans l'innovation pédagogique."
+    }
+  ],
+  "www.monportailpro.fr": [
+    {
+      "auteur": "Audrey Masson",
+      "note": "4",
+      "date": "2025-04-05",
+      "titre": "Une évolution professionnelle inattendue",
+      "contenu": "Des conseils précis et une écoute attentive. Cet accompagnement a été une véritable aide pour redéfinir ma trajectoire. Merci pour votre engagement !"
+    },
+    {
+      "auteur": "Nora Lefort",
+      "note": "5",
+      "date": "2025-04-05",
+      "titre": "Un regard expert qui change tout !",
+      "contenu": "J’avais besoin de changement mais me sentais perdue face aux choix. Ce bilan m’a permis de voir plus clair et de m’orienter vers un secteur qui correspond à mes valeurs : assistante medicaux so"
+    },
+    {
+      "auteur": "Marion Giraud",
+      "note": "4",
+      "date": "2025-04-02",
+      "titre": "Complet, structuré… et un peu rapide pour moi !",
+      "contenu": "Super accompagnement, un peu rapide pour moi, mais hyper complet ! Les tests sont tops."
+    },
+    {
+      "auteur": "Justine Perrot",
+      "note": "5",
+      "date": "2025-04-02",
+      "titre": "Un bilan de compétences ultra enrichissant!",
+      "contenu": "Je ne pensais pas qu’un bilan de compétences pouvait être aussi enrichissant. On ne m’a jamais jugée et ça m’a rassurée."
+    },
+    {
+      "auteur": "Lucie Carpentier",
+      "note": "5",
+      "date": "2025-03-24",
+      "titre": "Un vrai coup de boost",
+      "contenu": "Franchement, je ne savais plus où j'en étais et cet accompagnement m'a donnée vraie direction. Ma coach a su m'aider à reprendre confiance en mes capacité et à envisager des perspectives que je n'avais même pas envisagées. Très satisfaite !"
+    },
+    {
+      "auteur": "Hélène Martel",
+      "note": "4",
+      "date": "2025-03-23",
+      "titre": "Des outils concrets pour avancer",
+      "contenu": "J'ai apprécié la méthodologie proposée, avec des exercices et des supports concrets qui m'ont permis de mieux comprendre mes compétences et mes aspirations. Le suivi est sérieux, les échanges réguliers. Quelques points pourraient être améliorés, notamment plus de cas pratiques, mais dans l'ensemble, c'était efficace."
+    },
+    {
+      "auteur": "Élodie Marchand",
+      "note": "4",
+      "date": "2025-03-20",
+      "titre": "Une approche bienveillante",
+      "contenu": "Ce qui m’a le plus marqué dans l’accompagnement, c’est l’adaptabilité. Pas de discours standardisé, tout était personnalisé en fonction de mon parcours et de mes aspirations. Une expérience plus qu’enrichissante !"
+    },
+    {
+      "auteur": "Angelic Anya",
+      "note": "4",
+      "date": "2025-03-20",
+      "titre": "Nouvelles priorités",
+      "contenu": "Des outils simples mais efficaces ! J’ai adoré les exercices qui m’ont permis de réfléchir à mes priorités. Je recommande."
+    },
+    {
+      "auteur": "Isabelle Perrin",
+      "note": "4",
+      "date": "2025-03-19",
+      "titre": "Une approche humaine et efficace",
+      "contenu": "ma coach a su comprendre mes attentes et me proposer un accompagnement adapté à ma situation. Ce qui m’a le plus marqué, c’est l’écoute et la bienveillance des conseillers. Aujourd’hui, je me sens plus confiante et prête à franchir une nouvelle étape professionnelle."
+    },
+    {
+      "auteur": "Claire Richard",
+      "note": "4",
+      "date": "2025-03-18",
+      "titre": "Une redécouverte personnelle",
+      "contenu": "Réaliser ce bilan a été une véritable introspection pour moi. Ce n'était pas tant mon métier qui posait problème, mais le contexte dans lequel je l'exerçais. Cette prise de recul m'a amenée à reconsidérer mon environnement de travail plutôt que de changer de domaine, et ce choix a transformé ma vie professionnelle. Aujourd’hui, j’ai un poste similaire dans une entreprise où je me sens enfin reconnue et valorisée, et l’amélioration de mon bien-être au quotidien est indéniable."
+    },
+    {
+      "auteur": "Agnès Dupont",
+      "note": "4",
+      "date": "2025-03-18",
+      "titre": "Un vrai coup de boost pour ma carrière !",
+      "contenu": "Je traversais une période de doute sur mon avenir professionnel et ma coach m’a aidée à retrouver confiance en moi. Aujourd’hui, je sais où je veux aller et j’ai toutes les clés pour réussir. Encore un grand merci à toute l’équipe !"
+    },
+    {
+      "auteur": "Manon Leclerc",
+      "note": "5",
+      "date": "2025-03-17",
+      "titre": "Des opportunité très appréciable!",
+      "contenu": "Grâce à cet accompagnement, j’ai pu clarifier mes objectifs professionnels. J’ai découvert des opportunités que je n’aurais jamais envisagées seule. merci pour votre expertise !"
+    },
+    {
+      "auteur": "Élodie Marchand",
+      "note": "4",
+      "date": "2025-03-17",
+      "titre": "Une approche bienveillante",
+      "contenu": "Ce qui m’a le plus marqué dans l’accompagnement, c’est l’adaptabilité. Pas de discours standardisé, tout était personnalisé en fonction de mon parcours et de mes aspirations. Une expérience plus qu’enrichissante !"
+    },
+    {
+      "auteur": "Stéphanie Moreau",
+      "note": "5",
+      "date": "2025-03-17",
+      "titre": "Un vrai tremplin pour ma carrière",
+      "contenu": "Grâce au bilan, j’ai pris conscience de mes compétences en management. Avec l’accompagnement de ma coach, j’ai appris à mieux me positionner et, aujourd’hui, je gère une équipe. Ce n’est pas toujours facile, mais je suis fière de mon évolution et reconnaissante pour ce soutien."
+    },
+    {
+      "auteur": "Stéphanie Moreau",
+      "note": "5",
+      "date": "2025-03-16",
+      "titre": "Un vrai tremplin pour ma carrière",
+      "contenu": "Je suis passée d’un poste dans lequel je ne m’épanouissais plus à une fonction bien plus alignée avec mes compétences et mes aspirations. Sans cet accompagnement, je n’aurais sans doute jamais osé faire le pas. Expérience au top !"
+    },
+    {
+      "auteur": "Enrik Zaneew",
+      "note": "5",
+      "date": "2025-03-14",
+      "titre": "Un cheminement clair pour une reconversion réussie!",
+      "contenu": "Un accompagnement clair et structuré, où chaque étape m’a guidée vers mes objectifs. Une expérience que je recommande ."
+    },
+    {
+      "auteur": "Sabrina Besson",
+      "note": "5",
+      "date": "2025-03-14",
+      "titre": "Le déclic que j’attendais pour booster ma carrière !",
+      "contenu": "Une vraie révélation pour ma carrière. J’ai enfin trouvé un poste qui me correspond."
+    },
+    {
+      "auteur": "Stéphanie Moreau",
+      "note": "5",
+      "date": "2025-03-17",
+      "titre": "Un vrai tremplin pour ma carrière",
+      "contenu": "Je suis passée d’un poste dans lequel je ne m’épanouissais plus à une fonction bien plus alignée avec mes compétences et mes aspirations. Sans cet accompagnement, je n’aurais sans doute jamais osé faire le pas. Expérience au top !"
+    },
+    {
+      "auteur": "Anne Leroy",
+      "note": "5",
+      "date": "2025-03-14",
+      "titre": "Bonne écoute et conseils adaptés",
+      "contenu": "Ce qui j'ai pariculièrement apprécié, c'est l'écoute et l'adaptabilité de ma consellère. Elle a su comprendre mes attentes et m'orienter vers un plan d'action concret. Petit bémol : certaines séances étaient un peu courtes à mon goût."
+    },
+    {
+      "auteur": "Valérie Dumont",
+      "note": "5",
+      "date": "2025-03-14",
+      "titre": "Excellente expérience",
+      "contenu": "Super accompagnement, très pro et efficace. J'ai rèussi à décrocher une promotion gréce aux consiels donnés et à la préparation aux entritiens. Je suis ravie et je n'hésiterai pas à recommander ce service à mon entourage"
+    },
+    {
+      "auteur": "Clémence Robert",
+      "note": "4",
+      "date": "2025-03-13",
+      "titre": "De nouvelles opportunités!",
+      "contenu": "Ce bilan m’a permis de mieux comprendre non seulement mes compétences, mais aussi ce que je voulais vraiment pour la suite de ma carrière. En travaillant sur mes aspirations, j’ai découvert un secteur d’activité qui me correspond parfaitement et des opportunités auxquelles je n’aurais jamais pensé. Aujourd’hui, je suis en poste dans une entreprise qui valorise mes qualités et mes ambitions."
+    },
+    {
+      "auteur": "Élodie Chauvet",
+      "note": "5",
+      "date": "2025-03-13",
+      "titre": "Mes idées enfin mises en ordre pour un projet solide!",
+      "contenu": "On m’a aidée à structurer mes idées et à construire un projet solide. Aujourd’hui, je me sens prête pour une nouvelle aventure."
+    },
+    {
+      "auteur": "Mélanie Laurent",
+      "note": "4",
+      "date": "2025-03-13",
+      "titre": "Un grand merci à toute l’agence !",
+      "contenu": "Je voulais juste dire un énorme MERCI à l’équipe qui m’a suivie durant plusieurs semaines. Grâce à leurs conseils, j’ai pu revoir mes priorités et envisager un avenir pro qui me motive vraiment. Je recommande sans hésiter !"
+    },
+    {
+      "auteur": "Charlotte Meunier",
+      "note": "5",
+      "date": "2025-03-11",
+      "titre": "Fini les doutes, place à l’action !",
+      "contenu": "Des outils simples mais efficaces ! J’ai adoré les exercices qui m’ont permis de réfléchir à mes priorités. Je recommande."
+    },
+    {
+      "auteur": "Emma Roussel",
+      "note": "4",
+      "date": "2025-03-11",
+      "titre": "Un tournant décisif dans ma vie pro !",
+      "contenu": "Un grand merci pour cet accompagnement. J'ai enfin trouvé ma voie et j'ai repris confiance en moi."
+    },
+    {
+      "auteur": "Emilie Lambert",
+      "note": "4",
+      "date": "2025-03-11",
+      "titre": "Bon accompagnement mais perfectible",
+      "contenu": "J'ai trouvé le suivi intéressant, bien structuré et adapté à mes besoins. La partie sur la mise en valeur de mes compétences a été particulièrement utile. Peut-être que plus d'exemples concrets sur des parcours similaires au mien auraient été un plus."
+    },
+    {
+      "auteur": "Florence Boucher",
+      "note": "3",
+      "date": "2025-03-10",
+      "titre": "Mitigée sur l’accompagnement",
+      "contenu": "L’écoute était présente et les conseils pertinents, mais j’ai trouvé que certaines séances manquaient de profondeur. Peut-être qu’un accompagnement plus personnalisé aurait été plus adapté à mon besoin. Malgré tout, j’ai pu tirer des éléments utiles pour mon projet professionnel."
+    },
+    {
+      "auteur": "Mathilde Leroy",
+      "note": "2",
+      "date": "2025-03-10",
+      "titre": "Intéressant mais trop long",
+      "contenu": "L’approche est bien pensée mais j’ai eu du mal avec certains exercices que j’ai trouvés un peu trop génériques. J’aurais aimé plus d’échanges personnalisés et d’adaptations à ma situation. Cela dit, cela reste une expérience utile."
+    },
+    {
+      "auteur": "Emilie Lambert",
+      "note": "3",
+      "date": "2025-03-10",
+      "titre": "Bon accompagnement mais perfectible",
+      "contenu": "J’ai trouvé le suivi intéressant, bien structuré et adapté à mes besoins. La partie sur la mise en valeur de mes compétences a été particulièrement utile. Peut-être que plus d’exemples concrets sur des parcours similaires au mien auraient été un plus."
+    },
+    {
+      "auteur": "Audrey Dufresne",
+      "note": "5",
+      "date": "2025-03-08",
+      "titre": "Une aide précieuse pour évoluer",
+      "contenu": "J'ai pu bénéficier d'un accompagnement vraiment structuré qui m'a permis d'y voir plus clair dans mon parcours. L'échange avec ma conseillère était fluide et bienveillant, elle a su me poser les bonnes questions pour me guider vers une évolution logique et atteignable. Je recommande!"
+    },
+    {
+      "auteur": "Virginie Lefèvre",
+      "note": "5",
+      "date": "2025-03-08",
+      "titre": "bonne évolution",
+      "contenu": "Après plusieurs années de doutes, cet accompagnement m'a ouvert les yeux sur mes compétences réelles. J'ai signé un CDI en trois mois!"
+    },
+    {
+      "auteur": "Marion Petit",
+      "note": "5",
+      "date": "2025-02-23",
+      "titre": "Un soutien précieux dans ma transition pro",
+      "contenu": "J’avais besoin d’être accompagnée pour changer de voie, et ma coach a su m’apporter les conseils et les outils nécessaires pour avancer sereinement. Un accompagnement structuré et motivant que je recommande à 100 % !"
+    },
+    {
+      "auteur": "Catherine Morel",
+      "note": "3",
+      "date": "2025-02-22",
+      "titre": "Un regard neuf sur mon parcours",
+      "contenu": "Je n'avais jamais pris le temps d'analyser mon parcours professionnel avec autant de recul. Grâce à eux, j'ai compris ce qui me manquait pour évoluer et j'ai pu mettre en place une stratégie efficace pour atteindre mes objectifs. j'aurai aimé un accompagnement plus long"
+    },
+    {
+      "auteur": "Sophie Lemoine",
+      "note": "4",
+      "date": "2025-02-22",
+      "titre": "Une équipe au top !",
+      "contenu": "Je recommande vivement cetaccompagnement ! L'équipe est dynamique, à l'écoute et toujours prête à nous challenger pour nous pousser à avancer. Je repars avec des objectifs clairs et une motivation au max. Merci encore !"
+    },
+    {
+      "auteur": "Nathalie Fontaine",
+      "note": "5",
+      "date": "2025-02-19",
+      "titre": "Une équipe à l’écoute et motivante",
+      "contenu": "Un immense merci à l'équipe qui a su m'accompagner avec patience et bienviellance. J'étais complètement perdue sur la suite de ma carrière, et grâce à leur à leur expertise, j'ai trouvé une direction qui me correspond vraiment. Une expérience ultra enrichissante!"
+    },
+    {
+      "auteur": "Laura Gauthier",
+      "note": "4",
+      "date": "2025-02-19",
+      "titre": "Un accompagnement sur-mesure et bienveillant",
+      "contenu": "J'ai éte impressionnée par la qualité de l'accompagnement proposé par l'agence. On ne m'a pas donné des solutions toutes faites, mais on m'a aidée à me poser les bonnes questions pour avancer. Aujourd'hui, j'ai ine vision beaucoup plus claire de mon avenir professionnel et surtout, un plan concret pour y arriver. Merci encore!"
+    },
+    {
+      "auteur": "Nathalie Carpentier",
+      "note": "5",
+      "date": "2025-01-14",
+      "titre": "Un changement réussi",
+      "contenu": "Je n’aurais jamais pensé dire cela, mais le bilan de compétences a vraiment transformé ma vie. Au fil des sessions, j’ai appris à mieux me connaître et à comprendre ce que je cherchais réellement dans ma carrière. Cette introspection m'a menée à une transition du marketing vers l'enseignement, où je trouve désormais un sens et une satisfaction que je n'avais jamais éprouvés auparavant. Mes élèves m’apportent autant que ce que j’espère leur apporter."
+    },
+    {
+      "auteur": "Sophie",
+      "note": "5",
+      "date": "2025-01-14",
+      "titre": "Un nouveau départ",
+      "contenu": "J’étais sceptique à l’idée de faire un bilan de compétences, mais je me suis rapidement rendu compte de son utilité. Grâce à ma coach, j’ai pu identifier les domaines où mes compétences pouvaient être pleinement exploitées. J’ai toujours aimé le contact humain, mais je ne savais pas comment en faire un métier. Le coaching m’a ouvert les yeux sur les opportunités dans les ressources humaines. Grâce à ce bilan, j’ai décroché un stage qui s’est transformé en un emploi. Aujourd’hui, je suis épanouie dans mon travail et reconnaissante d’avoir osé me lancer dans cette démarche."
+    },
+    {
+      "auteur": "Léa martinez",
+      "note": "4",
+      "date": "2025-01-13",
+      "titre": "Du juridique au conseil en entreprise",
+      "contenu": "Avocate depuis 10 ans, j’aspirais à un métier plus axé sur l’accompagnement. Grâce à un soutien de qualité et des échanges constructifs, j’ai compris comment valoriser mes compétences en négociation et en gestion de projet. Aujourd’hui, je suis consultante en stratégie pour des PME, un rôle épanouissant qui m’a permis d’obtenir une augmentation de 20 % et surtout moin de stress."
+    },
+    {
+      "auteur": "Élise Moreau",
+      "note": "5",
+      "date": "2025-01-12",
+      "titre": "Une nouvelle carrière dans la communication interne",
+      "contenu": "Après plusieurs années dans les ressources humaines, je ressentais une envie de changement sans savoir où me diriger. L’accompagnement que j’ai reçu a été décisif : une écoute attentive et des conseils structurés m’ont permis de prendre conscience de mon potentiel pour la communication. Résultat : un poste de responsable de la communication interne dans une grande entreprise et une augmentation de 15 %. Je suis enfin alignée avec mes aspirations."
+    },
+    {
+      "auteur": "Anne Girard",
+      "note": "4",
+      "date": "2025-01-08",
+      "titre": "Une transition vers la transformation digitale",
+      "contenu": "Je travaillais comme analyste de données, mais je cherchais une carrière plus stimulante et pleine de défis. Grâce au bilan de compétences, j'ai réalisé que mes compétences pouvaient s’appliquer à la transformation digitale. Ma coach m'a soutenue dans la préparation de mes entretiens et m’a aidée à établir des contacts avec des entreprises de renom. Aujourd’hui, je suis consultante en transformation digitale, et ce changement de carrière m’apporte une réelle satisfaction."
+    },
+    {
+      "auteur": "Sara Ahmed",
+      "note": "5",
+      "date": "2025-01-07",
+      "titre": "Une nouvelle aventure en communication",
+      "contenu": "Je travaillais dans l'administration, mais chaque jour ressemblait au précédent, et l'ennui s’installait sérieusement. Je sentais que j’avais besoin d’un changement, mais je ne savais pas par où commencer. C’est là que l'accompagnement professionnel est entré en jeu, et ça a été une révélation ! Ma coach m'a aidée à mettre en lumière mon intérêt pour la communication, un domaine auquel je n’avais jamais vraiment pensé avant. Grâce à ses conseils, j’ai développé des compétences essentielles en communication et appris à créer des contacts utiles. Petit à petit, j'ai repris confiance en moi et mon profil a évolué."
+    },
+    {
+      "auteur": "Laure Marchand",
+      "note": "4",
+      "date": "2025-01-07",
+      "titre": "Passion transformée en carrièr",
+      "contenu": "Mon poste de réceptionniste ne me correspondait plus, et j'avais toujours été passionnée par le sport et le fitness. Grâce à ma coach, j'ai découvert comment faire de cette passion une véritable carrière. Avec son aide, j'ai décroché des entretiens dans plusieurs salles de sport. Aujourd’hui, je travaille comme coach sportif, et je me sens enfin épanouie dans ce que je fais."
+    },
+    {
+      "auteur": "Priya Kapoor",
+      "note": "3",
+      "date": "2025-01-02",
+      "titre": "Une découverte surprenante",
+      "contenu": "L’idée de faire un bilan de compétences me paraissait un peu étrange au départ, mais ce fut une véritable révélation. Je ne m'étais jamais vue comme une personne créative, mais le bilan a révélé un talent inattendu pour le design graphique. Encouragée par cette découverte, j'ai commencé à suivre des cours pour affiner cette compétence, et aujourd'hui, je travaille en freelance, créant des logos et des visuels pour divers clients. Chaque projet représente un défi unique et une occasion d’évoluer davantage dans ce nouveau domaine."
+    },
+    {
+      "auteur": "Camille Laurent",
+      "note": "3",
+      "date": "2024-12-18",
+      "titre": "Retrouver confiance grâce à un bilan",
+      "contenu": "Je me sentais bloquée dans ma carrière, sans savoir comment évoluer ou prendre une nouvelle direction. Avec une certaine appréhension, j’ai décidé de faire un bilan de compétences. Ma coach a été d’un soutien incroyable. Elle a su écouter mes doutes, me rassurer et m’encourager à explorer de nouvelles perspectives. Ensemble, nous avons mis en lumière mes points forts et défini les compétences à développer. Ce parcours n’a pas toujours été facile, car j’ai dû revisiter certains aspects de ma personnalité et de mon parcours. Mais, petit à petit, un chemin clair s’est dessiné. Aujourd’hui, je sais où je vais et me sens prête à opérer les changements nécessaires. C’est tellement rassurant de se sentir épaulée par une professionnelle à l’écoute."
+    },
+    {
+      "auteur": "Camille Laurent",
+      "note": "4",
+      "date": "2024-12-16",
+      "titre": "Une montée en compétence dans la gestion client",
+      "contenu": "Mon poste d’assistante administrative était routinier, et j’avais envie d’un travail plus interactif. En m’appuyant sur le réseau professionnel mis à ma disposition, j’ai pu entrer en contact avec plusieurs entreprises cherchant des talents dans la gestion client. Cela m’a permis de trouver rapidement un poste de coordinatrice de service client dans une structure dynamique. Je supervise aujourd’hui une petite équipe et je suis ravie de contribuer activement au développement de l’entreprise."
+    },
+    {
+      "auteur": "Anaïs Perrin",
+      "note": "4",
+      "date": "2024-12-15",
+      "titre": "De la restauration au tourisme haut de gamme",
+      "contenu": "En tant que gérante d’un restaurant, je ressentais le besoin de changement. Grâce à un accompagnement de qualité, j’ai exploré le secteur du tourisme de luxe. J’ai été guidée à chaque étape, de la préparation de mes candidatures à ma prise de poste. Je suis désormais responsable d’un lodge haut de gamme, un métier exigeant mais profondément enrichissant."
+    },
+    {
+      "auteur": "Sandrine Colin",
+      "note": "3",
+      "date": "2024-12-12",
+      "titre": "De l'assistanat à la responsabilité RH",
+      "contenu": "Mon poste d'assistante RH ne me comblait plus ; j'avais besoin de plus de responsabilités et de meilleures conditions. Ma coach m’a permis de mettre en valeur mes points forts et de cibler des entreprises alignées avec mes ambitions. Aujourd’hui, je suis responsable RH avec un package attractif incluant bonus et avantages. Je suis ravie de ce nouveau rôle et reste motivée pour continuer à progresser et saisir de nouvelles opportunités."
+    },
+    {
+      "auteur": "Chloé Leblanc",
+      "note": "3",
+      "date": "2024-12-07",
+      "titre": "De vendeuse à styliste indépendante",
+      "contenu": "Mon poste de vendeuse ne me permettait plus d’exprimer ma créativité, et j’avais envie de quelque chose de plus stimulant. Grâce au bilan de compétences, j’ai découvert que mon goût pour la mode pouvait m’ouvrir des portes en tant que styliste. Ma coach m’a soutenue pour développer mon réseau dans le milieu et pour lancer ma propre activité. Aujourd’hui, je travaille comme styliste indépendante et je vis enfin de ma passion."
+    }
+  ],
+  "www.orientation-competences.fr": [
+    {
+      "auteur": "Maëlle Guérin",
+      "note": "4",
+      "date": "2025-05-14",
+      "titre": "Ce que je ne voulais plus",
+      "contenu": "J'ai compris que je n'avais pas besoin de changer de métier, mais de retrouver du sens. Le plus grand apport du bilan a été de m'aider à formuler ce que je ne voulais plus : un rythme trop intense, des objectifs déconnectés du terrain. J'ai trouvé un poste plus modeste, main bien plus humain, dans une PME à taille humaine. Je respire mieux."
+    },
+    {
+      "auteur": "Élina Coulon",
+      "note": "5",
+      "date": "2025-05-14",
+      "titre": "Du déclic à l’action",
+      "contenu": "Il m’a fallu quelques semaines après la fin du bilan pour que les choses s’alignent. Mais le travail fait en profondeur a laissé une vraie trace. Aujourd’hui, j’ai intégré une formation en gestion de projet, que je n’aurais jamais osé envisager auparavant. L'accompagnement m’a permis de retrouver une dynamique que j’avais perdue."
+    },
+    {
+      "auteur": "Chiara Moreau",
+      "note": "5",
+      "date": "2025-05-12",
+      "titre": "Une vraie prise de conscience",
+      "contenu": "Avant, je pensais que je devais tout quitter. Maintenant, je vois les choses autrement.Le bilan m’a permis de valoriser ce que je fais déjà, de voir mes acquis autrement. On a travaillé étape par étape, sans jugement.Merci à toute l’équipe, et surtout à celle qui m’a accompagnée avec patience. J’ai senti un vrai respect dans chaque échange."
+    },
+    {
+      "auteur": "Sarah Prévost",
+      "note": "5",
+      "date": "2025-05-11",
+      "titre": "Mieux comprendre pour mieux agir",
+      "contenu": "Travailler dans la vente depuis longtemps m’avait un peu usée. Le bilan ne m’a pas donné une solution toute faite, mais m’a aidée à comprendre pourquoi je tournais en rond. J’ai pu réorganiser mes priorités, changer de structure, et reprendre goût à ce que je fais. Ça tient parfois à peu de choses."
+    },
+    {
+      "auteur": "Emilie Rochefort",
+      "note": "4",
+      "date": "2025-05-11",
+      "titre": "Un petit bilan pour de grandes décisions",
+      "contenu": "Au début, j’étais sceptique. J’ai fait ce bilan presque par curiosité. Finalement, j’ai compris que je n’étais plus alignée avec les valeurs de mon entreprise. J’ai pris le temps, et six mois plus tard, j’ai quitté mon poste pour lancer mon activité de conseil administratif en indépendant. C’est plus modeste, mais bien plus aligné avec qui je suis."
+    },
+    {
+      "auteur": "Jeanne Vasseur",
+      "note": "4",
+      "date": "2025-05-10",
+      "titre": "Le sentiment d’avoir été entendue",
+      "contenu": "Ce que j’ai le plus apprécié, c’est qu’on ne m’a jamais enfermée dans une case. Je me sentais confuse, mais jamais jugée. L’écoute était réelle. Et même si je n’ai pas encore bougé professionnellement, j’ai gagné en clarté. J’envisage aujourd’hui des pistes que je ne regardais même pas avant."
+    },
+    {
+      "auteur": "Lina Delaunay",
+      "note": "3",
+      "date": "2025-05-09",
+      "titre": "Des questions simples, mais puissantes...",
+      "contenu": "Le bilan m’a remuée. Certaines questions, très simples en apparence, ont résonné longtemps. L’approche bienveillante de ma coach m’a permis de déposer ce que je n’arrivais plus à formuler. Grâce à ce travail, j’ai postulé à un poste de formatrice dans mon domaine. J’ai été retenue. C’est encore nouveau, mais je sens que je suis à ma place."
+    },
+    {
+      "auteur": "Amélie Gauthier",
+      "note": "5",
+      "date": "2025-05-09",
+      "titre": "Pas de blabla, du solide",
+      "contenu": "Je ne suis pas du genre à me livrer facilement. Heureusement, l’accompagnement a été structuré et respectueux. Pas de psychologie inutile, juste une méthode claire et des échanges francs. J’ai apprécié qu’on ne me promette rien, mais qu’on m’aide à mieux cibler mes forces. Aujourd’hui, je ne change pas de métier, mais j’ai obtenu une certification complémentaire qui m’ouvre plus de portes."
+    },
+    {
+      "auteur": "Océane Besson",
+      "note": "5",
+      "date": "2025-05-08",
+      "titre": "J’ai enfin osé formuler un projet",
+      "contenu": "Le coaching a été un vrai révélateur. Au départ, j’étais bloquée, persuadée de ne pas avoir de vraies compétences. Au fil des séances, j’ai commencé à reconnaître ce que j’avais construit, même dans mes postes les plus routiniers. J’ai pu formuler un projet cohérent dans le domaine de la médiation sociale, et entamer une formation que je repoussais depuis trop longtemps. Je me sens à nouveau actrice de mon avenir."
+    },
+    {
+      "auteur": "Lris Aubert",
+      "note": "4",
+      "date": "2025-05-08",
+      "titre": "Une démarche plus profonde qu'elle n'y parait",
+      "contenu": "Très honnêtement, je pensais que ce serait plus personnel. Mais ce que j'ai trouvé, c'est un espace pour réfléchir sans pression. L'accompagnement a été à la fois humain et structuré. Je suis aujourd'hui sur un nouveau poste, dans un environnement plus respectueux. Ce n'est pas un miracle, c'est le fruit d'un cheminement. Merci pour cette étape."
+    },
+    {
+      "auteur": "Auriane Dupuis",
+      "note": "3",
+      "date": "2025-05-08",
+      "titre": "Tout s’est éclairé progressivement",
+      "contenu": "Je pensais venir chercher une réorientation, et finalement j’ai surtout appris à faire le tri. À mieux comprendre ce qui m’épuisait, ce qui me convenait encore, et ce que je pouvais faire évoluer dans mon environnement actuel. Le bilan m’a permis de poser les bonnes questions à mon employeur, et j’ai pu obtenir une mobilité interne sur un poste à mi-temps RH. Ce n’était pas un changement radical, mais un vrai ajustement salutaire."
+    },
+    {
+      "auteur": "Agathe Feron",
+      "note": "5",
+      "date": "2025-05-07",
+      "titre": "Merci infiniment pour votre professionnalisme",
+      "contenu": "Tout a été carré, du début à la fin. On ne m’a jamais vendu du rêve, mais je me suis sentie écoutée, cadrée, et respectée dans mon rythme. Le compte rendu final était clair, utilisable, et m’a vraiment aidée dans mes démarches.Un mot spécial pour la coach qui a su créer une atmosphère de confiance dès le départ. Merci pour votre regard juste."
+    },
+    {
+      "auteur": "Eva Renaud",
+      "note": "4",
+      "date": "2025-05-07",
+      "titre": "Faire le tri, enfin",
+      "contenu": "Dans la vente depuis toujours, j’étais un peu lassée, mais je ne savais pas si c’était passager. Le bilan m’a surtout permis de faire le point sur ce que j’aimais encore, et ce que je ne voulais plus. L’équipe m’a semblé sérieuse, les rendez-vous étaient bien préparés. Ce que je retiens, c’est le réalisme dans les conseils : pas de promesses, mais des pistes claires."
+    },
+    {
+      "auteur": "Claire Bérard",
+      "note": "4",
+      "date": "2025-05-06",
+      "titre": "Je ne savais pas quoi attendre, et j’ai trouvé bien plus",
+      "contenu": "La coach a su m’écouter sans jamais orienter. Elle posait les bonnes questions, au bon moment.Je repars avec un plan d’action simple, que je peux mettre en œuvre. Et surtout, avec plus de lucidité sur ce qui me pèse, et ce qui me nourrit."
+    },
+    {
+      "auteur": "Herry",
+      "note": "4",
+      "date": "2025-05-05",
+      "titre": "Une belle rencontre professionnelle",
+      "contenu": "Je ne parlerais pas de bilan de compétences comme on en entend souvent parler. C'était une expérience humaine avant tout. J'ai pu poser ce que je gardais en moi depuis longtemps. Le cadre bienveillant m'a permis de prendre des décisions sans me précipiter. Je ne changerais rien é cette démarche. Merci pour votre écoute discréte, mais efficace."
+    },
+    {
+      "auteur": "Tessa Vaudrin",
+      "note": "4",
+      "date": "2025-05-05",
+      "titre": "J’ai repris la main",
+      "contenu": "Je ne savais plus comment parler de mon parcours. Trop de postes, trop d’années à enchaîner sans me poser.On m’a aidée à remettre de la logique dans tout ça. À comprendre ce qui me lie encore à ce que je fais, et ce que je peux mobiliser ailleurs.Merci, vraiment, pour la clarté, la souplesse, et l’absence de jugement."
+    },
+    {
+      "auteur": "Sophie Lemaitre",
+      "note": "5",
+      "date": "2025-05-03",
+      "titre": "Repartir, mais autrement",
+      "contenu": "Je suis arrivée fatiguée, en bout de course.Aujourd’hui, je n’ai pas changé de métier. Mais j’ai changé de posture.Le bilan m’a permis de revaloriser mes compétences et d’oser me positionner différemment au sein de mon entreprise. On m’écoute davantage. Et ça change tout."
+    },
+    {
+      "auteur": "Morgane Carrel",
+      "note": "5",
+      "date": "2025-05-01",
+      "titre": "Un virage discret mais décisif",
+      "contenu": "Le bilan m’a permis de mettre fin à un flou qui durait depuis des mois. Pas besoin de tout reconstruire, mais juste de me réaligner.Je suis désormais en poste dans une autre structure, plus en phase avec mes valeurs.Et ce changement, je ne l’aurais pas entrepris sans ce temps d’écoute et de recul. Merci à toute l’équipe, du premier appel jusqu’à la clôture."
+    },
+    {
+      "auteur": "Anaëlle Petit",
+      "note": "5",
+      "date": "2025-04-26",
+      "titre": "Un soutien dans une période floue",
+      "contenu": "Suite à une période d'arrêt, je ne savais pas dans quelle direction aller. Je venais du monde de la vente. Le bilan m'a aidée à définir ce que je voulais éviter à l'avenir, et à identifier des pistes plus compatibles avec ma personnalité."
+    },
+    {
+      "auteur": "Eléonore Dumont",
+      "note": "4",
+      "date": "2025-04-25",
+      "titre": "Oser se lancer dans un domaine exigeant",
+      "contenu": "Grâce à ma coach, j’ai découvert mon attrait pour l’organisation d’événements. Ce n’était pas une transition évidente, mais elle m’a aidée à comprendre comment utiliser mes compétences dans ce secteur. Aujourd’hui, je travaille dans l’événementiel, et même si c’est un métier exigeant, je m’y sens totalement à ma place !"
+    },
+    {
+      "auteur": "Elsa Fauconnier",
+      "note": "4",
+      "date": "2025-04-24",
+      "titre": "Un cadre structurant",
+      "contenu": "Travaillant dans l’administratif d’un établissement de santé, j’ai engagé un bilan sans véritable objectif précis. La progression dans le parcours m’a aidée à mieux cerner mes compétences transférables. Le format des séances et les outils proposés m’ont rassurée, car je ne savais pas à quoi m’attendre. J’ai depuis repris une formation courte dans le secteur de la gestion de paie."
+    },
+    {
+      "auteur": "Noémie Charlier",
+      "note": "5",
+      "date": "2025-04-21",
+      "titre": "Un accompagnement précieux malgré quelques doutes",
+      "contenu": "J’ai trouvé le processus très bien construit, même si j’ai eu quelques moments de doute en chemin. Grâce à l’accompagnement et aux encouragements de ma coach, j’ai pu décrocher un poste dans une grande entreprise. Ça n’a pas été immédiat, mais aujourd’hui, je suis ravi du résultat !"
+    },
+    {
+      "auteur": "Clémence Duret",
+      "note": "5",
+      "date": "2025-04-19",
+      "titre": "Passer de commercial à manager : un tournant décisif",
+      "contenu": "J’avais l’impression de stagner en tant que commercial, sans évolution concrète. Ce bilan a été un vrai déclic. Grâce aux conseils de ma coach et à un travail en profondeur sur mon parcours, j’ai décroché un poste de responsable d’équipe en trois mois. L’accompagnement a été top, même si j’aurais aimé que ça aille encore plus vite. Au final, ça valait vraiment le coup !"
+    },
+    {
+      "auteur": "Maëlys Dupont",
+      "note": "5",
+      "date": "2025-04-19",
+      "titre": "Prendre confiance et évoluer",
+      "contenu": "Grâce à ma coach, j’ai appris à gérer une équipe et à prendre des décisions importantes. Aujourd’hui, je suis cheffe de rayon, et même si ce n’est pas toujours simple, je me sens plus légitime et confiante."
+    },
+    {
+      "auteur": "Charlotte Perrin",
+      "note": "4",
+      "date": "2025-04-15",
+      "titre": "L’événementiel, une évidence pour moi !",
+      "contenu": "J’ai toujours été à l’aise dans l’organisation, mais je n’avais jamais pensé en faire mon métier. Grâce au bilan, j’ai pris conscience que c’était une vraie force et une compétence recherchée. Avec l’aide de ma coach, j’ai réussi à transférer mon expérience vers ce domaine, et aujourd’hui, je travaille dans l’événementiel. C’est un métier exigeant, mais tellement gratifiant !"
+    },
+    {
+      "auteur": "Zoé Langlois",
+      "note": "5",
+      "date": "2025-04-14",
+      "titre": "Après une restructuration dans mon…",
+      "contenu": "Après une restructuration dans mon entreprise, j’ai eu besoin de clarifier mes possibilités. L’accompagnement a été méthodique, et la posture du coach très juste. Le travail fait en séance m’a permis de mieux structurer mon discours professionnel, notamment pour mes candidatures. J’ai entamé un recrutement dans une autre structure quelques mois plus tard."
+    },
+    {
+      "auteur": "Estelle Fontaine",
+      "note": "4",
+      "date": "2025-03-24",
+      "titre": "Oser une reconversion dans le numérique",
+      "contenu": "Je ne pensais pas avoir le profil pour l’informatique, mais grâce à ma coach, j’ai réalisé que j’avais un vrai potentiel dans ce domaine. J’ai suivi une formation en parallèle et aujourd’hui, je démarre comme développeuse web freelance. C’est un défi, mais je ne regrette absolument pas ce choix !"
+    },
+    {
+      "auteur": "Hanery Clark",
+      "note": "5",
+      "date": "2025-03-24",
+      "titre": "Faire de sa passion un métier",
+      "contenu": "la cuisine a toujours été une passion pour moi, mais je n'avais jamais envisagé d'en faire mon métier. Grâce à ma coach, j'ai pu structurer mon projet et trouver une formation adaptée. C'est un vrai changement, mais je sais que j'ai fait le bon choix."
+    },
+    {
+      "auteur": "Justine Dumas",
+      "note": "4",
+      "date": "2025-03-23",
+      "titre": "Se réorienter sans tout recommencer",
+      "contenu": ""
+    },
+    {
+      "auteur": "Élodie Marchand",
+      "note": "4",
+      "date": "2025-03-21",
+      "titre": "Une approche bienveillante",
+      "contenu": "Ce que j’ai le plus apprécié, c’est l’écoute et l’adaptabilité de ma coach. Pas de solution toute faite, mais un vrai travail sur mes attentes et mes compétences. Aujourd’hui, j’ai un projet qui me correspond à 100%."
+    },
+    {
+      "auteur": "Melbon J.",
+      "note": "4",
+      "date": "2025-03-19",
+      "titre": "Une méthodologie efficace et adaptée",
+      "contenu": "J'ai particulièrement apprécié la structure du bilan et la progression des séances. On avance à notre rythme tout en étant guidée vers des réflexions profondes. Résultat : un projet professionnel bien construit et adapté à mes envies."
+    },
+    {
+      "auteur": "Sandra Lemoine",
+      "note": "2",
+      "date": "2025-03-17",
+      "titre": "Merci pour votre soutien !",
+      "contenu": "Je voulais juste prendre un moment pour remercier mon coach qui a su m’accompagner avec bienveillance. J’avais besoin de retrouver confiance en moi après plusieurs échecs professionnels, et grâce à ce bilan, je me sens reboostée et prête à me lancer dans de nouveaux projets. j'aurai aimé que l'accompagnemtn dure plus longtemps."
+    },
+    {
+      "auteur": "Nathalie Fontaine",
+      "note": "5",
+      "date": "2025-03-16",
+      "titre": "Une expérience humaine et enrichissante",
+      "contenu": "Je tiens à remercier toute l’équipe pour son écoute et son professionnalisme. Mon coach a su me poser les bonnes questions pour que je trouve mes propres réponses. Résultat : j’ai clarifié mon projet et je suis motivée comme jamais pour passer à l’action !"
+    },
+    {
+      "auteur": "Isabelle Perrin",
+      "note": "4",
+      "date": "2025-03-14",
+      "titre": "Une belle surprise !",
+      "contenu": "Je pensais connaître mon métier et mes compétences… mais ce bilan m’a fait découvrir tout un potentiel inexploité ! Aujourd’hui, j’ai une vision plus claire et des outils concrets pour valoriser mon expérience. Un grand merci !"
+    },
+    {
+      "auteur": "Laura Gauthier",
+      "note": "5",
+      "date": "2025-03-14",
+      "titre": "Un bilan qui change la donne",
+      "contenu": ""
+    },
+    {
+      "auteur": "Yasmine Meunier",
+      "note": "5",
+      "date": "2025-03-13",
+      "titre": "une nouvelle aventure",
+      "contenu": "Je ne voulais plus d’un travail routinier, mais je ne savais pas par où commencer. Ma coach m’a aidée à identifier ce qui me motivait vraiment : l’animation et la créativité. Aujourd’hui, j’anime des ateliers pour les enfants, et c’est tellement plus fun ! J’attends encore de voir si ça tiendra financièrement, mais pour l’instant, je suis ravie d’avoir tenté l’aventure."
+    },
+    {
+      "auteur": "Manon Boucher",
+      "note": "5",
+      "date": "2024-12-18",
+      "titre": "Enfin des réponses claires",
+      "contenu": "Je me posais mille questions et, honnêtement, je tournais en rond. Ce bilan m’a enfin donné des réponses, avec un accompagnement au top. Ça m’a soulagée de mettre des mots sur mes compétences et d’avoir une feuille de route claire."
+    },
+    {
+      "auteur": "Inès Gauthier",
+      "note": "5",
+      "date": "2024-12-17",
+      "titre": "Un boost pour ma carrière",
+      "contenu": "Je savais plus trop où j'en étais, mais ce bilan m'a vraiment reboostée! L'accompagnement a été hyper personnalisé et ça m'a donnç une confiance quej'avais un peu perdue en moi. C'çtait le bon moment pour ce bilan."
+    },
+    {
+      "auteur": "Valérie Tessier",
+      "note": "4",
+      "date": "2024-12-15",
+      "titre": "Un déclic pour avancer",
+      "contenu": "Le bilan m’a donné des clés pour mieux comprendre mon parcours et ce que je veux vraiment faire. J’en ressors motivée et prête à passer à l’étape suivante. Merci pour cette belle expérience !"
+    },
+    {
+      "auteur": "Elena Costa",
+      "note": "5",
+      "date": "2024-12-15",
+      "titre": "Des compétences révélées",
+      "contenu": "Je suis repartie de ce bilan avec une vraie fierté d’avoir mis en lumière des compétences que je ne soupçonnais pas ! Ce bilan m’a apporté de la clarté, un vrai plus pour la suite. Si on hésite, je dis : foncez."
+    }
+  ],
+  "www.creatyz.fr": [
+    {
+      "auteur": "Marie Dupont",
+      "note": "4",
+      "date": "2025-05-08",
+      "titre": "Un tournant positif",
+      "contenu": "Ce bilan m'a redonné de l'élan et m'a permis de me projeter de nouveau avec rnthousiasme. Une expérience qui a changgé ma carriére !"
+    },
+    {
+      "auteur": "Emma Laurent",
+      "note": "5",
+      "date": "2025-05-07",
+      "titre": "Une nouvelle impulsion pour ma carrière",
+      "contenu": "Je me sentais bloquée, comme si ma carrière tournait en rond. Ce bilan a été une vraie bouffée d’air frais ! Il m’a redonné confiance et m’a permis de voir mes compétences sous un nouvel angle. Aujourd’hui, je me projette avec beaucoup plus d’énergie et d’enthousiasme vers l’avenir."
+    },
+    {
+      "auteur": "Elodie Petit",
+      "note": "5",
+      "date": "2025-05-05",
+      "titre": "Une découverte professionnelle",
+      "contenu": "Après plusieurs années en boutique, j'avais besoin de changement. Le bilan de compétences m'a permis de faire le point sur mes envies et capacités. Ma coach a posé les bonnes questions et m'a aidée à envisager de nouvelles possibilités. On a trouvé ensemble un poste d'assistante commerciale parfait pour moi. Depuis, je me sens bien dans ce job et j'ai négocié une belle augmentation. Je ne pensais pas que ça changerait autant ma vie, mais je suis heureuse d'avoir sauté le pas !"
+    },
+    {
+      "auteur": "Jade Nguyen",
+      "note": "4",
+      "date": "2025-05-03",
+      "titre": "Une nouvelle aventure dans la fonction publique",
+      "contenu": "Le soutien de ma coach a été précieux. Le chemin a été plus long que prévu, avec des moments difficiles, mais j'ai finalement décroché un poste dans une grande entreprise. Ce n'était pas simple, mais l'accompagnement m'a vraiment aidé. Même si ça a pris du temps, je suis très content du résultat !"
+    },
+    {
+      "auteur": "Lucie Bertrand",
+      "note": "5",
+      "date": "2025-05-01",
+      "titre": "merci a ma coach",
+      "contenu": "Les réunions interminables et le travail de bureau me pesaient. Grâce au bilan, j’ai pris conscience que ce qui me faisait vibrer, c’était le sport. Avec le soutien de ma coach, j’ai obtenu un diplôme d’éducatrice sportive et, aujourd’hui, je donne des cours en salle. C’est un vrai changement de rythme, mais je me sens enfin à ma place."
+    },
+    {
+      "auteur": "Héloïse Fernandes",
+      "note": "5",
+      "date": "2025-05-01",
+      "titre": "De l’animation commerciale aux ateliers pour enfants",
+      "contenu": "Je voulais un travail plus dynamique et créatif. Avec l’aide de ma coach, j’ai découvert que j’adorais animer des ateliers pour enfants. Maintenant, je me lève chaque matin avec le sourire, prête à transmettre ma passion. C’est une vraie reconversion, et j’ai hâte de voir où cela me mènera à long terme."
+    },
+    {
+      "auteur": "Manon Lambert",
+      "note": "4",
+      "date": "2025-04-25",
+      "titre": "Pendant le bilan",
+      "contenu": "Pendant le bilan, ma coach m'a posé les bonnes questions et m'a fait réfléchir à ce que j'aimais vraiment : la cuisine, ma passion. On a travaillé ensemble sur un plan de reconversion, et aujourd'hui, je suis en formation pour devenir cuisinière. C'est un grand pas, mais je suis contente de ce choix. Enfin, je fais quelque chose qui me plaît vraiment !"
+    },
+    {
+      "auteur": "Chloé",
+      "note": "4",
+      "date": "2025-04-24",
+      "titre": "J’ai trouvé un nouvel emploi",
+      "contenu": "Pendant le bilan de compétences, ma coach m'a aidée à identifier mes points forts et m'a montré mon potentiel en informatique. J'ai dû me former en parallèle, mais aujourd'hui, je démarre comme développeuse web freelance. C'est un changement radical, mais je me sens tellement mieux ! Même si ça a pris du temps, l'accompagnement a été essentiel pour trouver ma voie."
+    },
+    {
+      "auteur": "Pauline Bouchard",
+      "note": "5",
+      "date": "2025-04-19",
+      "titre": "Manger administrative",
+      "contenu": "Aujourd'hui, je gère une équipe, et je suis fière de mon parcours. Merci à ma coach de m'avoir poussée à croire en moi."
+    },
+    {
+      "auteur": "Soraya",
+      "note": "5",
+      "date": "2025-04-16",
+      "titre": "Des dossiers à l’animation sociale",
+      "contenu": "Maintenant, j'anime des ateliers pour les enfants, et c'est tellement plus fun ! Je me lève le matin avec le sourire, grâce à ma coach. J'attends de voir si ça tiendra financièrement sur le long terme, mais pour l'instant, je suis contente d'avoir tenté le pari."
+    },
+    {
+      "auteur": "Nathalie Garnier",
+      "note": "5",
+      "date": "2025-04-16",
+      "titre": "une étape essentielle",
+      "contenu": "Ma coach m'a écoutée et encouragée à suivre ma passion pour la pâtisserie. Aujourd'hui, je crée des gâteaux pour des événements, et c'est incroyable. Je n'aurais jamais imaginé pouvoir vivre de ce que j'aime. Ce changement a transformé ma vie, et je suis tellement reconnaissante. Merci infiniment à ma coach pour son soutien !"
+    },
+    {
+      "auteur": "Océane",
+      "note": "4",
+      "date": "2025-04-14",
+      "titre": "posotif dans l'ensemble",
+      "contenu": "Après des années dans l'administratif, avec toujours les mêmes tâches et réunions interminables, ma coach m'a fait réfléchir à ce qui me passionnait vraiment : le sport. Avec son aide, j'ai obtenu un diplôme d'éducatrice sportive, et aujourd'hui, je donne des cours dans une salle de sport. C'est un rythme de vie différent, mais tellement plus épanouissant ! Au début, je n'y croyais pas, mais cet accompagnement a été une vraie révélation."
+    },
+    {
+      "auteur": "Fatima Sy",
+      "note": "5",
+      "date": "2025-04-13",
+      "titre": "je recommande",
+      "contenu": "C'était loin d'être gagné au départ. Je travaillais comme comptable, un job sûr, mais sans passion. La musique, c'est ma passion depuis toujours, alors j'ai pris le risque de tout changer. Ma coach m'a beaucoup aidée à organiser mes idées et à franchir ce cap. Aujourd'hui, je joue dans un groupe et j'enseigne la guitare. Ce n'est pas encore parfait, il y a encore des ajustements, mais je suis sur la bonne voie. Sans cet accompagnement, je n'y serais jamais arrivée."
+    },
+    {
+      "auteur": "Amandine Rolland",
+      "note": "4",
+      "date": "2025-04-11",
+      "titre": "Merci pour l'évolution",
+      "contenu": "J’avais envie d’un poste avec plus de responsabilités et une vraie dimension internationale. Avec ma coach, nous avons travaillé sur mon profil et ma gestion du temps. Résultat ? J’ai décroché un poste de coordinatrice administrative dans une entreprise d’envergure. Aujourd’hui, je m’épanouis pleinement dans mon travail et je mesure l’impact de ce bilan sur mon avenir."
+    },
+    {
+      "auteur": "Clara Dubreuil",
+      "note": "4",
+      "date": "2025-03-21",
+      "titre": "Une coach à l’écoute et bienveillante",
+      "contenu": "Je tiens à remercier ma coach qui a été d’une grande patience et d’une écoute incroyable. Ce bilan m’a permis de voir mes forces et de comprendre ce qui me bloquait dans mon évolution professionnelle. Je repars avec plein d’idées et surtout un projet clair. Encore merci !"
+    },
+    {
+      "auteur": "Anaïs Marchand",
+      "note": "4",
+      "date": "2025-03-20",
+      "titre": "Ma passion pour la cuisine devient mon métier",
+      "contenu": "Jamais je n’aurais cru pouvoir un jour en faire un métier, et pourtant… Pendant le bilan, ma coach m’a poussée à explorer mes envies profondes. Ensemble, nous avons bâti un plan de reconversion, et aujourd’hui, je suis en formation pour devenir cuisinière. C’est un grand pas, mais je n’ai jamais été aussi sûre de mon choix !"
+    },
+    {
+      "auteur": "Isabelle Renaud",
+      "note": "5",
+      "date": "2025-03-19",
+      "titre": "Un grand merci",
+      "contenu": "Merci, merci, MERCI !! Je n’ai pas les mots pour décrire à quel point ce bilan m’a aidée à y voir plus clair. J’ai découvert des talents que je ne soupçonnais même pas chez moi, et surtout, j’ai repris confiance en mon parcours. J’aurai dû le faire bien avant !"
+    },
+    {
+      "auteur": "Rafferty Beauchamp",
+      "note": "5",
+      "date": "2025-03-18",
+      "titre": "Une vraie claque positive",
+      "contenu": "Franchement je ne savais pas trop à quoi m'attendre en m'inscrivant à ce bilan, mais quelle claque ! J'ai appris à mieux me connaître, à mettre en avant mes compétences et surtout à envisager un avenir pro qui me correspond VRAIMENT"
+    },
+    {
+      "auteur": "Justine Perrin",
+      "note": "4",
+      "date": "2025-03-18",
+      "titre": "carrière en graphisme",
+      "contenu": "L’administratif ne me convenait plus, mais je ne savais pas quoi faire d’autre. C’est en discutant avec ma coach que j’ai réalisé que mon goût pour le graphisme pouvait être plus qu’un simple hobby. J’ai suivi une formation et, aujourd’hui, je suis graphiste freelance. Ce bilan a changé mon quotidien et m’a donné le courage de sauter le pas."
+    },
+    {
+      "auteur": "Nina Adam",
+      "note": "4",
+      "date": "2025-03-17",
+      "titre": "Prendre les rênes d’une équipe",
+      "contenu": "Grâce au bilan, j’ai pris conscience de mes compétences en management. Avec l’accompagnement de ma coach, j’ai appris à mieux me positionner et, aujourd’hui, je gère une équipe. Ce n’est pas toujours facile, mais je suis fière de mon évolution et reconnaissante pour ce soutien."
+    },
+    {
+      "auteur": "Marine Girard",
+      "note": "4",
+      "date": "2025-03-14",
+      "titre": "La pâtisserie, une vocation révélée",
+      "contenu": "J’ai toujours adoré cuisiner pour mes proches, mais jamais je n’aurais imaginé en faire mon métier. Ma coach m’a aidée à structurer mon projet et à passer du rêve à la réalité. Aujourd’hui, je crée des gâteaux pour des événements, et c’est incroyable de vivre de ce que j’aime tant."
+    },
+    {
+      "auteur": "Laurine Vidal",
+      "note": "4",
+      "date": "2025-03-13",
+      "titre": "Un accompagnement sur-mesure",
+      "contenu": "Une super expérience ! J’avais pas mal de doutes sur ma reconversion et ce bilan m’a aidée à structurer ma réflexion. L’approche est personnalisée, et surtout, on ne nous force pas dans une direction. On apprend à prendre des décisions en fonction de qui on est vraiment. Je recommande."
+    },
+    {
+      "auteur": "Cécile Renard",
+      "note": "5",
+      "date": "2025-03-12",
+      "titre": "Un coaching efficace",
+      "contenu": "Je recommande ce bilan à toutes celles qui doutent de leur avenir pro ! C’est un super outil pour faire le point sur sa carrière et avancer sereinement. Ma coach a su me challenger et me motiver. Une belle expérience !"
+    },
+    {
+      "auteur": "Hèlène Maillard",
+      "note": "5",
+      "date": "2025-03-11",
+      "titre": "Un bon accompagnement",
+      "contenu": "Un immense merci à ma coach qui a su me gider avec douceur et professionnalisme."
+    },
+    {
+      "auteur": "Amandine Robert",
+      "note": "4",
+      "date": "2025-03-11",
+      "titre": "un scepticisme vite balayé",
+      "contenu": "Au début, j’étais sceptique… encore un truc de développement perso inutile ? Eh bien non ! C’était super concret, on est vraiment guidé étape par étape et le résultat est positif. J’ai retrouvé confiance en moi et j’ai enfin une vision claire pour mon avenir professionnel. Un grand merci !"
+    },
+    {
+      "auteur": "Laurence Dubost",
+      "note": "3",
+      "date": "2025-03-10",
+      "titre": "Un accompagnement motivant",
+      "contenu": "Un bilan de compétences qui m’a énormément apporté. Je me sens beaucoup plus sereine dans mon avenir professionnel. L’accompagnement a été de grande qualité, avec beaucoup d’écoute et de bienveillance."
+    },
+    {
+      "auteur": "Christine Barbier",
+      "note": "5",
+      "date": "2025-03-10",
+      "titre": "Un bilan qui booste",
+      "contenu": "J'avais l’impression de stagner dans ma carrière, ce bilan m’a donné un nouvel élan. J’ai appris à mieux me connaître, à mieux me vendre et surtout à OSER. J’ai déjà commencé à mettre en place mon projet, et ça fait un bien fou !"
+    },
+    {
+      "auteur": "Valérie Lemaitre",
+      "note": "4",
+      "date": "2025-03-08",
+      "titre": "Un accompagnement efficace",
+      "contenu": "Bilan complet mais pas trop long et bien structuré. J'ai apprécié la qualité des outils mis à disposition et la flexibilité des rendez-vous. J'ai trouvé des pistes intéressantes pour une réorientation. Expérience positive."
+    },
+    {
+      "auteur": "Anaïs Lefort",
+      "note": "5",
+      "date": "2025-03-07",
+      "titre": "Un tremplin pour la suite",
+      "contenu": "J'avais peur de me lancer dans ce bilan, mais j'aurais regretté de ne pas le faire! J'ai compris quelles étaient mes vraies aspirations et j'ai eu un accompagnement très humain et motivant. Un vrai tremplin pour la suite."
+    },
+    {
+      "auteur": "Julie Carpentier",
+      "note": "5",
+      "date": "2025-03-07",
+      "titre": "Une révélation sur mes besoins professionnels",
+      "contenu": "Honnêtement, je ne pensais pas que ça allait m'apporter autant. J'ai réalisé que mon mal-être au tavail venait d'un manque de sens dans ce que je faisais. Maintenant, je sais dans quelle direction aller pour retrouver du plaisir à travailler. Bonne expérience mais j'aurai aimé que ca dure un peu plus longtemps!"
+    },
+    {
+      "auteur": "Emma Durand",
+      "note": "5",
+      "date": "2025-03-06",
+      "titre": "mieux valoriser ses compétences",
+      "contenu": "Je suis ravie d’avoir fait ce bilan ! J’ai pu mettre en avant mes compétences et apprendre à mieux les valoriser sur mon CV et en entretien. Mon coach a été top, très à l’écoute et toujours avec des conseils pertinents. Une très belle aventure !"
+    },
+    {
+      "auteur": "Manon Roussel",
+      "note": "3",
+      "date": "2025-03-05",
+      "titre": "Un bilan instructif",
+      "contenu": "Bilan très intéressant et instructif. J'ai apprécié la méthodologie et l'écoute de ma conseillére, qui a su adapter les exercices à ma situation. J'ai trouvé des pistes de reconversion auxquelles je n'aurais jamais pensé seule. Seul petit bémol : j'aurais aimé un suivi encore plus long aprés le bilan, mais sinon, c'est du top nveau !"
+    },
+    {
+      "auteur": "Sarah Fontaine",
+      "note": "3",
+      "date": "2025-03-04",
+      "titre": "Un parcours semé d'embûches",
+      "contenu": "Le chemin a été plus long et plus compliqué que je ne l'imaginais, mais l'accompagnement m'a vraiment aidée à tenir bon. Grâce à ma coach, j'ai persévéré, et aujourd'hui, j'ai intégré une grande entreprise. Tout ne s'est pas fait en un claquement de doigts, mais ça en valait la penine."
+    },
+    {
+      "auteur": "Lee Jackson",
+      "note": "4",
+      "date": "2025-03-03",
+      "titre": "Changer de cap après des années en boutique",
+      "contenu": "J’avais besoin d’un nouveau souffle professionnel, sans trop savoir vers quoi me tourner. Le bilan de compétences m’a permis de faire le tri dans mes envies et mes aptitudes. Ma coach a su poser les bonnes questions, et ensemble, nous avons trouvé un poste d’assistante commerciale qui me correspond parfaitement. Aujourd’hui, je suis épanouie et j’ai même réussi à négocier une augmentation !"
+    },
+    {
+      "auteur": "Mélissa Chevalier",
+      "note": "4",
+      "date": "2025-02-26",
+      "titre": "Une certitude retrouvée",
+      "contenu": "MERCI du fond du cœur ! Je suis arrivée avec des doutes, je repars avec des certitudes et surtout un projet professionnel en béton. Mon coach a su me faire prendre conscience de mon potentiel et m’a donné les clés pour avancer. Une vraie révélation !"
+    },
+    {
+      "auteur": "Sophie Bernard",
+      "note": "4",
+      "date": "2025-02-24",
+      "titre": "Reprendre confiance",
+      "contenu": "Ce bilan de compétences a été une vraie bouffée d’oxygène dans ma carrière. J’étais enfermée dans un poste qui ne me convenait plus, et grâce à cet accompagnement, j’ai pris confiance en moi pour enfin oser changer de voie. Aujourd’hui, je démarre une nouvelle formation, et je suis pleine d’énergie pour la suite. Un immense merci à toute l’équipe !"
+    },
+    {
+      "auteur": "Élise Morel",
+      "note": "4",
+      "date": "2025-02-20",
+      "titre": "Un accompagnement bienveillant",
+      "contenu": "Un grand merci à toute l'équipe pour cet accompagnement bienveillant et structurant. J'étais complètement perdue professionnellement, et grâce à ce bilan, j'ai pu clarifier mes envies et surtout mettre en place un plan concret pour y arriver. Mention spéciale à ma coach qui a su m'écouter avec patience et m’a donné des conseils précieux. Une expérience que je recommande sans hésiter !"
+    },
+    {
+      "auteur": "Adéle Thomas",
+      "note": "3",
+      "date": "2025-02-13",
+      "titre": "Une reconversion audacieuse",
+      "contenu": "Je travaillais dans la comptabilité, un emploi stable mais sans passion. Mon véritable amour, c'est la musique, et grâce à l'accompagnement de ma coach, j'ai pu transformer cette passion en projet professionnel. Aujourd'hui, j'enseigne la guitare et je joue dans un groupe. Tout n'est pas encore parfait, mais je suis sur la bonne voie et c'est une sensation incroyable."
+    },
+    {
+      "auteur": "Léna Dubois",
+      "note": "4",
+      "date": "2025-02-08",
+      "titre": "un tournant décisi",
+      "contenu": "Après des années à vendre sans perspective d’évolution, j’étais en quête de sens. Ce bilan m’a ouvert les yeux : mes compétences relationnelles étaient précieuses pour un poste de manager. En appliquant les conseils de ma coach et en optimisant mon CV, j’ai décroché un pssite.oste de responsable d’équipe en 2 mois. J’aurais aimé que ça aille encore plus vite, mais chaque étape a été essentielle pour construire cette réu"
+    },
+    {
+      "auteur": "Clara",
+      "note": "5",
+      "date": "2025-01-28",
+      "titre": "design graphique",
+      "contenu": "Après plusieurs années dans l'administration, je n'étais pas épanouie. Pendant le bilan de compétences, ma coach m'a fait réaliser que j'avais un talent pour le graphisme, que je pratiquais juste pour le plaisir. J'ai suivi une formation rapide pour me perfectionner, et aujourd'hui, je suis graphiste freelance. Ce changement de carrière a transformé mon quotidien. Sans l'accompagnement, je n'aurais jamais osé franchir le pas."
+    },
+    {
+      "auteur": "Inès",
+      "note": "3",
+      "date": "2025-01-24",
+      "titre": "De vendeur à manager",
+      "contenu": "Après des années en tant que commercial sans évolution, le bilan de compétences a été décisif. Il m'a révélé que mes compétences en relation client pouvaient me mener à un poste de management. En suivant les conseils de ma coach et en retravaillant mon CV, j'ai décroché un poste de responsable d'équipe en vente en trois mois. L'accompagnement a été top, même si j'aurais souhaité aller plus vite. Mais ça a été une expérience enrichissante et bénéfique pour ma carrière."
+    },
+    {
+      "auteur": "Olivier Michel",
+      "note": "4",
+      "date": "2024-11-16",
+      "titre": "De vendeur à cuisinier",
+      "contenu": "J’étais commercial depuis longtemps, mais je me voyais pas faire ça toute ma vie. Avec le bilan de compétences, ma coach m’a fait réfléchir à ce que j’aimais vraiment. J’ai toujours aimé cuisiner, donc on a vu ensemble comment je pouvais me réorienter. Aujourd’hui, je suis en formation pour devenir cuisinier. C’est complètement différent, mais ça me plaît beaucoup."
+    },
+    {
+      "auteur": "Aïcha Benali",
+      "note": "5",
+      "date": "2024-11-16",
+      "titre": "Nouvelle carrière dans la petite enfance",
+      "contenu": "J’ai fait des années dans le commerce et je voulais faire quelque chose de plus utile. Ma coach m’a vraiment aidée à trouver ce qui me correspondait mieux. Après avoir fait un bilan de mes compétences, j’ai décidé de me lancer dans la petite enfance, maintenant je travaille dans une crèche. Ça a changé ma vie et je me sens beaucoup plus épanouie !"
+    },
+    {
+      "auteur": "Hélène Joubert",
+      "note": "5",
+      "date": "2024-11-15",
+      "titre": "Un coup de pouce bienvenu pour la suite",
+      "contenu": "Je ne savais pas trop comment rebondir après les changements dans mon entreprise. J'ai fait un bilan de compétences avec une coach qui m’a aidée à voir plus clair. J’ai pris conscience que je pouvais envisager un poste avec des responsabilités. Aujourd’hui, je suis dans une équipe où je gère quelques projets et mon salaire est légèrement supérieur. Expérience positive"
+    },
+    {
+      "auteur": "Marion Lefèvre",
+      "note": "5",
+      "date": "2024-11-15",
+      "titre": "Redécouvrir ses compétences, et plus encore",
+      "contenu": "Honnêtement, je ne savais plus trop où j’allais. Cet accompagnement est tombé à pic. Je ne m’attendais pas à grand-chose au départ, mais ma coach m’a aidée à faire le point sur tout ce que je savais faire, et j’ai pu remettre en perspective certaines compétences que je minimisais. En fait, ça m’a permis de me projeter vers des fonctions que je n’avais jamais envisagées, notamment dans la gestion d’équipe. Après quelques mois, j’ai trouvé un poste dans une boîte qui correspond bien à mon profil actuel. J’ai plus de responsabilités, et mon salaire a été revu en conséquence, ce qui est toujours bon à prendre. Cet accompagnement a vraiment apporté une clarté qui me manquait dans cette période de transition."
+    },
+    {
+      "auteur": "Nathalie Richard",
+      "note": "4",
+      "date": "2024-11-15",
+      "titre": "Un soutien pour retrouver confiance et avancer",
+      "contenu": "J’étais dans le flou et je cherchais à retrouver un équilibre professionnel. L’accompagnement m’a permis de prendre conscience de certaines compétences que je n’avais pas vraiment utilisées, et ça m’a aidée à envisager des possibilités que je n’aurais pas considérées autrement. Finalement, j’ai décroché un nouveau poste qui correspond bien mieux à mes attentes actuelles, et en plus, la rémunération suit un peu plus."
+    },
+    {
+      "auteur": "Mélanie François",
+      "note": "4",
+      "date": "2024-11-06",
+      "titre": "Une orientation claire, mais pas assez d’options",
+      "contenu": "Je venais du secteur de la vente et je voulais changer d’environnement, idéalement vers une fonction plus managériale. Le bilan de compétences m’a bien aidé à comprendre mes forces, mais j’ai trouvé que l’accompagnement manquait un peu de profondeur sur les options concrètes. Ma coach était sympa et disponible, mais j’aurais voulu qu’on explore davantage les secteurs possibles. Au final, j’ai pris une promotion en interne, mais je n’ai pas eu l’impression de vraiment explorer d’autres chemins. Un bilan correct, sans plus."
+    },
+    {
+      "auteur": "Élodie Caron",
+      "note": "4",
+      "date": "2024-11-06",
+      "titre": "Une révélation personnelle",
+      "contenu": "Après des années dans la vente, je commençais à me sentir un peu coincée. J'ai décidé de faire un bilan de compétences pour voir où je pouvais aller. Quel changement ! Ma coach était incroyable, toujours là pour m'écouter et me guider. Grâce à son soutien, j'ai réalisé que j'avais un vrai talent pour le coaching et la la formation dans une enterprise de taille intermédiaire, et je ne pourrais pas être plus heureuse. J'adore transmettre mes connaissances et aider les autres à progresser. Ce bilan a été une révélation pour moi, et je suis super reconnaissante pour l'accompagnement que j'ai recu !"
+    },
+    {
+      "auteur": "Sophie Vernet",
+      "note": "4",
+      "date": "2024-11-06",
+      "titre": "De secrétaire à responsable administrative",
+      "contenu": "Je travaillais comme secrétaire dans une petite entreprise depuis des années. J'aimais bien, mais je sentais que je pouvais faire plus. Avec ma coach, on a travaillé sur mes compétences de gestion et d'organisation. Elle m'a donné confiance, et j'ai postulé pour un poste de responsable administrative dans une boîte beaucoup plus grosse. Je l'ai eu ! Maintenant, je gère toute une équipe, et franchement, je ne pensais pas pouvoir faire ça un jour. Merci à ma coach pour m'avoir poussé à me lancer."
+    },
+    {
+      "auteur": "Lucas Perret",
+      "note": "3",
+      "date": "2024-11-06",
+      "titre": "Une orientation claire, mais peu d’options",
+      "contenu": "Je venais du secteur de la vente et je voulais changer d’environnement, idéalement vers une fonction plus managériale. Le bilan de compétences m’a bien aidé à comprendre mes forces, mais j’ai trouvé que l’accompagnement manquait un peu de profondeur sur les options concrètes. Ma coach était sympa et disponible, mais j’aurais voulu qu’on explore davantage les secteurs possibles. Au final, j’ai pris une promotion en interne, mais je n’ai pas eu l’impression de vraiment explorer d’autres chemins. Un bilan correct, sans plus."
+    },
+    {
+      "auteur": "Antoine Belanger",
+      "note": "3",
+      "date": "2024-11-06",
+      "titre": "Une réorientation réussie",
+      "contenu": "Franchement, j'étais perdu dans mon boulot d'assistant dans une enterprise de vente. Je savais que je pouvais faire plus, mais je ne savais pas vers où me diriger. Le bilan de compétence m'a vraiment aidé à mettre le doigt sur mes capacités. Ma coach a été super pour me faire réfléchir, et ensemble, on a découvert que je pouvais me tourner vers la gestion de project. J'ai finalement décroché un poste d'assistant chef de projet dans une plus grande enterprise. Je suis content, même si j'aurais aimé un peu plus de soutien sur certaines étapes. Mais au final, je me sens sur la boone voie."
+    },
+    {
+      "auteur": "Léo Morel",
+      "note": "4",
+      "date": "2024-11-05",
+      "titre": "D’assistant commercial à responsable des ventes",
+      "contenu": "J’étais assistant commercial dans une petite structure, mais j’aspirais à un poste plus important. Ma coach a travaillé avec moi sur mes capacités à manager et à comprendre les stratégies de vente. Aujourd’hui, je suis responsable des ventes dans une entreprise de grande distribution. Je gère une équipe de dix personnes et les objectifs sont plus élevés, mais c’est exactement ce que je cherchais. L’accompagnement m’a vraiment aidé à prendre confiance en mes capacités."
+    },
+    {
+      "auteur": "sabrina viang",
+      "note": "3",
+      "date": "2024-11-03",
+      "titre": "Des papiers à l’animation",
+      "contenu": "Je bossais dans les dossiers et tout, mais sérieux, c’était trop barbant. Ma coach m’a dit « Pourquoi t’essayes pas l’animation ? » J’avais jamais pensé à ça, mais elle a bien fait de me pousser. Maintenant, je fais de l’animation pour des gamins, et c’est tellement plus fun ! Je me lève le matin avec la banane, et ça, c’est grâce à elle. Franchement, je regrette pas du tout. Mais j'attend de gagner plus d'argent pour savoir si c'ets un pari gagnant."
+    },
+    {
+      "auteur": "Nina Koval",
+      "note": "4",
+      "date": "2024-11-02",
+      "titre": "D’administrative à pâtissière",
+      "contenu": "Franchement, j’en pouvais plus de l’administratif, c’était hiant. Ma coach, elle a capté direct que j’aimais faire des gâteaux. Elle m’a aidée à me lancer dans la pâtisserie, et maintenant, je prépare des gâteaux pour des événements ! C’est un truc de ouf, j’aurais jamais imaginé faire ça un jour. Honnêtement, ça a changé ma vie, je suis hyper contente. Merci la coach !"
+    },
+    {
+      "auteur": "Lucie marchand",
+      "note": "4",
+      "date": "2024-11-02",
+      "titre": "Une transition vers l’artisanat",
+      "contenu": "Le commerce, c’était mon domaine depuis toujours. Mais au fond, je voulais créer, travailler avec mes mains. Ma coach m’a guidée pour faire cette transition vers l’artisanat. Elle m’a encouragée à explorer cette passion et m’a accompagnée dans le lancement de mon activité de céramiste. Aujourd’hui, je crée des pièces uniques, et je vis de ma passion. C’est un changement radical, mais je n’aurais jamais eu le courage de me lancer sans elle."
+    },
+    {
+      "auteur": "Damien viviant",
+      "note": "3",
+      "date": "2024-11-02",
+      "titre": "Des chiffres à la musique",
+      "contenu": "Bon, c’était pas gagné au départ. J’étais comptable, un boulot stable, mais clairement pas ma passion. J’ai toujours pratiqué la musique a un bon niveau, alors j’ai pris le risque. Ma coach m’a beaucoup aidé à y voir plus clair. Aujourd’hui, je joue dans un groupe et j'enseigne la guitare. Le chemin a été long, et ça demande encore des ajustements, mais j'y suis presque. L’accompagnement a vraiment compté, même si j’aurais aimé plus d’options dès le départ."
+    },
+    {
+      "auteur": "marc bertrand",
+      "note": "3",
+      "date": "2024-10-30",
+      "titre": "De l’administration à l’événementiel",
+      "contenu": "Je travaillais dans le support administratif, mais ça me passionnait pas. Grâce à ma coach, j’ai découvert que j’aimais organiser des événements. Elle m’a aidé à voir comment je pouvais transférer mes compétences. Maintenant, je bosse dans l’événementiel, et même si ça demande beaucoup d’énergie, je me sens vraiment mieux. Ça m’a pris du temps pour me lancer, mais je suis content d’avoir fait ce bilan !"
+    },
+    {
+      "auteur": "Lina Khalifi",
+      "note": "4",
+      "date": "2024-10-30",
+      "titre": "je travail dans le graphisme",
+      "contenu": "J’ai travaillé dans l’administration pendant plusieurs années, mais je m’ennuyais. Ma coach m’a aidée à voir que j’avais un vrai talent pour le graphisme, quelque chose que je faisais juste pour le plaisir avant. J’ai suivi une formation rapide, et maintenant je bosse comme graphiste freelance. C’est un changement total, mais je suis vraiment heureuse de cette réorientation. Sans l’accompagnement, je serais restée coincée dans l’administration."
+    },
+    {
+      "auteur": "Karim Haddad",
+      "note": "4",
+      "date": "2024-10-28",
+      "titre": "J’ai pu changer de travail",
+      "contenu": "Je bossais dans la vente depuis des années, mais ça me motivait plus. Avec ma coach, on a travaillé sur mes compétences et elle m’a fait voir que j’avais un bon potentiel pour l'informatique. C’était pas évident au début, j’ai dû me former en plus, mais aujourd’hui je suis en train de commencer comme développeur web en freelance. C’est un sacré changement ! Même si ça a pris du temps, l’accompagnement m’a bien guidé."
+    },
+    {
+      "auteur": "Julie pourret",
+      "note": "5",
+      "date": "2024-10-28",
+      "titre": "Un épanouissement inattendu",
+      "contenu": "Après plusieurs années dans la vente en boutique, j'avais vraiment besoin de changement. Le bilan de compétences m’a aidée à faire le point et à réfléchir à ce que je voulais vraiment. Ma coach a été super, elle a posé les bonnes questions et m’a vraiment fait réfléchir à ce que je pouvais faire d’autre. Ensemble, on a trouvé un poste d’assistante commerciale qui correspondait bien à ce que je recherchais. Depuis, je suis vraiment bien dans ce nouveau job, et en plus, j’ai pu négocier une belle augmentation. Franchement, je ne m’attendais pas à une telle transformation, mais je suis super contente d’avoir fait ce bilan !"
+    },
+    {
+      "auteur": "Lucas Bernier",
+      "note": "3",
+      "date": "2024-10-28",
+      "titre": "Un nouveau départ vers l’administration",
+      "contenu": "J’ai travaillé longtemps dans la vente directe, mais j'avais vraiment envie de changer et d’aller vers la gestion administrative. Le bilan de compétences m’a vraiment aidé à mieux comprendre ce que je pouvais transférer de mes compétences actuelles. Ma coach, elle a été super à l'écoute, toujours là pour m’aider et me soutenir, même quand j’avais des doutes. C’est vrai que ça a pris plus de temps que je pensais, et il y a eu des moments un peu compliqués, mais au final j’ai décroché un poste dans une grtreprise. L’accompagnement a été vraiment utile, même si je m’attendais à ce que ça aille un peu plus vite. Mais je suis content du résultat !"
+    },
+    {
+      "auteur": "Caroline dochard",
+      "note": "4",
+      "date": "2024-10-27",
+      "titre": "Rebondir après une période difficile",
+      "contenu": "Après une restructuration dans mon entreprise, je me suis retrouvée à la recherche d’une nouvelle direction dans le secteur administratif. Ma coach m'a redonné confiance et m'a accompagnée dans la réévaluation de mes compétences. J'ai compris que je pouvais évoluer vers des fonctions plus stratégiques, comme la gestion d'équipe. Grâce à cet accompagnement, j'ai non seulement trouvé un nouveau poste, mais j’ai aussi augmenté mon salaire. Une expérience plus que positive, que je recommande à tous ceux qui cherchent à rebondir."
+    }
+  ],
+  "www.mypersonali.fr": [
+    {
+      "auteur": "Camille Lefèvre",
+      "note": "4",
+      "date": "2025-05-12",
+      "titre": "Du doute à la clarté",
+      "contenu": "Avant, j’avais cette sensation désagréable d’être à côté de ma vie pro. Maintenant, je sais ce que je veux, ce que je vaux, et ce que je ne veux plus. C’est énorme. Je repars avec des pistes concrètes, mais surtout une nouvelle énergie."
+    },
+    {
+      "auteur": "Aïcha Traoré",
+      "note": "5",
+      "date": "2025-05-10",
+      "titre": "Un format souple et efficace",
+      "contenu": "Le rythme était idéal. Ni trop long, ni bâclé. J'ai pu m'organiser autour de mon emploi du temps, avec des séances claires, bien structurées, et des échanges qui m'ont fait réfléchir. Résultat : j'ai pu repositionner mon profil sur le marché avec confiance."
+    },
+    {
+      "auteur": "Salomé Bakayoko",
+      "note": "5",
+      "date": "2025-05-08",
+      "titre": "Reprendre confiance aprés une longue pause",
+      "contenu": "Après une longue période hors du marché du travail pour raisons personnelles, je ne savais plus par oùcommencer. J;avais peur de tout. Om a reconstruit pas à pas en valorisant ce que je pensais avoir perdu. Aujourd'hui, je travaille à mi-temps dans une médiathèque et je me forme pour devenir bibliothécaire. Ce n'est qu'un début, mais il est solide."
+    },
+    {
+      "auteur": "Yasmine Benali",
+      "note": "5",
+      "date": "2025-05-07",
+      "titre": "Un changement progressif vers le freelance",
+      "contenu": "Le bilan m’a aidée à envisager autrement mon rapport au travail. J’étais salariée dans le marketing digital, et j’envisageais le freelancing sans oser sauter le pas. Aujourd’hui, je fais les deux : je garde un pied dans le salariat, mais je développe doucement mon activité en tant qu’indépendante. C’est un équilibre que je n’aurais jamais pensé possible avant."
+    },
+    {
+      "auteur": "Claire Nguyen",
+      "note": "4",
+      "date": "2025-05-06",
+      "titre": "Une vraie prise de recul",
+      "contenu": "Je ne savais plus trop ce que je voulais faire ni ce pour quoi j’étais douée. Cet accompagnement m’a permis de remettre les choses à plat. On a pris le temps de revenir sur mon parcours, d’analyser mes compétences sans jugement, et de me projeter. C’est la première fois depuis longtemps que je me sens alignée avec mes choix."
+    },
+    {
+      "auteur": "Julie Martin",
+      "note": "5",
+      "date": "2025-05-06",
+      "titre": "Merci pour votre écoute",
+      "contenu": "Juste un mot : merci. J'ai été très touchée par la bienveillance de la consultante. À chaque séance, j'ai senti qu'on avançait pas à pas, à mon rythme. Rien n'était figé ou automatique. On sent une vraie volonté d'accompagner la personne, pas juste de « faire un bilan »."
+    },
+    {
+      "auteur": "Vanessa",
+      "note": "5",
+      "date": "2025-05-05",
+      "titre": "Un tremplin après une rèorganisation",
+      "contenu": "Ce n'est pas un changement radical, mais ça m'a permis de reprendre confiance et de mieux me projeter dans l'avenir."
+    },
+    {
+      "auteur": "Lina Abid",
+      "note": "4",
+      "date": "2025-05-03",
+      "titre": "Mieux vivre une fin de carrière",
+      "contenu": "Je suis à dix ans de la retraite, et je ne voulais pas finir en pilotage automatique. Le bilan m’a aidée à redonner du sens à ce que je fais. On a aussi discuté de transmission, de posture, et ça a changé ma façon d’être au travail. J’accompagne aujourd’hui les jeunes recrues de mon service, et ça me plaît vraiment."
+    },
+    {
+      "auteur": "Claire Dubois",
+      "note": "5",
+      "date": "2025-05-01",
+      "titre": "Du flou à une feuille de route",
+      "contenu": "Je suis arrivée en disant « je ne sais pas ce que je veux ». Ce qui m’a étonnée, c’est la méthode très progressive qui m’a permis d’y voir plus clair. On n’a pas sorti une réponse toute faite, mais j’ai construit une vraie stratégie pour les deux années à venir. J’ai toujours des doutes, mais j’ai maintenant un cap."
+    },
+    {
+      "auteur": "Myriam Guetta",
+      "note": "5",
+      "date": "2025-05-01",
+      "titre": "Revenir sur le marché avec sérénité",
+      "contenu": "Après un burn-out, je ne voulais plus entendre parler d’objectifs, de reporting ou de deadlines. Le parcours m’a aidée à faire la paix avec cette partie de mon parcours. J’ai repris le travail à temps partiel, dans un environnement plus calme, en prenant soin de moi. Je ne suis pas encore prête à retravailler à plein régime, mais au moins je sais ce que je veux, et ce que je ne veux plus."
+    },
+    {
+      "auteur": "Mina Bouzid",
+      "note": "5",
+      "date": "2025-04-26",
+      "titre": "Une évolution au sien de la même entreprise",
+      "contenu": "Je ne pas tout quitter, juste évoluer. Le travail réalisé m'a permis de mieux exprimer mes envies auprès de ma direction. Quelques mois plus tard, j'ai obtenu une mobilité interne vers un poste de chargée de formation. Je reste dans L'entreprise, mais je me sens vraiment mieux dans mes fonctions."
+    },
+    {
+      "auteur": "Manon Blanchet",
+      "note": "4",
+      "date": "2025-04-24",
+      "titre": "De caissière à auxiliaire de crèche",
+      "contenu": "Je n’avais pas de diplôme, et je pensais que c’était foutu. Pendant l’accompagnement, on a travaillé sur mon expérience terrain, mes qualités relationnelles, et j’ai pu intégrer une formation en alternance. Aujourd’hui, je travaille en crèche. Ce n’est pas toujours facile, mais je me sens utile. C’est ce que je cherchais."
+    },
+    {
+      "auteur": "Sophie Morel",
+      "note": "4",
+      "date": "2025-04-22",
+      "titre": "De la logistique à la médiation culturelle",
+      "contenu": "J’ai passé 12 ans dans la logistique. C’était carré, structuré, mais pas vraiment moi. Grâce au bilan, j’ai réalisé que ce que j’aimais, c’était transmettre, organiser des rencontres. J’ai rejoint une association culturelle et je prépare un diplôme en médiation. C’est un grand changement, pas toujours simple à gérer financièrement, mais je suis fière de ce choix."
+    },
+    {
+      "auteur": "Sabrina Amar",
+      "note": "4",
+      "date": "2025-04-21",
+      "titre": "D’aide-comptable à gestionnaire paie",
+      "contenu": "Je n’ai pas changé de voie radicalement, mais j’ai évolué dans mon domaine. Ce que j’ai aimé dans l’accompagnement, c’est qu’il ne poussait pas forcément à la reconversion totale, mais à un repositionnement réaliste. J’ai pu identifier ce qui me plaisait dans mon métier et orienter mes compétences vers un poste plus technique, plus valorisé, avec de meilleures perspectives."
+    },
+    {
+      "auteur": "Nadia Belkacem",
+      "note": "4",
+      "date": "2025-04-16",
+      "titre": "Juste ce qu’il me fallait",
+      "contenu": "Pas de grandes promesses, mais une méthode claire, une vraie écoute, et des résultats. Ça m’a aidée à faire le tri, à décider et surtout à passer à l’action. Et c’était exactement ce que je cherchais."
+    },
+    {
+      "auteur": "Anaïs Petit",
+      "note": "5",
+      "date": "2025-04-09",
+      "titre": "Bienveillance et exigence équilibrées",
+      "contenu": "J’ai adoré la posture de la consultante : à l’écoute, mais aussi challengeante quand il le fallait. Elle ne m’a jamais laissé fuir les vraies questions, tout en restant dans le respect. C’est un équilibre rare, et très efficace."
+    },
+    {
+      "auteur": "Fatou Diallo",
+      "note": "5",
+      "date": "2025-04-08",
+      "titre": "Accompagnement post-bilan précieux",
+      "contenu": "J'ai terminé mon bilan il y a 3 mois, et j’ai été surprise de recevoir un suivi très opérationnel. On a fait un point rapide sur ma mise en action, ce qui m’a reboostée. Ce petit plus change tout : on se sent vraiment accompagnée, même après."
+    },
+    {
+      "auteur": "Lola",
+      "note": "4",
+      "date": "2025-02-03",
+      "titre": "Du flou à la clarté : une belle évolution",
+      "contenu": "Honnêtement, je ne savais plus où j’en étais. Ma coach m’a aidée à faire le point sur mes compétences et à envisager des options auxquelles je n’avais jamais pensé, comme la gestion d’équipe. Quelques mois plus tard, j’ai décroché un poste avec plus de responsabilités et un salaire réévalué. Ce bilan m’a apporté une clarté dont j’avais vraiment besoin à ce moment de ma carrière."
+    },
+    {
+      "auteur": "Julie",
+      "note": "4",
+      "date": "2025-02-02",
+      "titre": "De l’administration aux coulisses événementielles",
+      "contenu": "Grâce à ma coach, j’ai découvert que j’avais un vrai goût pour l’organisation d’événements. Elle m’a aidée à comprendre comment transférer mes compétences vers ce domaine, et aujourd’hui, je travaille dans l’événementiel. C’est un métier qui demande beaucoup d’énergie, mais je m’y sens tellement mieux ! Ça n’a pas été facile de me lancer, mais le bilan m’a donné la confiance nécessaire pour faire ce choix."
+    },
+    {
+      "auteur": "Jade",
+      "note": "3",
+      "date": "2025-02-01",
+      "titre": "Un tournant bien guidé",
+      "contenu": "Les étapes étaient bien définies, et j'ai apprécié la personnalisation des outills. J'aurais aimé avoir plus d'exemples pretiques sur certains points, mais globalement, c'était une très bonne expérience."
+    },
+    {
+      "auteur": "Héloïse",
+      "note": "5",
+      "date": "2025-02-01",
+      "titre": "Clarifier ses forces pour avancer",
+      "contenu": "Ce bilan m'a permis de mieux comprendre mes forces et les opportunités qui s'offraient à moi. Les échanges étaient claires et orientés vers des solutions concrètes, ce qui m'a donné confiance pour avancer. Une expérience structurés et motivante."
+    },
+    {
+      "auteur": "Éva",
+      "note": "5",
+      "date": "2025-01-31",
+      "titre": "Une passion pour la formation révélée",
+      "contenu": "Une expérience utile qui m’a remise sur les rails."
+    },
+    {
+      "auteur": "Marine",
+      "note": "5",
+      "date": "2025-01-30",
+      "titre": "Une prise de conscience personnelle",
+      "contenu": "Aujourd’hui, je suis responsable de la formation dans une entreprise, et j’adore aider les autres à progresser. Ce bilan a été un tournant dans ma vie, et je ne pourrais pas être plus reconnaissante."
+    },
+    {
+      "auteur": "Delphine",
+      "note": "4",
+      "date": "2025-01-31",
+      "titre": "Une transition en douceur vers plus d’équilibre",
+      "contenu": "J’étais dans une période de flou et j’avais besoin de retrouver un équilibre professionnel. L’accompagnement m’a aidée à prendre conscience de compétences que je ne valorisais pas assez. Aujourd’hui, je suis dans un poste qui correspond bien mieux à mes attentes, avec une rémunération un peu plus avantageuse. Cet accompagnement est vraiment tombé à pic pour me recentrer."
+    },
+    {
+      "auteur": "Justine",
+      "note": "4",
+      "date": "2025-01-29",
+      "titre": "D’assistant à responsable commercial",
+      "contenu": "Aujourd’hui, je suis responsable des ventes dans une grande entreprise de distribution, où je gère une équipe de dix personnes. Les challenges sont plus grands, mais c’est exactement ce que je voulais. Ce bilan m’a donné confiance en mes capacités, et je suis vraiment fier de cette évolution."
+    },
+    {
+      "auteur": "Anaïs",
+      "note": "5",
+      "date": "2025-01-29",
+      "titre": "De vendeuse à gestionnair de rayon",
+      "contenu": "Ma coach a su me montrer mon potentiel et m'a accompagnée pour progresser. Aujourd'hui, je suis cheffe de rayon dans une grande chaîne de magasins.Ce n'est pas toujours simple, mais j'ai appris à gérer une équipe et à prendre des décisions importantes. Je suis fiére d'avoir osé passer à l'étape suivante. Ce bilan m'a vraiment aidée à avancer !"
+    },
+    {
+      "auteur": "Maëva",
+      "note": "4",
+      "date": "2025-01-29",
+      "titre": "Une poromotion vers la coordination administrative",
+      "contenu": "Avec ma coach, on a travaillé sur ma capacité à mener plusieurs projets en même temps. Grâce à elle, j'ai postulé pour un poste de coordinatrice administrative dans une entreprise internationale, et je l'ai décroché! Aujourd'hui, je suis en charge de la coordination entre différents services, et c'est vraiment enrichissant. Ce changement m'a permis de me sentir plus impliquée dans mon travail."
+    },
+    {
+      "auteur": "Lucie",
+      "note": "5",
+      "date": "2025-01-28",
+      "titre": "De secrétaire à leader administrative",
+      "contenu": "Aujourd’hui, je gère une équipe, et je suis fière de voir jusqu’où je suis arrivée. Merci à ma coach pour m’avoir poussée à croire en moi."
+    },
+    {
+      "auteur": "James Benett",
+      "note": "4",
+      "date": "2025-01-28",
+      "titre": "De l’administration aux coulisses événementielles",
+      "contenu": "Grâce à ma coach, j’ai découvert que j’avais un vrai goût pour l’organisation d’événements. Elle m’a aidée à comprendre comment transférer mes compétences vers ce domaine, et aujourd’hui, je travaille dans l’événementiel. C’est un métier qui demande beaucoup d’énergie, mais je m’y sens tellement mieux ! Ça n’a pas été facile de me lancer, mais le bilan m’a donné la confiance nécessaire pour faire ce choix."
+    },
+    {
+      "auteur": "Margaux",
+      "note": "5",
+      "date": "2025-01-29",
+      "titre": "De la vente à la petite enfance : une reconversion pleine de sens",
+      "contenu": "J’ai passé plusieurs années dans le commerce, mais j’avais envie de faire quelque chose de plus utile, qui ait plus de sens pour moi. Grâce au bilan de compétences, j’ai pu faire un vrai point sur mes envies et mes aptitudes. Ma coach m’a guidée pas à pas, et finalement, j’ai décidé de me lancer dans la petite enfance. Aujourd’hui, je travaille dans une crèche, et ça a complètement changé ma vie."
+    },
+    {
+      "auteur": "Céline",
+      "note": "5",
+      "date": "2025-01-26",
+      "titre": "Plonger dans le design d'intérieur",
+      "contenu": "J'ai toujours adoré la décoration d'intérieur, mais je n'imaginais pas pouvoir en faire un métier. C'est là que ma coach est intervenur : elle m'a écoutée, encouragée, et surtout, aidée à construire un plan pour transformer ce rêve en réalite. Aujourd'hui, je travaille comme assistante dans une agence de design, et c'est une aventure incroyable. Ce changement, que je pensais impossible, a été rendu possible grâce à cet accompagnement. Je ne peux que le recommander!"
+    }
+  ],
+  "www.espaceconnexion.pro": [
+    {
+      "auteur": "Léa Fontaine",
+      "note": "4",
+      "date": "2025-03-17",
+      "titre": "Un tournant décisif",
+      "contenu": "J’étais bloquée dans mon poste depuis plusieurs années, avec l’impression de stagner. Grâce à cet accompagnement structuré et bienveillant, j’ai pu identifier mes forces et repositionner mon profil sur le marché. Aujourd’hui, je suis responsable d’équipe et je m’épanouis pleinement ! maisj'aurai aimé que l'accompagnement soit plus rapide."
+    },
+    {
+      "auteur": "Manon Lefèvre",
+      "note": "5",
+      "date": "2025-03-17",
+      "titre": "une vocation",
+      "contenu": "Je ne voulais plus subir mon travail, mais trouver un poste qui ait du sens pour moi. L’accompagnement a été une vraie claque : des exercices concrets, un suivi attentif et des conseils précieux. Résultat ? J’ai trouvé un emploi aligné avec mes valeurs, et pour la première fois, je vais travailler avec enthousiasme."
+    },
+    {
+      "auteur": "Manon Lefèvre",
+      "note": "5",
+      "date": "2025-03-12",
+      "titre": "une vocation",
+      "contenu": "Je ne voulais plus subir mon travail, mais trouver un poste qui ait du sens pour moi. L’accompagnement a été une vraie claque : des exercices concrets, un suivi attentif et des conseils précieux. Résultat ? J’ai trouvé un emploi aligné avec mes valeurs, et pour la première fois, je vais travailler avec enthousiasme."
+    },
+    {
+      "auteur": "Élise Marchand",
+      "note": "3",
+      "date": "2025-03-11",
+      "titre": "un peu long",
+      "contenu": "j'aurai aimé que l'accompagnement soit plus rapide, mais je suis content de l'avolution professionnelle."
+    },
+    {
+      "auteur": "Anaïs Robert",
+      "note": "5",
+      "date": "2025-02-21",
+      "titre": "Une opportunité saisie",
+      "contenu": "J’avais une belle opportunité devant moi, mais je doutais de mes capacités. Grâce à un accompagnement ultra personnalisé, j’ai pu prendre conscience de ma valeur et me préparer aux entretiens. J’ai décroché le poste, avec une belle augmentation à la clé. Un vrai tournant dans ma carrière !"
+    },
+    {
+      "auteur": "Justine Blanchard",
+      "note": "5",
+      "date": "2025-02-21",
+      "titre": "Une carriére relancée",
+      "contenu": "Après plusieurs annèes dans le même poste, je me suis rendu compte que je n'êtais plus êpanouie. J'ai été accompagnée correctement dans cette réflexion, je pense que c'est une question defeeling. mais les évolutions professionnelles ont été moins nombreuse que prévue. j'ai évolué au bout de 2 mois. trop long"
+    },
+    {
+      "auteur": "Margaux Perrin",
+      "note": "5",
+      "date": "2025-02-20",
+      "titre": "Une confiance retrouvée",
+      "contenu": "Grâce aux outils et aux conseils reçus, j’ai su me démarquer. Aujourd’hui, j’ai un nouveau poste avec plus de responsabilités et je me sens enfin reconnue !"
+    },
+    {
+      "auteur": "Juliette Lambert",
+      "note": "4",
+      "date": "2025-02-19",
+      "titre": "Une évolution méritée",
+      "contenu": "Je voulais évoluer dans mon entreprise, mais je n'osais pas demander une promotion. Après l'accompagnement, j'ai appris à valoriser mon travail et à négocier avec assurance."
+    },
+    {
+      "auteur": "Camille Garnier",
+      "note": "4",
+      "date": "2025-02-17",
+      "titre": "Merci a l'equipe",
+      "contenu": "Changer de métier me semblait impossible... jusqu'à ce que je sois gidée pas àpas dans cette transition. J'ai pu monter en compàtences, retravailler mon CV etsurtout, comprendre ce que je voulais vraiment. Aujourd'hui, je travaille dans un domaine qui me passionne et je n'ai jamais été aussi motivée!"
+    },
+    {
+      "auteur": "Clara Morel",
+      "note": "2",
+      "date": "2025-02-14",
+      "titre": "Une prise de confiance",
+      "contenu": "Avant cet accompagement, je doutais de mes compétences et je n'osais pas postuler à des postes à responsabilités. Grâce aux âchanges et aux conseils reçus, j'ai pris confiance en moi et j'ai décroché un poste de cheffe de projet avec une belle revalorisation salariale."
+    },
+    {
+      "auteur": "Lucie Martinez",
+      "note": "4",
+      "date": "2024-10-28",
+      "titre": "Passerelle vers la Gestion d’Événements",
+      "contenu": "Après avoir travaillé pendant des années dans le secteur administratif, j’ai senti le besoin de changement. Mon coach m’a aidée à découvrir que j’avais un véritable potentiel pour la gestion d’événements. Grâce à son soutien, j’ai réussi à décrocher un poste dans ce domaine. Les premiers mois ont été intenses, mais je me suis rapidement adaptée. En prime, mon salaire a augmenté de 20 %, ce qui reflète l’importance de mes nouvelles responsabilités. Aujourd’hui, je m’épanouis dans ce rôle où la créativité et l'organisation se rejoignent."
+    },
+    {
+      "auteur": "Chloé Roussel",
+      "note": "5",
+      "date": "2024-10-27",
+      "titre": "Assistante commerciale, maintenant coordinatrice des ventes",
+      "contenu": "Je voulais plus de responsabilités dans mon domaine. Grâce au coaching, j’ai pu cibler les opportunités et décrocher un poste de coordinatrice des ventes. J’ai maintenant la charge de plusieurs équipes et je suis impliquée dans les décisions stratégiques. En plus, j’ai eu une belle augmentation de salaire. Une grande satisfaction !"
+    },
+    {
+      "auteur": "Julie Riviére",
+      "note": "5",
+      "date": "2024-10-26",
+      "titre": "De l'Enseignement au Consulting",
+      "contenu": "J'étais enseignante depuis 15 ans mais j'avais besoin de nouveaux défis. Mon coach a su me montrer que mes compétences en pédagogie pouvaient étre précieuses dans le consulting en entreprise. Nous avons travaillé ensemble sur mon projet et aprés quelques mois j'ai décroché un poste de consultante en formation. Ce changement de carriére a non seulement redonné du sens à ma vie professionnelle mais il a également boosté mon salaire de 30%. Aujourd'hui je me sens plus épanouie que jamais et je vois clairement les opportunités qui s'ouvrent à moi dans ce domaine."
+    },
+    {
+      "auteur": "Antoine Lefèvre",
+      "note": "4",
+      "date": "2024-10-26",
+      "titre": "Quitter la Comptabilité pour l’Analyse de Données",
+      "contenu": "Je me suis lancé dans une nouvelle aventure : passer de la comptabilité à l’analyse de données. Mon coach a été d'une aide précieuse dans cette transition. Ensemble, nous avons travaillé sur le développement de compétences techniques, comme la maîtrise des outils d'analyse et de gestion des données. Ce nouveau rôle est exigeant et a nécessité un apprentissage rapide, mais je suis fier du chemin parcouru. Même si mon salaire n’a pas encore augmenté, les perspectives d’évolution sont prometteuses. Je me sens motivé à continuer sur cette voie, convaincu que les résultats suivront."
+    },
+    {
+      "auteur": "Sophie Marchal",
+      "note": "4",
+      "date": "2024-10-20",
+      "titre": "Mon Rêve de Coaching, enfin Réalisé",
+      "contenu": "Je rêvais de devenir consultante en développement personnel, mais je ne savais pas par où commencer. Mon coach m’a aidée à structurer mes idées et à transformer cette aspiration en un projet concret. Il m’a guidée dans l’apprentissage de nouvelles compétences, m’a soutenue dans la création de mon réseau et m’a aidée à surmonter mes doutes. Grâce à son accompagnement, j’ai monté ma propre structure en moins d’un an et mes clients sont très satisfaits de mes services. Cette transformation professionnelle a été un véritable succès, et l’aide de mon coach a été essentielle tout au long du processus."
+    },
+    {
+      "auteur": "Pierre thomas",
+      "note": "3",
+      "date": "2024-10-20",
+      "titre": "Défi de Formateur",
+      "contenu": "Je voulais me réorienter vers la formation, mais je manquais de confiance en moi et de méthodologie. Mon coach a été un véritable pilier dans cette transition. Il m’a aidé à comprendre les compétences que je devais développer et m’a guidé dans la mise en place d’ateliers pratiques pour améliorer mes compétences pédagogiques. Cependant, malgré ce soutien, j’ai trouvé le chemin plus difficile que prévu. Les premiers mois en tant que formateur ont été chaotiques, et je me suis souvent senti dépassé. Même si j’ai fait de grands progrès, je sais qu’il me reste encore beaucoup à apprendre."
+    },
+    {
+      "auteur": "Julien Morel",
+      "note": "3",
+      "date": "2024-10-18",
+      "titre": "Transition Réussie",
+      "contenu": "Je travaillais depuis des années dans la logistique, mais je sentais que je voulais changer. Mon coach m’a aidé à prendre du recul et à voir que mes compétences pouvaient être transférées vers la gestion des opérations. Grâce à des séances régulières, il m’a soutenu dans l’acquisition de nouvelles compétences, tout en me donnant la confiance nécessaire pour postuler à des postes plus stratégiques. J’ai décroché un emploi, mais l’adaptation a été plus longue que prévu. Heureusement, avec l’aide continue de mon coach, j'ai pu surmonter ces obstacles et maintenant je me sens bien dans mon nouveau rôle."
+    },
+    {
+      "auteur": "Lucas Bernier",
+      "note": "4",
+      "date": "2024-10-15",
+      "titre": "De la Vente au Marketing, le Déclic",
+      "contenu": "Je savais que je voulais quitter le monde de la vente, mais je ne savais pas vers quoi me tourner. C’est grâce à l’accompagnement de mon coach que j’ai pu clarifier mes envies et mes compétences. Ensemble, nous avons construit un plan de transition vers le marketing digital. Mon coach m’a soutenu à chaque étape, de la formation à la recherche d’emploi, en passant par les entretiens. J’ai réussi à décrocher un poste de spécialiste en marketing de contenu dans une grande agence, et je n’aurais jamais pu y arriver seul. Cet accompagnement a vraiment été la clé de ma réussite."
+    },
+    {
+      "auteur": "Caroline dochard",
+      "note": "4",
+      "date": "2024-10-15",
+      "titre": "De secrétaire à coordinatrice administrative",
+      "contenu": "Le poste de secrétaire ne me correspondait plus, je voulais plus d’autonomie et de responsabilités. Grâce au coaching, j’ai pu postuler à des offres plus stratégiques et décrocher un poste de coordinatrice administrative dans une grande entreprise. Mon salaire a également augmenté."
+    },
+    {
+      "auteur": "Julien Lafont",
+      "note": "4",
+      "date": "2024-10-14",
+      "titre": "Manager d'équipe : une belle évolution",
+      "contenu": "J'étais coince dans un poste de vendeur sans possibilite d'évolution. Grâce à l'accompagnement j'ai su mieux présenter mes compétence et saisir des opportunités. Résultat: je suis devenu manager d'équioe dans une grande enseigne. Un vrai changement pour moi et mon salaire a bien suivi. Je recommende vivement cet accompagnementpour ceux qui veulent progresser."
+    },
+    {
+      "auteur": "Sophie Lemoine",
+      "note": "5",
+      "date": "2024-09-27",
+      "titre": "De l’administration à la direction de projet",
+      "contenu": "Après avoir été assistante administrative pendant plus de 10 ans, je me sentais enfermée dans un rôle où je n’avais plus de challenges. Grâce à l’accompagnement, j’ai pu cibler un poste de directrice de projet administratif, un poste qui correspond à mes compétences organisationnelles et à ma passion pour la gestion. Aujourd’hui, je supervise plusieurs équipes et mon salaire a fait un bond en avant. Ce coaching a transformé ma carrière"
+    },
+    {
+      "auteur": "Lucile Garnier",
+      "note": "5",
+      "date": "2024-09-26",
+      "titre": "Responsable de la gestion administrative avec plus d'autonomie",
+      "contenu": "En tant qu'assistante administrative, je ne voyais plus d'évolution. L'accompagnement a été un déclic pour moi. Mon coach m'a aidée à trouver un poste de responsable de la gestion administrative avec un meilleur salaire et des missions beaucoup plus intéressantes. Aujourd'hui, je gère des projets internes importants et je me sens plus autonome."
+    },
+    {
+      "auteur": "Maxime Bourdon",
+      "note": "4",
+      "date": "2024-09-26",
+      "titre": "Du vendeur au superviseur des ventes",
+      "contenu": "J'en avais marre d'être vendeur sans pouvoir évoluer. Mon coach m’a guidé vers des opportunités et m'a aidé à préparer un entretien pour devenir superviseur. Je manage maintenant une équipe de 8 personnes, et mon salaire est enfin à la hauteur de mes compétences. Je suis fier d'avoir franchi ce cap."
+    },
+    {
+      "auteur": "Mathilde Boulanger",
+      "note": "5",
+      "date": "2024-09-24",
+      "titre": "De secrétaire à responsable administrative",
+      "contenu": "Après des années à être secrétaire, je sentais que j'étais capable de plus. Mon coach m'a aidée à me mettre en avant et à viser des postes avec plus de responsabilités. Aujourd'hui, je suis responsable administrative dans une PME, et mon salaire a bien augmenté. Je gère maintenant une petite équipe et je me sens valorisée pour mon travail"
+    },
+    {
+      "auteur": "Amélie Perrier",
+      "note": "5",
+      "date": "2024-09-24",
+      "titre": "De l'assistanat commercial à la coordination des ventes",
+      "contenu": "Je n'avançais plus dans mon poste d'assistante commerciale. Grâce à l'accompagnement, j'ai réussi à décrocher un poste de coordinatrice des ventes avec des responsabilités beaucoup plus stratégiques. En plus d'un meilleur salaire, je suis impliquée dans les décisions commerciales de l'entreprise. Ce nouveau rôle a vraiment changé ma carrière."
+    },
+    {
+      "auteur": "Julien Lafont",
+      "note": "5",
+      "date": "2024-09-23",
+      "titre": "Manager d'équipe : une belle évolution",
+      "contenu": "J’étais coincé dans un poste de vendeur, sans possibilité d’évolution. Grâce à l’accompagnement, j’ai su mieux présenter mes compétences et saisir des opportunités. Résultat : je suis devenu manager d’équipe dans une grande enseigne. Un vrai changement pour moi, et mon salaire a bien suivi. Je recommande vivement cet accompagnement pour ceux qui veulent progresser."
+    },
+    {
+      "auteur": "Jérôme Fontaine",
+      "note": "4",
+      "date": "2024-09-20",
+      "titre": "Manager des ventes avec de vraies responsabiltés",
+      "contenu": "Vendeur depuis trop longtemps, je voulais absolument évoluer. Mon coach m'a aidé à identifier les compétences managériales que je pouvais développer. Maintenant, je suis manager des ventes dans une grande enseigne, je gère un équipe de 12 personnes, et mon salaire a nettement augmenté. Je me sens enfin valorisé et motivé dans mon travail."
+    },
+    {
+      "auteur": "Nicolas Fontaine",
+      "note": "4",
+      "date": "2024-08-11",
+      "titre": "Ingénieur logiciel avec un salaire compétitif",
+      "contenu": "Je me sentais bloqué dans mon poste d'ingénieur junior, tant en termes de responsabilités que de salaire. L'accompagnement professionnel m'a aidé à me repositionner sur le marché et à cibler des entreprises innovantes. Maintenant, je suis ingénieur logiciel dans une entreprise technologique de premier plan, avec un salaire nettement plus élevé et des avantages supplémentaires. e changement a vraiment amélioré ma qualité de vie."
+    },
+    {
+      "auteur": "Isabelle Robert",
+      "note": "3",
+      "date": "2024-08-11",
+      "titre": "Responsable RH avec des avantages attractifs",
+      "contenu": "Mon poste d'assistance RH ne me satisfaisait plus de responsabilités et de meilleures conditions salariales. L'accompagnement m'a aidée à identifier mes points forts et à cibler les bonnes entreprises. Aujourd'hui, je suis responsable RH avec un package salarial compétitif, incluant des bonus et des avantages. Je suis très satisfaite de ce nouveau poste. Je souhaite continuer mon évolution, en attentes de nouvelles opportunitées."
+    },
+    {
+      "auteur": "Julie Laurent",
+      "note": "5",
+      "date": "2024-08-10",
+      "titre": "Directrice marketing avec une belle augmentation",
+      "contenu": "Après des années comme assistante marketing, je sentais que j'avais atteint un plafond. L'accompagnement professionnel a été un véritable tournant. Mon coach m'a aidée à cibler les bonnes opportunités et à préparer des entretiens. Aujourd'hui, je suis directrice marketing dans une grande entreprise et j'ai obtenu une augmentation de 30%. Je suis enfin reconnue à ma juste valeur"
+    },
+    {
+      "auteur": "Julien Caron",
+      "note": "4",
+      "date": "2024-08-10",
+      "titre": "Consultant en transformation digitale",
+      "contenu": "Je travaillais comme analyste de données et je voulais une carrière avec plus de défis. L'accompagnement professionnel m'a aidé à voir comment mes compétences pouvaient être appliquées à la transformation digitale. Mon coach m'a aidé à me préparer pour des entretiens et à me connecter avec des entreprises de premier plan. Maintenant, je suis consultant en transformation digitale et je suis très heureux de ce changement"
+    },
+    {
+      "auteur": "Émilie Bernard",
+      "note": "4",
+      "date": "2024-08-09",
+      "titre": "Chargée de recrutement",
+      "contenu": "Après plusieurs années en tant qu'assistante administrative, je voulais évoluer. L'accompagnement m'a aidée à découvrir mon intérêt pour le recrutement. Mon coach m'a guidée pour postuler à des postes et améliorer mon profil professionnel. Aujourd'hui, je suis chargée de recrutement et je trouve mon travail bien plus stimulant."
+    },
+    {
+      "auteur": "Antoine Vidal",
+      "note": "5",
+      "date": "2024-08-08",
+      "titre": "Responsable de la communication",
+      "contenu": "Je travaillais dans l'administration et je m'ennuyais profondément. L'accompagnement professionnel m'a aidé à découvrir mon intérêt pour la communication. Mon coach m'a aidé à améliorer mes compétences en communication et à réseauter efficacement. J'ai décroché un poste de responsable de la communication communication dans une start-up dynamite. Ce changement a transformé ma via professionnelle."
+    },
+    {
+      "auteur": "Angeline Marchetti",
+      "note": "4",
+      "date": "2024-08-07",
+      "titre": "Coach sportif",
+      "contenu": "En tant que réceptionniste, je ne me sentais plus à ma place. J'avais toujours été passionnée par le sport et le fitness. Mon coach m'a aidée à voir comment transformer cette passion en carrière. Avec son soutien, j'ai pu obtenir des entretiens dans plusieurs salles de sport. Aujourd'hui, je suis coach sportif et je me sens enfin épanouie."
+    },
+    {
+      "auteur": "Chloé Bartoli",
+      "note": "4",
+      "date": "2024-08-07",
+      "titre": "Consultant en développement durable",
+      "contenu": "Je travaillais comme ingénieur en industrie, mais je voulais un métier plus aligné avec mes valeurs. L'accompagnement professionnel m'a aidé à découvrir des opportunités dans le domaine du développement durable. Mon coach m'a soutenu pour ajuster mon profil et m'a présenté des entreprises leaders dans ce secteur. Maintenant , je suis consultant en développement durable et je trouve enfin du sens dans mon travail."
+    },
+    {
+      "auteur": "Lucie Dubois",
+      "note": "3",
+      "date": "2024-08-06",
+      "titre": "Styliste indépendante",
+      "contenu": "Travailler comme vendeuse ne me satisfaisait plus, je voulais exprimer ma créativité. Grâce à l'accompagnement, j'ai découvert que je pouvais utiliser mon sens de la mode pour devenir styliste. Mon coach m'a aidée à établir des contacts dans l'industrie et à lancer ma propre activité. Aujourd'hui, je suis styliste indépendante et je vis de ma passion."
+    },
+    {
+      "auteur": "Thomas Blanc",
+      "note": "4",
+      "date": "2024-08-06",
+      "titre": "De technicien à chef de projet",
+      "contenu": "Après plusieurs années en tant que technicien, je ressentais le besoin de changer. L'accompagnement professionnel m'a aidé à réaliser que j'avais des compétences en gestion de projet. Mon coach a été excellent pour m'aider à cibler les bonnes opportunités et à améliorer mon CV. Maintenant, je suis chef de projet dans une entreprise de technologie, et je suis ravi de ce changement."
+    },
+    {
+      "auteur": "Marie Lefevre",
+      "note": "3",
+      "date": "2024-08-05",
+      "titre": "Nouvelle carrière en ressources humaines",
+      "contenu": "J'étais fatiguée de mon poste de caissière et je voulais quelque chose de plus gratifiant. Grâce à l'accompagnement, j'ai découvert un intérêt pour les ressources humaines. Mon coach m'a aidée à comprendre comment mes compétences pouvaient être transférées et m'a mis en contact avec des entreprises la recherche de profils comme le mien. Aujourd'hui, je travaille comme assistante RH et je n'ai jamais été aussi épanouie."
+    },
+    {
+      "auteur": "Pierre Martin",
+      "note": "5",
+      "date": "2024-08-04",
+      "titre": "Nouvel avenir en cybersécurité",
+      "contenu": "Après des années en tant que carde en informatique, je me sentais coincé et sans perspective d'évolution. L'accompagnement professionnel m'a aidé à découvrir un nouvel intérêt pour la cybersécurité. Mon coach a été génial, m'aidant à cibler des entreprises de pointe dans ce domaine. Maintenant, je travaille dans une start-up de cybersécurité et je retrouve enfin la motivation au travail."
+    },
+    {
+      "auteur": "Nathalie Rousseau",
+      "note": "4",
+      "date": "2024-08-03",
+      "titre": "Chargée de communication",
+      "contenu": "L'accompagnement professionnel m'a offert une meilleure compréhension de mes aptitudes en communication et en gestation. Mon coach m'a aidée à élaborer un projet solide. Grâce à cet accompagnement, j'ai trouvé une entreprise innovante, et je suis ravie de ce nouveau départ."
+    },
+    {
+      "auteur": "Paul Durand",
+      "note": "5",
+      "date": "2024-08-02",
+      "titre": "Changement de cap réussi",
+      "contenu": "En tant que chef de projet dans le secteur industriel, je voulais un changement. Le bilan de compétences m'a aidé à découvrir mes capacités en formation et développement. Avec les conseil de mon coach, j'ai pu décrocher un poste de formateur en entreprise. Même si tout n'était pas parfait, ce bilan m'a permis de réussir ce changement de cap."
+    },
+    {
+      "auteur": "Clara Lefévre",
+      "note": "5",
+      "date": "2024-08-02",
+      "titre": "Un renouveau complet",
+      "contenu": "Je travaillais dans la comptabilité et je cherchais une nouvelle direction. Le bilan de compétences m'a révélé une passion pour le design d'intérieur. Mon coach a été incroyable, me mettant en contact avec des professionnels du secteur. Aujourd'hui, je travaille comme designer d'intérieur et je n'ai jamais été aussi heureuse."
+    },
+    {
+      "auteur": "Martin Roche",
+      "note": "4",
+      "date": "2024-08-01",
+      "titre": "Redécouverte professionnelle",
+      "contenu": "Après avoir travaillé des années dans la logistique, je voulais changer d'air. Le bilan de compétences m'a aidé à réaliser que j'avais des compétences en gestion d'équipes. Avec l'aide de mon coach, j'ai trouvé un poste de manger dans une grande entreprise. Ce n'était pas facile, mais ce bilan m'a vraiment aidé à redécouvrir mes forces."
+    },
+    {
+      "auteur": "Camille Petit",
+      "note": "3",
+      "date": "2024-08-01",
+      "titre": "Un début prometteur",
+      "contenu": "Le bilan de compétences m'a aidée à redécouvrir mes compétences en administration, mais je cherchais quelque chose e plus dynamique. Le processus était intéressant, mais j'aurais souhaité plus d'options concrètes. J'ai finalement trouvé un poste de gestionnaire administratif, mais le parcours a été plus long que prévu."
+    },
+    {
+      "auteur": "Antoine Mercier",
+      "note": "5",
+      "date": "2024-07-31",
+      "titre": "Transformation totale",
+      "contenu": "Je travaillais comme agent immobilier et je voulais vraiment changer de domaine. Le bilan de compétences m'a ouvert les yeux sur mes capacités en gestion de patrimoine. Le coach a été formidable et m'a aidé à entrer en contact avec des entreprises de gestion d'actifs. Maintenant, je suis conseiller en gestion de patrimoine et je suis extrêmement satisfait de cette transformation."
+    },
+    {
+      "auteur": "Sophie Bertrand",
+      "note": "4",
+      "date": "2024-07-31",
+      "titre": "Un nouveau chemin",
+      "contenu": "Je cherchais à quitte mon poste de secrétaire médicale et à trouver quelque chose de plus créatif. Le bilan de compétences a révélé mon talent pour la photographie. Les conseil et le réseau de mon coach m'ont permis de décrocher plusieurs missions freelance. Mme si tout n'était pas parfait, ce bilan m'a aidée à trouver une nouvelle voir qui me passionne."
+    },
+    {
+      "auteur": "Marc Lemoine",
+      "note": "3",
+      "date": "2024-07-30",
+      "titre": "Des résultats mitigés",
+      "contenu": "Le bilan de compétences m'a aidé à mieux comprendre mes compétences en tant que développeur web, mais je m'attendais à des conseils plus pratiques pour le marché de l'emploi. Le coach était compétent de, mais certaines sessions manquaient de profondeur. J'ai finalement trouvé un poste intéressant, après 2 mois."
+    },
+    {
+      "auteur": "Laure Marchand",
+      "note": "5",
+      "date": "2024-07-30",
+      "titre": "Un vrai tremplin",
+      "contenu": "Après des années en tant que vendeuse, je ne voyais plus d'évolution possible. Le bilan de compétences m'a fait découvrir une passion pour la gestion événementielle. Grâce à l'accompagnement personnalisé, j'ai pu obtenir des entretiens dans plusieurs agences. Aujourd'hui, je travaille comme coordinatrice d'événements et je me sens épanouie. Ce bilan a été un véritable tremplin pour ma carrière."
+    },
+    {
+      "auteur": "Jean-Luc Dupuis",
+      "note": "4",
+      "date": "2024-07-29",
+      "titre": "Un bon point de départ",
+      "contenu": "En tant que cadre en informatique, je me sentais coincé dans ma carrière. Le bilan de compétences m'a permis de découvrir mon intérêt pour la cybersécurité. Les conseils du coach étaient précieux et m'ont aidée à cibler des entreprises intéressantes. J'ai trouvé un poste dans une start-up de cybersécurité et, bien que le processus ait été long, le bilan a été un bon point de départ pour ce changement."
+    },
+    {
+      "auteur": "Claire Martin",
+      "note": "4",
+      "date": "2024-07-28",
+      "titre": "Évolution de carrière inspirante",
+      "contenu": "Après des années dans l'hôtellerie, je voulais changer de carrière pour quelque chose de plus stimulant. Le bilan de compétences m'a aidée à découvrir une passion pour le design d'intérieur. Grâce à l'accompagnement personnalisé, j'ai pu entrer en contact avec des entreprises de design et des clients potentiels. Aujourd'hui, je travaille comme designer d'intérieur indépendant et je suis très heureuse de ce nouveau départ professionnel."
+    },
+    {
+      "auteur": "Vincent Roussel",
+      "note": "5",
+      "date": "2024-07-28",
+      "titre": "Une nouvelle direction",
+      "contenu": "Travaillant comme analyste financier, je voulais changer de direction professionnelle. Le bilan de compétences m'a permis de comprendre mes intérêts pour le secteur de la santé. Avec l'accompagnement de mon coach, j'ai identifié des opportunités dans la gestion hospitalière et les services de santé. Aujourd'hui, je suis directeur financier dans un hôpital, où je combine mes compétences financières avec ma passion pour le secteur de la santé. Une transformation de carrière réussie grâce au bilan."
+    },
+    {
+      "auteur": "Isabelle Fournier",
+      "note": "3",
+      "date": "2024-07-27",
+      "titre": "Réorientation réussie",
+      "contenu": "Mon poste de chargée de clientèle ne me satisfaisait plus et je voulais explorer de nouvelles possibilités. Le bilan de compétences m'a ouvert les yeux sur mes véritables compétences et aspirations. Grâce aux conseils de mon coach, j'ai pu postuler à des postes de manager d'équipe dans plusieurs entreprises. Aujourd'hui je suis manager d'une équipe dynamique dans une entreprises plus épanouie de services et je me sens beaucoup plus épanouie dans ma nouvelle carrière. Ce bilan a été une vraie réussite."
+    },
+    {
+      "auteur": "Marie Dubois",
+      "note": "3",
+      "date": "2024-07-26",
+      "titre": "Passion retrouvée",
+      "contenu": "En tant qu'enseignante, je sentais que j'avais atteint un plateau dans ma carrière. Le bilan de compétences m'a aidée redécouvrir ma passion pour l'écriture. Grâce à l'accompagnement de mon coach, j'ai pu trouver des opportunités en tant que rédactrice freelance pour plusieurs magazines en ligne et entreprises d contenu. Aujourd'hui, je travaille à mon propre rythme et je suis ravie de ce changement. Ce bilan a été une étape cruciale dans ma reconversion réussie."
+    },
+    {
+      "auteur": "Thomas Leclerc",
+      "note": "5",
+      "date": "2024-07-26",
+      "titre": "Un nouveau souffle",
+      "contenu": "Je travaillais comme commercial depuis des années et je ne trouvais plus de satisfaction dan mon métier. Le bilan de compétences a été un véritable nouveau souffle pour ma carrière. J'ai découvert une passion pour le marketing digital. Mon coach m'a aidé à repérer des opportunités dans des agences de marketing et des entreprises en pleine croissance. J suis maintenant directeur marketing digital dans une entreprise technologique et je suis plus motivé et satisfait que jamais."
+    },
+    {
+      "auteur": "Camille Rousseau",
+      "note": "5",
+      "date": "2024-07-25",
+      "titre": "Nouvelle carrière épanouissante",
+      "contenu": "Après plusieurs années en tant que secrétaire je voulais explorer de nouvelles opportunités. Le bilan de compétences m'a aidée à identifier mes compétences et mes intérêts. Grâce aux résultats du bilan et aux conseils de mon coach, j'ai pu cible des postes en ressources humaines. Aujourd'hui, je travaille comme responsable RH dans une entreprise innovante, où je participe activement au développement des talents et à la mise en place de politiques de bien-être au travail. Cette reconversion a été un succès total, et je recommande vivement cette expérience !"
+    },
+    {
+      "auteur": "Lucas carles",
+      "note": "4",
+      "date": "2024-07-25",
+      "titre": "Un révélation professionnelle",
+      "contenu": "En tant qu'ingénieur, je me sentais limité dans mes perspectives de carrière. Le bilan de compétences a été une révélation. J'ai découvert que mes compétences pouvaient être appliquées à la gestion e l'innovation. Avec le soutien de technologie de pointe qui recherchaient des profils comme le mien. Maintenant, je travaille comme responsable de l'innovation dans une start-up dynamique et je m'épanouis dans ce rôle créatif et stratégique. Ce bilan a été le déclencheur d'une évolution professionnelle réussie."
+    },
+    {
+      "auteur": "Olivia Renault",
+      "note": "5",
+      "date": "2024-07-25",
+      "titre": "Un tournant décisif",
+      "contenu": "Après dix ans dans le secteur bancaire, je ressentais le besoin de changer de voie sans savoir par où commencer. Le bilan de compétences m'a permis de prendre du recul et de découvrir une passion pour la gestion de projet. Grâce à l'accompagnement personnalisé et aux conseils avisés de mon coach, j'ai pu identifier des opportunités dans les entreprises locales qui cherchaient à améliorer leurs processus internes. Aujourd'hui, je travaille comme consultante en gestion de projet, aidant les entreprises à optimiser leurs opérations, et je me sens épanouie et motivée chaque jour par mon travail. Ce bilan a véritablement changé ma vie."
+    },
+    {
+      "auteur": "Emma altazin",
+      "note": "5",
+      "date": "2024-07-24",
+      "titre": "Passion retrouvée",
+      "contenu": "En tant qu'enseignante, je sentais que j'avais atteint un plateau dans ma carrière. Le bilan de compètences m'a aidèe à red couvrir ma passion pour l'écritiure. Grâce àl'accompagnement de mon coach, j'ai suivi des cours de rédactionet de communication. Aujourd'hui, je travaille comme rédactrice professionalle et je suis ravie de ce changment. Ce bilan a été une étape cruciale dans ma reconversion réussie"
+    },
+    {
+      "auteur": "Maxime Moreau",
+      "note": "5",
+      "date": "2024-07-16",
+      "titre": "Une révélation professionnelle",
+      "contenu": "En tant qu'ingénieur, je me sentais limité dans mes perspectives de carrière. Le bilan de compétences a été une révélation. J'ai découvert que mes compétences pouvaient être appliquées à la gestion de l'innovation. Avec le soutien de mon coach, j'ai suivi une formation spécialisée et maintenant, je travaille dans un rôle que j'adore. Ce bilan a été le déclencheur d'une évolution professionnelle réussie."
+    },
+    {
+      "auteur": "Alice Dupont",
+      "note": "4",
+      "date": "2024-07-16",
+      "titre": "Un tournant décisif",
+      "contenu": "Après dix ans dans le secteur bancaire, je ressentais le besoin de changer de voie sans savoir par où commencer. Le bilan de compétences m'a permis de prendre du recul et de découvrir une passion pour la gestion de projet. Grâce à l'accompagnement personnalisé et aux conseil\ns avisés de mon coach, j'ai pu suivre une formation et décrocher un poste dans se domaine. Aujourd'hui, je me sens épanouie et motivée chaque jour par m on travail. Ce bilan a véritablement changé ma vie."
+    },
+    {
+      "auteur": "Amélie Rousseau",
+      "note": "5",
+      "date": "2024-07-13",
+      "titre": "Transformation de carrière",
+      "contenu": "Faire un bilan de compétences a transformé ma carrière, J'étais dans le secteur de la vente et je voulais changer. Le bilan m'a aidée à découvrir mes compétences cachées et à m'orienter vers une nouvelle voie. Aujourd'hui, je suis en formation pour devenir coach sportif, un domaine qui me passionne. Je recommande vivement ce bilan à toute personne en quête de changement professionnel."
+    },
+    {
+      "auteur": "Isabelle Dubois",
+      "note": "4",
+      "date": "2024-07-12",
+      "titre": "Un soutien indispensable",
+      "contenu": "J'ai décidé de faire un bilan de compétences car je me sentais stagnante dans mon poste de responsable RH. Les tests et les entretiens m'ont permis de mieux comprendre mes compétences et mes intérêts. Avec l'accompagnement, j'ai découvert une passion pour la formation professionnelle. Je suis maintenant entrain de devenir formatrice. Un peu plus de suivi aurait été bienvenu, mais je suis très satisfaite de résultant."
+    },
+    {
+      "auteur": "Antoine Lemoine",
+      "note": "4",
+      "date": "2024-07-10",
+      "titre": "Clarté et confiance",
+      "contenu": "En pleine réflexion sur ma carrière, j'ai décidé de faire un bilan de compétences. Ce processus m'a apporté la clarté et la confiance dont j'avais besoin pour prendre une nouvelle direction. Les tests et les entretiens m'ont permis de mieux comprendre mes points forts. J'aurais apprécié plus d'options de formation, mais je suis content d'avoir trouvé ma voie dans le conseil en entreprise."
+    },
+    {
+      "auteur": "Philippe Garnier",
+      "note": "5",
+      "date": "2024-07-09",
+      "titre": "Redéfinir mes objectifs professionnels",
+      "contenu": "J'ai toujours travaillé dans le marketing, mais je ressentais le besoin de changement. Le bilan de compétences m'a aidé à redéfinir mes objectifs professionnels et à comprendre quelles étaient mes vraies passions. Grâce à l'accompagnement, j'ai décidé de me réorienter vers le développement durable. Aujourd'hui, je suis consultant en stratégie durable et je m'épanouis dans mon travail. Ce bilan a vraiment été un tournant dans me vie."
+    },
+    {
+      "auteur": "Julie Moreau",
+      "note": "4",
+      "date": "2024-07-09",
+      "titre": "Une orientation précieuse",
+      "contenu": "Faire un bilan de compétences a été une étape décisive dans ma carrière. Après dix ans dans le secteur bancaire, je voulais donner un nouveau sens à mon travail. Le bilan m'a aidée à explorer différentes options et comprendre mes vraies motivations. J'ai apprécié les outils et les tests utilisés. Seul bémol, j'aurais aimé plus de séances de suivi. Néanmoins, je suis désormais inscrite dans une formation pour devenir coach de vie."
+    },
+    {
+      "auteur": "Marc Dubois",
+      "note": "4",
+      "date": "2024-07-08",
+      "titre": "Des objectifs clairs et atteignables",
+      "contenu": "En mars 2023, j'ai entrepris un bilan de compétences pour réorienter ma carrière. L'accompagnement a été excellent et m'a aidé à définir des objectifs clairs et atteignables. Les séances étaient très enrichissantes et m'ont permis de mieux comprendre mes compétences et mes aspirations. J'ai apprécié les outils mis à disposition et les séances de coaching, qui m'ont permis de travailler sur mon projet professionnel de manière structurée. Un suivi plus fréquent aurait été un plus, mais expérience. Aujourd'hui, je me sens plus confiant et prêt à relever de nouveaux défis dans ma carrière."
+    },
+    {
+      "auteur": "Sophie Leclerc",
+      "note": "5",
+      "date": "2024-07-07",
+      "titre": "Une révélation personnelle",
+      "contenu": "Le bilan de compétences a été une véritable révélation pour moi. Avant de commencer, je ne savais pas par où commencer ma reconversion. Grâce à cette démarche, j'ai découvert des talents insoupçonnés et trouvé ma voie en tant que thérapeute. Le processus était très complet, incluant des tests psychométriques, des entretiens approfondis et des exercices de réflexion personnelle. Mon coach a su identifier mes points forts et mes passions, et m'a orientée vers des options professionnelles auxquelles je n'avais jamais pensé. Je recommande vivement cette expérience à toute personne en quête de sens dans sa carrière."
+    },
+    {
+      "auteur": "Julien Dupont",
+      "note": "4",
+      "date": "2024-07-06",
+      "titre": "Un coup de pouce indispensable",
+      "contenu": "J'ai fait un bilan de compétences en décembre 2022. L'exercice m'a permis de mieux comprendre mes aspirations professionnelles et de cibler mes recherches d'emploi. Les conseils étaient très pertinents et m'ont donné un bon coup de pouce. Les sessions de bilan étaient très interactives et m'ont permis de me poser les bonnes questions sur mon avenir professionnel. Le rapport final était très détaillé et m'a fourni un plan d'action clair pour atteindre mes objectifs. J'aurais aimé un peu plus de suivi, mais dans l'ensemble, c'était très utile. Grâce à ce bilan, j'ai pu rediriger ma carrière vers un domaine qui passionne vraiment."
+    },
+    {
+      "auteur": "Clara Martin",
+      "note": "5",
+      "date": "2024-07-06",
+      "titre": "Une nouvelle perspective de carrière",
+      "contenu": "Je me sentais perdue dans ma carrière et ne savais plus quoi faire. Le bilan de compétences m'a énormément aidée à y voir plus clair. Grâce à l'accompagnement personnalisé, j'ai pu identifier mes forces et mes passions. Les séances était très bien structurées et m'ont permis de prendre du recul sur mon parcours professionnel. Le coach était extrêmement bienveillant et à l'écoute. ce qui m'a mise en confiance dés le début. Aujourd'hui, je suis en formation pour devenir graphiste, un rêve que je pensais impossible. Je n'aurais jamais imaginé cette reconversion sans cette expérience. Merci pour cette expérience transformatrice!"
+    },
+    {
+      "auteur": "Marie-Ange Dubois",
+      "note": "5",
+      "date": "2024-07-03",
+      "titre": "Découverte d'une vocation pour l'enseignement",
+      "contenu": "Ingénieure de formation, j'ai toujours été douée pour les mathématiques et les sciences, mais je n'avais jamais envisagé l'enseignement. Le bilan de compétences a mis en lumière mes capacités pédagogiques naturelles. J'ai commencé à donner des cours particuliers, et rapidement, cela s'est transformé en une passion pour l'éducation. Aujourd'hui, je suis entrain de faire les démarches pour obtenir ma certification d'enseignante, excitée à l'idée de former la prochaine génération de scientifiques."
+    },
+    {
+      "auteur": "Jessica Leroy",
+      "note": "5",
+      "date": "2024-07-02",
+      "titre": "Transition éco-responsable",
+      "contenu": "Responsable qualité dans l'industrie alimentaire depuis près de dix ans, j'avais un désir croissant d'impact environnemental positif. Le bilan de compétences a été une étape décisive pour m'orienter vers l'écologie. J'ai suivi des formations spécialisées en développement durable et ai rejoint une ONG où je contribue maintenant à des projets de conservation de la nature. Ce pivot m'a non seulement permis de me sentir plus alignée avec mes valeurs, mais aussi de réaliser un travail qui a un véritable impact sur le monde."
+    },
+    {
+      "auteur": "Élodie Marchand",
+      "note": "4",
+      "date": "2024-07-01",
+      "titre": "Un virage inattendu vers la créativité",
+      "contenu": "J'ai toujours travaillé dans le domaine de la logistique, mais je me suis sentie de plus en plus attirée par les activités créatives dans mon temps libre. Le bilan de compétences a confirmé ce que je ressentais au fond de moi : un besoin de créativité non satisfait par mon emploi actuel. Encouragée par cette découverte, j'ai commencé à suivre des cours de poterie et j'ai même ouvert un petit atelier o je vends mes créations. Ce changement a apporté un nouveau sens à ma vie, me faisant réaliser que la passion peut se transformer en une carrière florissante."
+    },
+    {
+      "auteur": "Nathalie Verneuil",
+      "note": "5",
+      "date": "2024-07-01",
+      "titre": "Métamourphose en douceur",
+      "contenu": "Après une longue carrière en tant qu'ingénieure en logiciel, j'ai senti que j'avais besoin de changement, quelque chose qui pourrait ajouter plus de sens à ma vie. Le bilan de compétences m'a guidée vers une introspection profonde, m'aidant redécouvrir mes passion oubliées pour l'écriture et la communication. Avec le soutien de mon conseiller, j'ai commencé à écrire des articles techniques pour des magazines en ligne, combinant mon expertise en technologie avec mon amour pour l'écriture. Les retours positifs de mes lectures ont été immédiatement gratifiants. Encouragée par ce succès, je développe maintenant un blog pour aider les femmes à entrer et à réussir dans le domaine de la tech. Cette transition m'a permis de rester active dans mon domaine d'origine tout en explorant de nouvelles avenues qui enrichissent ma vie."
+    },
+    {
+      "auteur": "Sophie Berger",
+      "note": "5",
+      "date": "2024-06-30",
+      "titre": "Renaissance professionnelle",
+      "contenu": "J'étais directrice marketing dans une grande entreprise depuis prés de quinze ans. Bien que reconnue pour mon efficacité, je sentais que ma passion pour le marketing s'érodait progressivement, remplacée par une lassitude difficile à secouer. La décision de faire un bilan de compétences a été difficile, mais elle s'est avérée cruciale. Le processus a mis en lumière mon intérêt pour l'entrepreneuriat social, une voie que je n'avais jamais envisagée. Inspirée par cette découverte, j'ai lancé une startup qui développe des solutions durables pour les communautés défavorisées. Ce pivot de carrière n'a pas été sans difficultés : financement, recrutement, marketing stratégique sur un nouveau marché. Cependant, chaque difficulté a été une occasion d'apprentissage. Aujourd'hui je me sens non seulement accomplie professionnellement mais aussi personnellement, sachant que mon travail contribue positivement à la société."
+    },
+    {
+      "auteur": "Camille Dupré",
+      "note": "4",
+      "date": "2024-06-30",
+      "titre": "Réveil de carrière",
+      "contenu": "Depuis dix ans dans la comptabilité, je m'étais résignée à un chemin professionnel stable mais monotone. Toutefois, une sensation persistante me disait que je n'exploitais pas pleinement mes capacités. Poussée par des amis, j'ai entrepris un bilan de compétences qui a révélé une passion inattendue pour le graphisme. Cela s été une révélation, me montrant des facettes de ma créativité que j'avais ignorées. J'ai immédiatement commencé une formation accélérée en design graphique. Aujourd'hui, je travaille sur des projets freelance en plus de mon emploi régulier, chaque mission renforçant ma conviction que le changement était nécessaire. J'envisage même de faire une transition complète vers le graphisme dans l'année à venir."
+    },
+    {
+      "auteur": "Isabelle Mercier",
+      "note": "5",
+      "date": "2024-06-29",
+      "titre": "Transition transformative",
+      "contenu": "J'avais toujours été passionnée par la technologie, mais je travaillais dans le secteur des assurances. Le bilan de compétences m'a aidé à aligner ma carrière avec mes passions. J'ai suivi des formations en cybersécurité et je travaille maintenant dans ce domaine, protégeant les données et les systèmes d'informations contre les menaces. Changer de carrière a été une des meilleures décisions de ma vie."
+    },
+    {
+      "auteur": "Laura Moreau",
+      "note": "4",
+      "date": "2024-06-29",
+      "titre": "Voie vers la liberté",
+      "contenu": "Travaillant depuis des années dans une grande entreprise de télécommunications, je me sentais coincée et non valorisée. Le bilan de compétences a mis en lumière mon besoin d'autonomie et ma passion pour l'entrepreneuriat. J'ai lancé ma propre entreprise de conseil en communication, qui me permet désormais de travailler à mon rythme et selon mes propres réglas. Cette nouvelle voie m'apporte jamais connues auparavant."
+    },
+    {
+      "auteur": "Nathalie Corbin",
+      "note": "3",
+      "date": "2024-06-28",
+      "titre": "Cap sur la réinvention",
+      "contenu": "Ancienne chef de projet dans l'industrie pharmaceutique, un bilan de compétences a été le catalyseur pour un changement radical. Poussée par un désir d'impact social, j'ai démarré une ONG dédiée à l'éducation sanitaire dans les pays en développement.Ce virage professionnel est à la fois un défi et une source immense de satisfaction personnelle et professionnelle."
+    },
+    {
+      "auteur": "Anne Lefèvre",
+      "note": "3",
+      "date": "2024-07-01",
+      "titre": "Épanouissement tradif",
+      "contenu": "Travailler dans l'administration pendant près de trente ans m'avait laissé un sentiment de complétude mais aussi d'insatisfaction latente. Le bilan de compétences a révélé mon intérêt profond pour l'art, un domaine que j'avais négligé. Encouragée par les résultats, j'ai suivi des cours d'historie de l'art et je suis maintenant bénévole dans un musée local, où je guide des visites. Cette activité m'apporte une joie et une satisfaction immens, renouvelant ma passion pout l'apprentissage et le partage de connaissances."
+    },
+    {
+      "auteur": "Marie-Thérése Saint-Pierre",
+      "note": "3",
+      "date": "2024-06-23",
+      "titre": "Un virage inattendu",
+      "contenu": "C'est en cherchant à mieux comprendre mes compétences que j'ai découvert une aptitude pour la médiation. Le bilan de compétences m'a non seulement permis de me réorienter professionnellement mais aussi de trouver ma voie dans la résolution de conflits. Avec les conseils reçus, je suis en formation pour devenir médiateur certifié et chaque jour est une nouvelle aventure passionnante."
+    },
+    {
+      "auteur": "Fleur Deschamps",
+      "note": "4",
+      "date": "2024-06-20",
+      "titre": "Réalignement professionnel",
+      "contenu": "Stagnant dans mon poste actuel, j'avais besoin de changement mais je ne savais pas par où commencer. Le bilan a claiarement identifié mes compétences et mes passions, m'orientant vers la gestion de projet environnemental. J'ai intégré une entreprise qui travaille pour la durabilité, et chaque jour, je me sens utile et aligné avec mes valeurs."
+    },
+    {
+      "auteur": "Soléne Petit",
+      "note": "3",
+      "date": "2024-06-19",
+      "titre": "Découverte d'une passion",
+      "contenu": "Je n'avais jamais pris le temps de réfléchir à ce qui me passionnait vraiment. Le bilan de compétences a été une révélation, découvrent un intérêt profond pour la photographie. J'ai commencé à suivre des cours le soir, et maintenant, je réalise des projets freelance en plus de mon travail régulier. Cette nouvelle activité me remplit de joie et d'énergie."
+    },
+    {
+      "auteur": "DarkVoyager",
+      "note": "4",
+      "date": "2024-06-19",
+      "titre": "Valorisation des compétences",
+      "contenu": "étais dans une impasse, ne reconnaissant plus la valtur de mon travail. Le bilan de compétences m'a ouert les yeux sur mes compétences uniques et m'a appris à les valoriser. Cela m'a donné le courage de négocier une promotion, que j'ai obtenue grâce à une meinneure présentation de mes compétences et réalisations."
+    },
+    {
+      "auteur": "Theo_Chase",
+      "note": "4",
+      "date": "2024-06-16",
+      "titre": "Retrouver sa voie",
+      "contenu": "Après des annèes dans le même domaine, je me sentais épuisé et sans inspiration. Le bilan de compétences était mon dernier recours pour voir si une réorientation était possible. C' était intimidant au début de déballer toute ma vie professionnelle, mais c' est là que j' ai découvert des aspects de mes compétences que j' avais sous-estimés. Grâce à ça, j' ai trouvé une nouvelle voie qui me passionne vraiment : le design d' intérieur. Je prends maintenant des cours du soir et je travaille sur des projets personnels pour bâtir mon portfolio. La motivation est de retour, et je me sens revigoré et excité par l' avenir."
+    },
+    {
+      "auteur": "Maxime Leroux",
+      "note": "3",
+      "date": "2024-06-16",
+      "titre": "Gagner en confiance avec un bilan...",
+      "contenu": "J'étais au point mort dans ma carrière, sans vraiment savoir comment avancer ou changer de voie. J'ai décidé de tenter un bilan de compétences avec un peu de scepticisme. Mon coach a été un vrai soutien. Il a su écouter mes doutes et m'a poussé à explorer de nouvelles idées. On a identifié ensemble mes points forts et les compétences que je pouvais améliorer. Le processus n'était pas toujours simple, je me suis senti parfois perdu, surtout quand il fallait creuser des aspects de ma personnalité ou de ma carrière que j'avais tendance à ignorer. Mais, petit à petit, j'ai vu le chemin à prendre. Maintenant, je sais dans quelle direction je veux aller, et surtout, je me sens capable de faire les changements nécessaires. C'est rassurant de se sentir épaulé et guidé comme ça."
+    },
+    {
+      "auteur": "Mireille Bertrand",
+      "note": "5",
+      "date": "2024-06-10",
+      "titre": "Retour aux sources",
+      "contenu": "Je m'étais éloigné de ma passion première, l'enseignement, pour des raisons financières. Le bilan de compétences m'a aidé à réaliser que mon bonheur valait plus que mon salaire. Avec un plan d'action clair, j'ai repris des études pour obtenir mon agrégation, et maintenant, je suis de retour en classe, plus épanoui que jamais."
+    },
+    {
+      "auteur": "Antoine Gérard",
+      "note": "5",
+      "date": "2024-06-10",
+      "titre": "Une réorientation réussie",
+      "contenu": "Après avoir passé des années dans l'industrie de la finance, je sentais que quelque chose manquait. Le bilan de compétences a mis en lumière mon besoin de créativité. J'ai ainsi transitionné vers le marketing digital, où je peux utiliser à la fois mon esprit analytique et ma créativité. Cette nouvelle carrière a redynamisé ma vie professionnelle et personnelle."
+    },
+    {
+      "auteur": "Luna_Mystique",
+      "note": "4",
+      "date": "2024-06-07",
+      "titre": "Chemin clair vers le changement",
+      "contenu": "Déçu par mon précédent emploi, j'étais curieux de voir si un bilan de compétences pouvait m'offrir une meilleure direction. Le processus a révélé que j'avais une forte inclinaison pour le travail social, un domaine que je n'avais jamais considéré. Encouragé par ces découvertes, j'ai entrepris une formation spécialisée et j'occupe désormais un poste qui me donne la chance d'aider les autres quotidiennement. Je me sens enfin à ma place."
+    },
+    {
+      "auteur": "Fabien Laroche",
+      "note": "4",
+      "date": "2024-06-07",
+      "titre": "Un pas vers l'avenir",
+      "contenu": "Au début, je n'étais pas sûr de l'utilité d'un bilan de compétences pour quelqu'un comme moi, à mi-carrière. Cependant, le processus m'a aidé à identifier les domaines où je pouvais encore me développer. J'ai découvert un intérêt pour la gestion de projet et avec les conseils reçus, j'ai pu suivre une formation certifiante. Maintenant, je gère des projets d'envergure pour mon entreprise, un rôle que je n'aurais jamais envisagé avant ce bilan."
+    },
+    {
+      "auteur": "Elsa Moreau",
+      "note": "3",
+      "date": "2024-06-07",
+      "titre": "Un tournant inattendu",
+      "contenu": "L'idée d'un bilan de compétences me semblait étrange, mais ce fut une révélation. Je ne m'étais jamais considéré comme créatif, mais le processus a dévoilé une aptitude pour la création graphique. J'ai commencé à prendre des cours pour développer cette compétence, et maintenant, je gagne ma vie en tant que freelance, créant des logos et des designs pour divers clients. Chaque projet est un nouveau défi et une nouvelle chance de grandir."
+    },
+    {
+      "auteur": "Isabelle_Grace",
+      "note": "4",
+      "date": "2024-05-31",
+      "titre": "Découverte de soi",
+      "contenu": "Faire ce bilan a été comme ouvrir une fenêtre sur moi-même. J'ai réalisé que ce n'était pas tant le travail que je faisais qui me déplaisait, mais plutôt où je le faisais. Cette prise de conscience m'a poussé à changer d'entreprise plutôt que de métier, une décision qui a grandement amélioré ma qualité de vie et mon bien-être au travail. J'ai maintenant un poste similaire dans une entreprise qui valorise vraiment ses employés, et la différence est incroyable."
+    },
+    {
+      "auteur": "Julien Martel",
+      "note": "5",
+      "date": "2024-05-29",
+      "titre": "Changement gagnant",
+      "contenu": "Jamais je n'aurais cru dire ça, mais le bilan de compétences a changé ma vie. À travers les sessions, j'ai appris à mieux me connaître et à comprendre ce que je cherchais réellement dans ma vie professionnelle. Cette introspection m'a mené à une transition de carrière du marketing à l'enseignement, où je trouve maintenant un sens et une satisfaction que je n'avais jamais éprouvés auparavant. Les élèves m'apportent autant que j'espère leur apporter."
+    },
+    {
+      "auteur": "ClaraSunrise",
+      "note": "5",
+      "date": "2024-05-29",
+      "titre": "Nouveau départ",
+      "contenu": "J'étais sceptique quant à l'efficacité d'un bilan de compétences, mais j'avais tort. On m'a aidé à identifier les secteurs où mes compétences pouvaient être le mieux utilisées. J'ai toujours aimé travailler avec les gens, mais je ne savais pas comment transformer cette passion en carrière. Le coaching m'a ouvert les yeux sur les possibilités dans les ressources humaines. J'ai même décroché un stage qui a conduit à une offre d'emploi. Je suis maintenant plus heureux au travail que je ne l'ai jamais été."
+    },
+    {
+      "auteur": "Theo_Chase",
+      "note": "5",
+      "date": "2024-05-26",
+      "titre": "Retrouver sa voie",
+      "contenu": "Après des années dans le même domaine, je me sentais épuisé et sans inspiration. Le bilan de compétences était mon dernier recours pour voir si une réorientation était possible. C'était intimidant au début de déballer toute ma vie professionnelle, mais c'est là que j'ai découvert des aspects de mes compétences que j'avais sous-estimés. Grâce à ça, j'ai trouvé une nouvelle voie qui me passionne vraiment : le design d'intérieur. Je prends maintenant des cours du soir et je travaille sur des projets personnels pour bâtir mon portfolio. La motivation est de retour, et je me sens revigoré et excité par l'avenir."
+    },
+    {
+      "auteur": "Maxime Leroux",
+      "note": "5",
+      "date": "2024-05-26",
+      "titre": "Gagner en confiance avec un bilan",
+      "contenu": "J'étais au point mort dans ma carrière, sans vraiment savoir comment avancer ou changer de voie. J'ai décidé de tenter un bilan de compétences avec un peu de scepticisme. Mon coach a été un vrai soutien. Il a su écouter mes doutes et m'a poussé à explorer de nouvelles idées. On a identifié ensemble mes points forts et les compétences que je pouvais améliorer. Le processus n'était pas toujours simple, je me suis senti parfois perdu, surtout quand il fallait creuser des aspects de ma personnalité ou de ma carrière que j'avais tendance à ignorer. Mais, petit à petit, j'ai vu le chemin à prendre. Maintenant, je sais dans quelle direction je veux aller, et surtout, je me sens capable de faire les changements nécessaires. C'est rassurant de se sentir épaulé et guidé comme ça."
+    },
+    {
+      "auteur": "Amélie Gaillard",
+      "note": "5",
+      "date": "2024-05-24",
+      "titre": "Je suis ravie d'avoir investi dans ce…",
+      "contenu": "Je suis ravie d'avoir investi dans ce parcours - après quelques hésitations. Si j'étais encore dans le flou pendant une bonne partie du parcours, les choses se sont soudain éclairées de manière très logique et en résultat des activités et réflexions des mois précédents. J'ai soudain compris que le parcours était vachement bien pensé et que, s'il on faisait l'effort de jouer le jeu à fond (pas si facile!), on finissait par voir plus clair quant à la suite! En l'occurrence, je me dirige vers un métier que j'aurais pu repérer depuis bien longtemps par moi-même, mais duquel j'avais une image un peu tronquée. Je pensais également devoir opérer un changement à 180° pour trouver mon équilibre, et il s'avère qu'un changement à 90° est largement suffisant et exactement ce qu'il me faut, ça me rassure! Aujourd'hui, je suis totalement en confiance et j'ai l'envie de bouger dans la direction que j'ai choisie!"
+    },
+    {
+      "auteur": "Héloïse Lefevre",
+      "note": "4",
+      "date": "2024-05-23",
+      "titre": "J'ai entamé le parcours principalement…",
+      "contenu": "J'ai entamé le parcours principalement pour reprendre confiance en mes compétences. Faire le point. Relire mon passer pour mieux installer mon futur. Mon coach m'a aidé à franchir chaque étape avec succès. Il m'a permis de prendre du recul et du temps pour clarifier mes envies et besoins. Aujourd'hui, j'ai repris confiance en moi et j'ai obtenu le job pour lequel je ne me sentais absolument pas légitime !"
+    },
+    {
+      "auteur": "Pauline Dupuis",
+      "note": "4",
+      "date": "2024-05-23",
+      "titre": "Au début c’était du hasard",
+      "contenu": "Au début c’était du hasard, ensuite c’était pourquoi pas, et finalement on y est arrivé ! Grâce à un super coach qui m’a accompagné et soutenu tout le long !!!"
+    },
+    {
+      "auteur": "Charlotte Morel",
+      "note": "5",
+      "date": "2024-05-21",
+      "titre": "J'ai pu démarrer mon bilan de…",
+      "contenu": "J'ai pu démarrer mon bilan de compétences tout en travaillant grace à l'amplitude horaire de disponibilité des coaches et les entretiens en visio conférence. J'ai vécu une belle expérience, un temps de recentrage sur ma vie professionnelle et personnelle accompagnée par ma coach, très à l'écoute et force de propositions. Je recommande vraiment cette expérience à celles et ceux qui cherchent à faire le point sur leur vie professionnelle via une approche dynamique et conviviale."
+    },
+    {
+      "auteur": "Élise Vincent",
+      "note": "4",
+      "date": "2024-05-21",
+      "titre": "Une super expérience vraiment très…",
+      "contenu": "Une super expérience vraiment très enrichissante qui m'as permis de faire le point sur moi même et de définir avec mon coach le projet qui me conviens. je recommande sans aucune hésitation !!!"
+    },
+    {
+      "auteur": "Marie Leroy",
+      "note": "5",
+      "date": "2024-05-19",
+      "titre": "Expérience très riche qui m'a vraiment…",
+      "contenu": "Expérience très riche qui m'a vraiment aidé à avancer, aussi bien côté pro que perso ! Donc un grand merci ! et, aussi et surtout, à ma coach qui est une personne extraordinaire"
+    },
+    {
+      "auteur": "Zoé Michel",
+      "note": "4",
+      "date": "2024-05-19",
+      "titre": "Un bilan pas comme les autres qui…",
+      "contenu": "Un bilan pas comme les autres qui permet d'apprendre sur soi. J'ai été accompagné par une super coach qui a su me faire prendre confiance en moi et je sors de cette expérience avec un projet qui me correspond. Je ne peux que vous recommander cette expérience si vous ne savez plus ou vous en êtes sur le plan professionnel."
+    },
+    {
+      "auteur": "Juliette Simon",
+      "note": "5",
+      "date": "2024-05-18",
+      "titre": "Le bilan de compétence m’a vraiment…",
+      "contenu": "Le bilan de compétence m’a vraiment aidé pour savoir reconnaître mes compétences et tout ce que j’avais appris depuis le début de ma vie active. Ma coach m’a permise de prendre conscience de plein de choses. Je recommande le bilan de compétences si comme moi vous êtes perdu dans votre vie pro. Les coachs mettent tout en œuvre pour vous. Toute l’équipe est au top"
+    },
+    {
+      "auteur": "Sarah Moreau",
+      "note": "5",
+      "date": "2024-05-17",
+      "titre": "Faire un bilan de compétences est une…",
+      "contenu": "Faire un bilan de compétences est une belle expérience, enrichissante, tant sur le plan humain que professionnel. On se (re)découvre, on explore, on en apprend plus sur notre propre fonctionnement. L'accompagnement est très qualitatif, encore merci à ma coach pour ce partage et pour sa bienveillance."
+    },
+    {
+      "auteur": "Camille Robert",
+      "note": "4",
+      "date": "2024-05-17",
+      "titre": "Un bilan de compétences 100% en ligne…",
+      "contenu": "Un bilan de compétences 100% en ligne et donc adaptable à la vie de tous ! Je ne peux que recommander aux personnes qui sont en quête de sens au travail. Vous verrez la solution n’est pas forcément de tout plaquer."
+    }
+  ],
+  "www.monclair-conseil.fr": [
+    {
+      "auteur": "Samuel Lefort",
+      "note": "4",
+      "date": "2025-04-13",
+      "titre": "Intégration fluide dans notre organisation",
+      "contenu": "Ils se sont parfaitement intégrés à notre façon de fonctionner, sans alourdir les process. Le reporting a été adapté à nos outils, les échanges sont efficaces et les décisions prises rapidement. Ce type de collaboration nous manquait."
+    },
+    {
+      "auteur": "Thibault Mercier",
+      "note": "5",
+      "date": "2025-04-12",
+      "titre": "Campagne commerciale sur un produit en difficulté",
+      "contenu": "Un de nos produits n’atteignait pas ses objectifs. Plutôt que de l’abandonner, nous avons mené avec Monclair-Conseil une campagne ciblée sur des niches bien identifiées. Ils ont redéfini le discours, testé plusieurs accroches et piloté les relances. Les ventes ont redémarré doucement mais sûrement."
+    },
+    {
+      "auteur": "Maxime Bertier",
+      "note": "5",
+      "date": "2025-04-12",
+      "titre": "Ne pouvant pas internaliser un manager…",
+      "contenu": "Ne pouvant pas internaliser un manager commercial à plein temps, on a confié cette mission à Monclair-Conseil. Ils assurent un suivi hebdomadaire de nos commerciaux en visio, avec analyse des résultats, coaching individuel et plan d’action ajusté. L’équipe est plus autonome, mais mieux cadrée"
+    },
+    {
+      "auteur": "Nicolas Roux",
+      "note": "5",
+      "date": "2025-04-12",
+      "titre": "Amélioration de notre taux de signature",
+      "contenu": "Après audit de notre parcours de vente, plusieurs points de friction ont été identifiés. Ils nous ont fait retravailler nos emails de relance, nos scripts d’appel et nos propositions commerciales. Depuis, notre taux de signature est passé de 21 % à 34 %."
+    },
+    {
+      "auteur": "Kévin Delgado",
+      "note": "4",
+      "date": "2025-04-10",
+      "titre": "Réduction de notre turnover commercial",
+      "contenu": "Nous avions du mal à stabiliser notre équipe commerciale. Monclair-Conseil nous a proposé une solution hybride : encadrement à distance, objectifs personnalisés et indicateurs de performance visibles en temps réel. En 6 mois, on a arrêté l’hémorragie."
+    },
+    {
+      "auteur": "Yann Thomas",
+      "note": "5",
+      "date": "2025-04-10",
+      "titre": "Travail sectoriel très fin",
+      "contenu": "Ce que j’ai apprécié, c’est leur capacité à comprendre les spécificités de notre secteur (service aux collectivités locales). Ils ont construit une approche commerciale sur mesure, avec un ton et un rythme d’action qui collent aux temporalités du secteur public."
+    },
+    {
+      "auteur": "Loïc Marchal",
+      "note": "5",
+      "date": "2025-04-10",
+      "titre": "Gestion rigoureuse des leads entrants",
+      "contenu": "Nous recevions des leads via nos canaux digitaux, mais leur traitement était irrégulier. L’équipe de Monclair-Conseil nous a aidés à prioriser, tracer et scorer chaque contact. Aujourd’hui, 100 % des leads sont appelés dans les 48h, et on sait d’où vient chaque client. Merci."
+    },
+    {
+      "auteur": "Alexis Fontaine",
+      "note": "4",
+      "date": "2025-04-09",
+      "titre": "40 % de croissance sur sept mois",
+      "contenu": "Suite à un changement de cap, nous avons réorganisé notre fonctionnement commercial avec leur appui. Nouvelles méthodes de suivi des leads, un outil CRM bien paramétré, et une meilleure coordination entre les équipes internes et externes. Résultat concret : +40 % de chiffre d’affaires en 7 mois."
+    },
+    {
+      "auteur": "Rachid Benali",
+      "note": "5",
+      "date": "2025-04-09",
+      "titre": "Prise en main totale de la prospection",
+      "contenu": "Nous avons décidé de leur confier l’ensemble de notre prospection commerciale, que ce soit pour la qualification, les relances, ou la prise de rendez-vous. Monclair-Conseil a mis en place une cellule externalisée qui fonctionne à distance, avec des points hebdomadaires. En quatre mois, notre pipeline est plus fourni qu’il ne l’a jamais été. Merci."
+    },
+    {
+      "auteur": "Anthony Gérard",
+      "note": "5",
+      "date": "2025-04-09",
+      "titre": "Argumentaire de vente enfin cohérent",
+      "contenu": "Avant d’échanger avec Monclair-Conseil, notre discours commercial variait énormément selon les interlocuteurs. Avec leur aide, on a formalisé un argumentaire structuré et progressif, adapté à nos trois cibles principales. Chaque commercial dispose maintenant d’une trame claire et d'exemples concrets à utiliser selon les situations. On gagne du temps, et nos prospects comprennent mieux notre valeur ajoutée. Merci"
+    },
+    {
+      "auteur": "Vanessa Aubry",
+      "note": "5",
+      "date": "2025-04-08",
+      "titre": "Des décisions enfin alignées avec notre ambition",
+      "contenu": "Nous avions tendance à multiplier les projets sans toujours les relier à un cap clair. L’accompagnement nous a aidés à faire le tri, à hiérarchiser ce qui comptait vraiment. Leur force, c’est de poser des questions simples mais structurantes. Depuis, nos décisions sont plus cohérentes avec notre vision, et on avance avec plus de sérénité."
+    },
+    {
+      "auteur": "Romain Lefèvre",
+      "note": "4",
+      "date": "2025-04-08",
+      "titre": "Apprendre à piloter, pas juste à gérer",
+      "contenu": "Ce que j’ai particulièrement apprécié, c’est qu’on n’a pas reçu une liste de choses à faire, mais un vrai cadre de réflexion. L’équipe de Monclair-Conseil nous a accompagnés pour passer d’un mode gestion au jour le jour à une logique de pilotage stratégique, plus anticipatrice. Cela nous permet aujourd’hui de mieux répartir notre énergie et d’anticiper les évolutions du marché."
+    },
+    {
+      "auteur": "Julien Perrin",
+      "note": "4",
+      "date": "2025-04-07",
+      "titre": "Repenser nos ventes, sans tout casser",
+      "contenu": "Nous avions l’impression de faire du surplace côté ventes, sans que ce soit catastrophique. L’intervention de Monclair-Conseil nous a permis d’y voir plus clair, de remettre en question certaines habitudes sans tout chambouler. Leur façon de poser les bonnes questions, de faire parler les chiffres, nous a permis d’ajuster notre manière de vendre avec pragmatisme. En quelques mois, notre équipe a retrouvé du rythme et de la confiance."
+    },
+    {
+      "auteur": "Sonia Delattre",
+      "note": "5",
+      "date": "2025-04-07",
+      "titre": "Une vision plus lucide de notre marché",
+      "contenu": "Nous étions trop centrés sur notre propre fonctionnement et avions du mal à prendre du recul sur notre positionnement. Leur approche a consisté à recadrer notre offre par rapport à notre environnement, à questionner la logique de nos actions commerciales. Ça nous a permis de nous recentrer sur nos vrais leviers de croissance."
+    },
+    {
+      "auteur": "Philippe Besson",
+      "note": "5",
+      "date": "2025-04-05",
+      "titre": "S’adapter au digital",
+      "contenu": "Nous savions qu’il fallait évoluer, mais les outils digitaux nous paraissaient lourds et peu adaptés à notre métier. Ce qui a été appréciable avec Monclair-Conseil, c’est qu’ils ne sont pas arrivés avec une solution toute faite. Ils ont pris le temps de comprendre notre fonctionnemen"
+    },
+    {
+      "auteur": "Élodie Bernard",
+      "note": "5",
+      "date": "2025-04-05",
+      "titre": "Transformer nos pratiques de management",
+      "contenu": "On ressentait une tension diffuse dans l’équipe, sans conflit ouvert, mais quelque chose de bloqué. Les consultants de Monclair-Conseil nous ont aidés à poser les bons mots, à identifier des points de blocage managérial que nous ne voyions plus. À la clé : une communication plus fluide et des collaborateurs qui retrouvent de l’autonomie. Ça a redonné de l’élan au quotidien."
+    },
+    {
+      "auteur": "Damien Roche",
+      "note": "4",
+      "date": "2025-04-04",
+      "titre": "Passer un cap dans notre gestion",
+      "contenu": "Nous étions souvent dans la réaction, et trop rarement dans l’anticipation. Grâce à leur accompagnement, nous avons repris la main sur nos finances : tableau de bord clair, alertes en amont, lecture simplifiée de nos flux. Ce n’est pas spectaculaire, mais c’est ce qui nous manquait pour passer un cap en confiance."
+    },
+    {
+      "auteur": "Isabelle Martinet",
+      "note": "4",
+      "date": "2025-04-04",
+      "titre": "Clarifier notre direction commerciale",
+      "contenu": "On avait des idées, de la volonté, mais un peu de dispersion. Ce qui a fait la différence avec Monclair-Conseil, c’est leur capacité à canaliser notre énergie dans une direction claire. On a redéfini nos priorités, simplifié nos offres, mieux ciblé nos efforts. Tout ne s’est pas joué en un mois, mais l’effet a été immédiat sur notre organisation et notre efficacité commerciale."
+    },
+    {
+      "auteur": "Marc Le Gall",
+      "note": "5",
+      "date": "2025-04-02",
+      "titre": "Un nouveau souffle pour notre relation client",
+      "contenu": "Nous pensions bien connaître nos clients, mais la démarche menée par Monclair-Conseil a mis en évidence plusieurs angles morts dans notre parcours client. À partir d’ateliers, de données analysées finement et de propositions concrètes, nous avons réorganisé nos points de contact. Résultat : des retours plus positifs et une vraie fidélité qui s’installe."
+    },
+    {
+      "auteur": "Claire Dufresne",
+      "note": "5",
+      "date": "2025-04-03",
+      "titre": "Structurer pour mieux avancer",
+      "contenu": "Notre activité avait grossi rapidement, mais sans réelle colonne vertébrale. En travaillant avec Monclair-Conseil, nous avons enfin structuré notre fonctionnement : des process plus fluides, une meilleure répartition des rôles, et des indicateurs qui ont du sens. Rien d’imposé, tout a été construit avec nous. Aujourd’hui, on se sent beaucoup plus solides."
+    }
+  ]
+}
