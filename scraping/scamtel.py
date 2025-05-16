@@ -1,4 +1,6 @@
+import gc
 import json
+import random
 import time
 from typing import List
 
@@ -28,11 +30,12 @@ def search_scamtel(driver, phone: str):
     input_field.send_keys(Keys.RETURN)
 
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "comment-add-form")))
-    time.sleep(2)
+    time.sleep(random.uniform(1.5, 3))  # délai naturel après recherche
 
 
 def extract_reviews(driver) -> List[str]:
     reviews = []
+
     avis_elements = driver.find_elements(By.CSS_SELECTOR, ".comment-list-item")
     if not avis_elements:
         return []
@@ -52,9 +55,11 @@ def extract_reviews(driver) -> List[str]:
             next_url = next_button.get_attribute("href")
             if not next_url:
                 break
+
+            time.sleep(random.uniform(2, 4))  # délai avant pagination
             driver.get(next_url)
+
             WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "comment-add-form")))
-            time.sleep(2)
         except Exception:
             break
 
@@ -78,7 +83,13 @@ def scrape_scamtel(mode: str = "check") -> dict:
             except Exception as e:
                 log(f"[SCAMTEL] ❌ Erreur pour {phone} : {e}")
                 all_avis[phone] = []
+
+            # délai aléatoire entre les numéros
+            time.sleep(random.uniform(3.5, 6))
+
     finally:
         driver.quit()
+        del driver
+        gc.collect()
 
     return compare_results("scamtel", all_avis, mode)

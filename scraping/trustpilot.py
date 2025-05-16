@@ -1,4 +1,5 @@
 import json
+import random
 import time
 
 from selenium.webdriver.common.by import By
@@ -29,7 +30,7 @@ def scrape_trustpilot(mode: str = "check") -> dict:
 
             try:
                 driver.get(url)
-                time.sleep(4)
+                time.sleep(random.uniform(4.5, 6.5))  # 🔁 délai humain simulé
 
                 avis_list = []
                 current_page = 1
@@ -84,16 +85,16 @@ def scrape_trustpilot(mode: str = "check") -> dict:
                             except Exception as e:
                                 log(f"[TRUSTPILOT] Erreur dans un avis : {e}")
 
-                        # pagination
+                        # Pagination
                         try:
                             next_btn = driver.find_element(
                                 By.CSS_SELECTOR, 'a[data-pagination-button-next-link="true"]'
                             )
                             next_url = next_btn.get_attribute("href")
                             if next_url:
+                                time.sleep(random.uniform(2.5, 4))  # délai pagination
                                 driver.get(next_url)
                                 current_page += 1
-                                time.sleep(2)
                             else:
                                 break
                         except Exception:
@@ -105,6 +106,8 @@ def scrape_trustpilot(mode: str = "check") -> dict:
 
                 log(f"[TRUSTPILOT] ✅ {len(avis_list)} avis pour {site}")
                 all_avis[site] = avis_list
+
+                time.sleep(random.uniform(3.5, 6))  # 🔁 pause entre les sites
 
             except Exception as e:
                 log(f"[TRUSTPILOT] ❌ Erreur sur {site} : {e}")

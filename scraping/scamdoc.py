@@ -1,4 +1,6 @@
+import gc
 import json
+import random
 import time
 from typing import List
 
@@ -23,14 +25,15 @@ def accept_cookies_if_present(driver):
             EC.element_to_be_clickable((By.XPATH, "//button//span[text()=\"J'ACCEPTE\"]"))
         ).click()
         log("[SCAMDOC] ✅ Consentement cookies accepté.")
-        time.sleep(1)
+        time.sleep(random.uniform(0.5, 1.5))
     except Exception:
         log("[SCAMDOC] Aucun popup cookies détecté.")
 
 
 def search_scamdoc(driver, query: str):
     driver.get("https://fr.scamdoc.com/")
-    time.sleep(5)
+    time.sleep(random.uniform(4, 6))  # pause initiale
+
     accept_cookies_if_present(driver)
 
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "search_input")))
@@ -42,11 +45,12 @@ def search_scamdoc(driver, query: str):
     driver.find_element(By.ID, "search-load").click()
 
     WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "comment-add-form")))
-    time.sleep(1)
+    time.sleep(random.uniform(1.5, 3))  # pause après chargement
 
 
 def extract_reviews(driver) -> List[str]:
     reviews = []
+
     avis_elements = driver.find_elements(By.CSS_SELECTOR, ".comment-list-item")
     if not avis_elements:
         return []
@@ -66,9 +70,11 @@ def extract_reviews(driver) -> List[str]:
             next_url = next_button.get_attribute("href")
             if not next_url:
                 break
+
+            time.sleep(random.uniform(2, 4))  # pause avant pagination
             driver.get(next_url)
             WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "comment-add-form")))
-            time.sleep(2)
+
         except Exception:
             break
 
@@ -92,7 +98,12 @@ def scrape_scamdoc(mode: str = "check") -> dict:
             except Exception as e:
                 log(f"[SCAMDOC] ❌ Erreur pour {target} : {e}")
                 all_avis[target] = []
+
+            time.sleep(random.uniform(3, 6))  # pause entre cibles
+
     finally:
         driver.quit()
+        del driver
+        gc.collect()
 
     return compare_results("scamdoc", all_avis, mode)
