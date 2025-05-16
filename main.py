@@ -1,14 +1,10 @@
-import os
 import sys
 
-from dotenv import load_dotenv
-
-from scraping.scamdoc import scrape_scandoc_all
+from core.logger import log
+from core.mailer import send_global_report
+from scraping.scamdoc import scrape_scamdoc
 from scraping.scamtel import scrape_scamtel
-from scraping.trustpilot import scrape_all_trustpilot_sites
-
-sys.path.append(os.path.abspath("."))
-load_dotenv()
+from scraping.trustpilot import scrape_trustpilot
 
 
 def main():
@@ -17,14 +13,17 @@ def main():
         return
 
     mode = sys.argv[1]
-    assert mode in ["init", "check"], "Mode invalide : utilisez init ou check"
+    assert mode in ["init", "check"]
 
-    print(f"▶️ Mode sélectionné : {mode}\n")
+    log(f"▶️ Mode sélectionné : {mode}")
 
-    # Lancer tous les scrapers
-    scrape_all_trustpilot_sites(mode)
-    scrape_scandoc_all(mode)
-    scrape_scamtel(mode)
+    reports = []
+    reports.append(scrape_trustpilot(mode))
+    reports.append(scrape_scamdoc(mode))
+    reports.append(scrape_scamtel(mode))
+
+    if mode == "check":
+        send_global_report(reports)
 
 
 if __name__ == "__main__":
