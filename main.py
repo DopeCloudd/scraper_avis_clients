@@ -18,10 +18,29 @@ def main():
     log(f"▶️ Mode sélectionné : {mode}")
 
     reports = []
-    reports.append(scrape_trustpilot(mode))
-    reports.append(scrape_scamdoc(mode))
-    reports.append(scrape_scamtel(mode))
 
+    # Trustpilot
+    try:
+        reports.append(scrape_trustpilot(mode))
+    except Exception as e:
+        log(f"[TRUSTPILOT] ❌ Erreur critique : {e}")
+        reports.append({"scraper": "trustpilot", "new": False, "count": 0, "targets": [], "error": True})
+
+    # Scamdoc
+    try:
+        reports.append(scrape_scamdoc(mode))
+    except Exception as e:
+        log(f"[SCAMDOC] ❌ Erreur critique : {e}")
+        reports.append({"scraper": "scamdoc", "new": False, "count": 0, "targets": [], "error": True})
+
+    # Scamtel
+    try:
+        reports.append(scrape_scamtel(mode))
+    except Exception as e:
+        log(f"[SCAMTEL] ❌ Erreur critique : {e}")
+        reports.append({"scraper": "scamtel", "new": False, "count": 0, "targets": [], "error": True})
+
+    # Envoi du rapport si mode = check
     if mode == "check":
         send_global_report(reports)
 
