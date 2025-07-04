@@ -102,8 +102,12 @@ def scrape_scamdoc(mode: str = "check") -> dict:
             time.sleep(random.uniform(3, 6))  # pause entre cibles
 
     finally:
-        driver.quit()
-        del driver
-        gc.collect()
+        try:
+            driver.quit()
+        except Exception as e:
+            log(f"[SCAMDOC] Erreur lors de la fermeture du driver : {e}")
+        finally:
+            del driver
+            gc.collect()
 
     return compare_results("scamdoc", all_avis, mode)

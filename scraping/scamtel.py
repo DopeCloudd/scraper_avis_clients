@@ -88,8 +88,12 @@ def scrape_scamtel(mode: str = "check") -> dict:
             time.sleep(random.uniform(3.5, 6))
 
     finally:
-        driver.quit()
-        del driver
-        gc.collect()
+        try:
+            driver.quit()
+        except Exception as e:
+            log(f"[SCAMDOC] Erreur lors de la fermeture du driver : {e}")
+        finally:
+            del driver
+            gc.collect()
 
     return compare_results("scamtel", all_avis, mode)

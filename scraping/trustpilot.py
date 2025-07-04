@@ -114,6 +114,11 @@ def scrape_trustpilot(mode: str = "check") -> dict:
                 all_avis[site] = []
 
     finally:
-        driver.quit()
+        try:
+            driver.quit()
+        except Exception as e:
+            log(f"[SCAMDOC] Erreur lors de la fermeture du driver : {e}")
+        finally:
+            del driver
 
     return compare_results("trustpilot", all_avis, mode)
