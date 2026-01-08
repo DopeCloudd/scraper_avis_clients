@@ -1,4 +1,3 @@
-import gc
 import json
 import random
 import time
@@ -10,7 +9,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 from core.logger import log
 from core.result_collector import compare_results
-from scraping.driver import get_stealth_driver
+from scraping.driver import managed_driver
 
 
 def load_targets(path: str) -> List[str]:
@@ -85,9 +84,7 @@ def scrape_scamdoc(mode: str = "check") -> dict:
     targets = load_targets("data/listing.json")
     all_avis = {}
 
-    driver = get_stealth_driver(headless=False)
-
-    try:
+    with managed_driver(headless=False) as driver:
         for target in targets:
             log(f"[SCAMDOC] Recherche de : {target}")
             try:
@@ -100,14 +97,5 @@ def scrape_scamdoc(mode: str = "check") -> dict:
                 all_avis[target] = []
 
             time.sleep(random.uniform(3, 6))  # pause entre cibles
-
-    finally:
-        try:
-            driver.quit()
-        except Exception as e:
-            log(f"[SCAMDOC] Erreur lors de la fermeture du driver : {e}")
-        finally:
-            del driver
-            gc.collect()
 
     return compare_results("scamdoc", all_avis, mode)

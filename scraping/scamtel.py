@@ -1,4 +1,3 @@
-import gc
 import json
 import random
 import time
@@ -11,7 +10,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 from core.logger import log
 from core.result_collector import compare_results
-from scraping.driver import get_stealth_driver
+from scraping.driver import managed_driver
 
 
 def load_phones(path: str) -> List[str]:
@@ -70,9 +69,7 @@ def scrape_scamtel(mode: str = "check") -> dict:
     phones = load_phones("data/listing.json")
     all_avis = {}
 
-    driver = get_stealth_driver(headless=False)
-
-    try:
+    with managed_driver(headless=False) as driver:
         for phone in phones:
             log(f"[SCAMTEL] Recherche de : {phone}")
             try:
@@ -86,14 +83,5 @@ def scrape_scamtel(mode: str = "check") -> dict:
 
             # délai aléatoire entre les numéros
             time.sleep(random.uniform(3.5, 6))
-
-    finally:
-        try:
-            driver.quit()
-        except Exception as e:
-            log(f"[SCAMDOC] Erreur lors de la fermeture du driver : {e}")
-        finally:
-            del driver
-            gc.collect()
 
     return compare_results("scamtel", all_avis, mode)

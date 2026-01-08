@@ -8,7 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 
 from core.logger import log
 from core.result_collector import compare_results
-from scraping.driver import get_stealth_driver
+from scraping.driver import managed_driver
 
 
 def get_trustpilot_sites():
@@ -20,9 +20,7 @@ def get_trustpilot_sites():
 def scrape_trustpilot(mode: str = "check") -> dict:
     sites = get_trustpilot_sites()
     all_avis = {}
-    driver = get_stealth_driver(headless=False)
-
-    try:
+    with managed_driver(headless=False) as driver:
         for site in sites:
             domain = site.replace("www.", "").strip()
             url = f"https://fr.trustpilot.com/review/{domain}"
@@ -112,13 +110,5 @@ def scrape_trustpilot(mode: str = "check") -> dict:
             except Exception as e:
                 log(f"[TRUSTPILOT] ❌ Erreur sur {site} : {e}")
                 all_avis[site] = []
-
-    finally:
-        try:
-            driver.quit()
-        except Exception as e:
-            log(f"[SCAMDOC] Erreur lors de la fermeture du driver : {e}")
-        finally:
-            del driver
 
     return compare_results("trustpilot", all_avis, mode)
